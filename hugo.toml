@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+
+theme = "hugo-book"
+BookMenuBundle = "/docs/menu"
+[params]
+	BookLogo = "logo.png"
