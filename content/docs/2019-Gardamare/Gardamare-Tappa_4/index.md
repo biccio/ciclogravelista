@@ -17,7 +17,7 @@ categories:
 # Gardamare Tappa 4
 ---
 
-> _Da Ferrara a Mesola, dove non c'è molto da vedere, se non il Po, che è immenso, maestoso e silenzioso. Ma se c'è qualcosa che deve rompersi, è proprio qui che probabilmente succede. E infatti._
+ _Da Ferrara a Mesola, dove non c'è molto da vedere, se non il Po, che è immenso, maestoso e silenzioso. Ma se c'è qualcosa che deve rompersi, è proprio qui che probabilmente succede. E infatti._
 
 
 
