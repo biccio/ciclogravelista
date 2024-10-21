@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f63d5e183c5389",
+        "id": "c6c7b0bc51439b12",
         "type": "tabs",
         "children": [
           {
-            "id": "d0af0d3568a6047c",
+            "id": "d631ec558676ebd9",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "static/logo.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/logo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/logo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "static/logo.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d433b5385ca2450",
+  "active": "d631ec558676ebd9",
   "lastOpenFiles": [
+    "static/logo.png",
     "public/book.min.7619c831de88e60140441cdfd3954f785afa10049086dffcd42fe7427e13d352.css",
     "public/book.min.9f032f90eecef0da60ddc49db84b5d3f967af71fe7a17fa6e6251a83990f98ff.css"
   ]

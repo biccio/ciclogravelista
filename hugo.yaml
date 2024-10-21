@@ -1,0 +1,31 @@
+baseURL: "https://example.org/"
+languageCode: 'en-us'
+theme: hextra
+menu:
+  main:
+    - name: I miei viaggi
+      pageRef: /docs
+      weight: 1
+    - name: La bici dell'anima
+      pageRef: /about
+      weight: 2
+    - name: Cerca
+      weight: 3
+      params:
+        type: search
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      link: /
+      width: 250
+      height: 45

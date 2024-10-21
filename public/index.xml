@@ -1,40 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on </title>
+    <title> – Hextra Theme</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Introduction on </description>
-    <generator>Hugo</generator>
+    <description>Recent content in Hextra Theme on </description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 09:40:25 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GardaMare Tappa 2</title>
-      <link>http://localhost:1313/docs/gardamare/gardamare-tappa_2/</link>
-      <pubDate>Sat, 29 Jun 2019 15:25:31 +0000</pubDate>
-      <guid>http://localhost:1313/docs/gardamare/gardamare-tappa_2/</guid>
-      <description>&lt;h1 id=&#34;gardamare-tappa-2&#34;&gt;&#xA;  Gardamare Tappa 2&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#gardamare-tappa-2&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Da Mantova a Ostiglia, dove all’inizio sembra la tangenziale controvento poi dopo è solo controvento&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Sono partito da Mantova tardi, perché all’agriturismo non potevo fare colazione prima delle 8, e quando ho cominciato a incartarmi per trovare la strada tra statali e semafori viaggiando contro una ventazza tosta, ho capito subito che oggi sarebbe stata una questione di disciplina e testa dura.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;01-1024x768.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;L’obiettivo era percorrere almeno 60km per poter dividere bene in due la strada per Ferrara, sperando di poter procedere con maggior dolcezza appena fuori la città. E infatti, arrivato non senza qualche difficoltà a Bagnolo San Vito, la situazione cambia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GardaMare Tappa 3</title>
-      <link>http://localhost:1313/docs/gardamare/gardamare-tappa_3/</link>
-      <pubDate>Sun, 30 Jun 2019 16:02:30 +0000</pubDate>
-      <guid>http://localhost:1313/docs/gardamare/gardamare-tappa_3/</guid>
-      <description>&lt;h1 id=&#34;gardamare-tappa-3&#34;&gt;&#xA;  Gardamare Tappa 3&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#gardamare-tappa-3&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Da Ostiglia a Ferrara, dove ho incontrato qualche persona, qualche storia, e persino una poesia&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Oggi sono partito un pochino più presto e senza vento contro, ma ho pur sempre fatto 80km di cui gli ultimi bruttini, che forse potevo evitare (ma mica l’ho capito).&lt;/p&gt;&#xA;&lt;p&gt;Alle 8 ero già sul ponte di Revere sul Po (vertigini, vertigini…) passato il quale mi sono diretto sulla ciclovia Destra Po. Il percorso è piacevole, è molto bello guardare il Po a sinistra e i micro paesini d’argine sulla destra (nella brutta foto controluce qui sotto Bonizzo)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GardaMare Tappa 4</title>
-      <link>http://localhost:1313/docs/gardamare/gardamare-tappa_4/</link>
-      <pubDate>Mon, 01 Jul 2019 17:42:55 +0000</pubDate>
-      <guid>http://localhost:1313/docs/gardamare/gardamare-tappa_4/</guid>
-      <description>&lt;h1 id=&#34;gardamare-tappa-4&#34;&gt;&#xA;  Gardamare Tappa 4&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#gardamare-tappa-4&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Da Ferrara a Mesola, dove non c&amp;rsquo;è molto da vedere, se non il Po, che è immenso, maestoso e silenzioso. Ma se c&amp;rsquo;è qualcosa che deve rompersi, è proprio qui che probabilmente succede. E infatti.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;01-1024x768.jpg&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;Da Ferrara a Mesola ci sono circa 70km dove non c’è molto da vedere, se non il Po, che è immenso, maestoso e silenzioso. Ma se c’è qualcosa che deve rompersi, è proprio qui che probabilmente succede. E infatti.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GardaMare Tappa 5</title>
-      <link>http://localhost:1313/docs/gardamare/gardamare-tappa_5/</link>
-      <pubDate>Wed, 03 Jul 2019 09:40:25 +0000</pubDate>
-      <guid>http://localhost:1313/docs/gardamare/gardamare-tappa_5/</guid>
-      <description>&lt;h1 id=&#34;gardamare-tappa-5&#34;&gt;&#xA;  Gardamare Tappa 5&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#gardamare-tappa-5&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Da Mesola a Pomposa passando dal mare. Con mezz’ora di videogame dal vivo&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Questa volta sono partito senza tracce per il navigatore, perché volevo arrivare al mare chiedendo informazioni e orientandomi da solo. Vai a sapere che mi sarei trovato anche dentro un videogioco dal vivo.&lt;/p&gt;&#xA;&lt;p&gt;Quante cose in questi ultimi 50km del mio viaggio. La terra del delta del Po è piena di meraviglie, naturali e costruite dall’uomo, e più di una volta sono rimasto a bocca aperta, estasiato da ciò che avevo davanti ai miei occhi. La prima volta è successo davanti a Torre Abate, a pochi metri dal rifugio dove ho passato la notte. Il manufatto è una splendida opera di ingegneria idraulica costruita nel 1569 durante la Bonifica Estense, con il compito di difesa dalle acque e controllo. È un posto magico, che ho avuto la fortuna di ammirare anche al tramonto la sera prima di partire.&lt;/p&gt;</description>
-    </item>
+    
+	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
   </channel>
 </rss>

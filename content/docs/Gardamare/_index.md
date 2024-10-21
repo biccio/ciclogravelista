@@ -1,60 +1,19 @@
 ---
+title: Gardamare [2019]
 weight: 1
-bookFlatSection: false
-bookCollapseSection : true
-title: "Gardamare"
+prev: /docs/getting-started
+next: /docs/guide/organize-files
+sidebar:
+  open: false
 ---
 
 
 
-{{< columns >}}
+<!--more-->
 
-[![alt](/docs/2019-Gardamare/Gardamare-Tappa_1/01-1024x768.jpg)](gardamare-tappa_1/) 
-<--->
-## [Gardamare Tappa 1](gardamare-tappa_1/)
-La Pista Ciclabile del Mincio da Peschiera del Garda a Mantova, dove il cuore si spalanca inaspettatamente
-
-{{< /columns >}}
-
-
-{{< columns >}}
-
-[![alt](/docs/2019-Gardamare/Gardamare-Tappa_2/01-1024x768.jpg)](gardamare-tappa_2/) 
-<--->
-## [Gardamare Tappa 2](gardamare-tappa_2/)
-Da Mantova a Ostiglia, dove all’inizio sembra la tangenziale controvento poi dopo è solo controvento
-{{< /columns >}}
-
-
-{{< columns >}}
-
-[![alt](/docs/2019-Gardamare/Gardamare-Tappa_3/01-1024x768.jpg)](gardamare-tappa_3/) 
-<--->
-## [Gardamare Tappa 3](gardamare-tappa_3/)
-Da Ostiglia a Ferrara, dove ho incontrato qualche persona, qualche storia, e persino una poesia
-{{< /columns >}}
-
-{{< columns >}}
-
-[![alt](/docs/2019-Gardamare/Gardamare-Tappa_4/01-1024x768.jpg)](gardamare-tappa_4/) 
-<--->
-## [Gardamare Tappa 4](gardamare-tappa_4/)
-Da Ferrara a Mesola, dove non c’è molto da vedere, se non il Po, che è immenso, maestoso e silenzioso. Ma se c’è qualcosa che deve rompersi, è proprio qui che probabilmente succede. E infatti.
-{{< /columns >}}
-
-{{< columns >}}
-
-[![alt](/docs/2019-Gardamare/Gardamare-Tappa_5/02-1024x768.jpg)](gardamare-tappa_5/) 
-<--->
-## [Gardamare Tappa 5](gardamare-tappa_5/)
-Da Mesola a Pomposa passando dal mare. Con mezz’ora di videogame dal vivo
-{{< /columns >}}
-
-
-
-
-
-
-
-
-
+{{< cards >}}
+  {{< card link="/" title="Tappa 1 - Da Peschiera a Mantova" image="t1-01-1024x768.jpg" subtitle="La Pista Ciclabile del Mincio da Peschiera del Garda a Mantova, dove il cuore si spalanca inaspettatamente" method="Resize" options="600x q80 webp" >}}
+  {{< card link="/" title="Tappa 2 - Da Mantova a Ostiglia" image="t1-01-1024x768.jpg" subtitle="Da Mantova a Ostiglia, dove all’inizio sembra la tangenziale controvento poi dopo è solo controvento" method="Resize" options="600x q80 webp" >}}
+  {{< card link="/" title="Tappa 3 - Da Ostiglia a Ferrara" image="t1-01-1024x768.jpg" subtitle="Da Ostiglia a Ferrara, dove ho incontrato qualche persona, qualche storia, e persino una poesia" method="Resize" options="600x q80 webp" >}}
+  {{< card link="/" title="Tappa 4 - Da Ferrara a Mesola" image="t1-01-1024x768.jpg" subtitle="Da Ferrara a Mesola, dove non c’è molto da vedere, se non il Po. Ma se c’è qualcosa che deve rompersi, succederà qui." method="Resize" options="600x q80 webp" >}}
+{{< /cards >}}
