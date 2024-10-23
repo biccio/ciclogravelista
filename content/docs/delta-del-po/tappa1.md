@@ -44,7 +44,7 @@ Proseguo il viaggio tra pinete sabbiose e argini sterrati. Inizio ad avere fame,
 
 Riparto dopo aver mangiato, ed ecco la magia. Davanti a me, all’improvviso, si aprono le Valli di Comacchio, enorme e meravigliosa zona lagunare del Delta del Po. Acque immobili, silenzio assoluto, uccelli di ogni tipo, è uno spettacolo incredibile. Invece di fare il giro largo, trovo per caso la “passerella” che taglia tutta la laguna e decido di farla. Ed è bellissima.
 
-![alt](img_4299-1-1024x768)
+![alt](img_4299-1024x768.jpg)
 
 
 
