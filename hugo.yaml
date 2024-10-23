@@ -4,7 +4,7 @@ theme: hextra
 menu:
   main:
     - name: I miei viaggi
-      pageRef: /
+      pageRef: /viaggi
       weight: 1
     - name: La mia bici dell'anima
       pageRef: /la-mia-bici-dell-anima
