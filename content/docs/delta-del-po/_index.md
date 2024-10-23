@@ -1,5 +1,5 @@
 ---
-title: Il Delta del Po [2023]
+title: Il Delta del Po
 weight: 4
 prev: /docs/getting-started
 next: /docs/guide/organize-files

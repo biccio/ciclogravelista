@@ -11,7 +11,8 @@ Insomma, per farla breve, quando mi sono messo in movimento da Nulvi non avevo l
 
 Con questo spirito ho viaggiato per una trentina di km agevolmente e senza intoppi (a parte qualche disorientamento dentro il paese di Nulvi) sulla statale per Sassari: poco traffico, saliscendi ragionevoli, una lunga salita sul finale e poi un discesone infinito dalla periferia di Sassari fino al centro e al bellissimo Duomo.
 
-<img loading="lazy" decoding="async" class="size-large wp-image-294 alignnone" src="https://ciclogravelista.it/wp-content/uploads/2019/08/img_20190803_1017382808580478191041428.jpg" width="1024" height="768" srcset="https://ciclogravelista.com/wp-content/uploads/2019/08/img_20190803_1017382808580478191041428.jpg 3000w, https://ciclogravelista.com/wp-content/uploads/2019/08/img_20190803_1017382808580478191041428-300x225.jpg 300w, https://ciclogravelista.com/wp-content/uploads/2019/08/img_20190803_1017382808580478191041428-768x576.jpg 768w, https://ciclogravelista.com/wp-content/uploads/2019/08/img_20190803_1017382808580478191041428-1024x768.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
+![alt](img_20190803_1017382808580478191041428.jpg)
+
 
 E ora? Per prima cosa un bel caffè con un pasticcino di pasta sfoglia e crema, poi qualche considerazione. Arrivare ad Alghero solo per mettere la bandierina e poi stressarmi per trovare il modo di essere la sera a Orosei mi sembrava una roba stupidamente faticosa di cui non avevo voglia né bisogno. Quindi, stravolgo i piani, rinomino il viaggio e trovo il modo di arrivare a Nuoro in pullman per poi farmi la cinquantina di km in bici necessari per arrivare a Cala Liberotto. Con questo spirito mi avvio girellando per il centro di Sassari verso la fermata degli autobus regionali ARST.
 
@@ -23,7 +24,7 @@ Naturalmente l&#8217;uscita da Sassari è un percorso di montagne russe, ma era 
 
 La strada è in effetti molto bella, tendenzialmente in discesa ma con vari saliscendi non impegnativi, a parte il forte vento caldo che in alcuni momenti mi costringe a spingere anche in discesa! In effetti passano pochissime auto e moto, e con i più disparati comportamenti: alcuni mi incitano, altri aspettano il mio segnale per superarmi, altri mi suonano e mi sfiorano di mezzo centimetro, ci si rende conto facilmente di quanto ormai questo paese sia spaccato fra gente civile ed equilibrata e gente incivile e rancorosa. Niente che non sapevo già, purtroppo.
 
-<img loading="lazy" decoding="async" class="size-large alignnone wp-image-300" src="https://ciclogravelista.it/wp-content/uploads/2019/08/img_20190806_0808412124939979629991713.jpg" width="1024" height="768" srcset="https://ciclogravelista.com/wp-content/uploads/2019/08/img_20190806_0808412124939979629991713.jpg 3000w, https://ciclogravelista.com/wp-content/uploads/2019/08/img_20190806_0808412124939979629991713-300x225.jpg 300w, https://ciclogravelista.com/wp-content/uploads/2019/08/img_20190806_0808412124939979629991713-768x576.jpg 768w, https://ciclogravelista.com/wp-content/uploads/2019/08/img_20190806_0808412124939979629991713-1024x768.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
+![alt](img_20190806_0808412124939979629991713.jpg)
 
 Dopo qualche ora arrivo finalmente a destinazione, sfiancato da una lunga salita finale che concludo ansimando per via del gran caldo e degli 80km complessivi che ho nelle gambe.
 

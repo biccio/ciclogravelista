@@ -1,21 +1,21 @@
 ---
-title: Anello Dolomiti [2021]
+title: Anello Dolomiti
 weight: 3
+prev: /docs/getting-started
+next: /docs/guide/organize-files
 sidebar:
   open: false
 ---
 
-Explore the following sections to learn how to use Hextra:
+
 
 <!--more-->
 
 {{< cards >}}
-  {{< card link="organize-files" title="Organize Files" icon="document-duplicate" >}}
-  {{< card link="configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="markdown" title="Markdown" icon="markdown" >}}
-  {{< card link="syntax-highlighting" title="Syntax Highlighting" icon="sparkles" >}}
-  {{< card link="latex" title="LaTeX" icon="variable" >}}
-  {{< card link="diagrams" title="Diagrams" icon="chart-square-bar" >}}
-  {{< card link="shortcodes" title="Shortcodes" icon="template" >}}
-  {{< card link="deploy-site" title="Deploy Site" icon="server" >}}
+  {{< card link="tappa1" title="Tappa 1 - Da Bassano del Grappa a Belluno" image="t1-01-1024x768.jpg" subtitle="Dove inizia il viaggio, e incontriamo il meccanico delle stelle." method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa2" title="Tappa 2 - Da Belluno a Pieve di Cadore" image="t2-01-1024x768.jpg" subtitle="Dove andiamo piano e senza macinare perché il ginocchio vacilla." method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa3" title="Tappa 3 - Da Pieve di Cadore a Valdaora" image="t3-05-1024x768.jpg" subtitle="Dove si passeggia godendoci la vittoria." method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa4" title="Tappa 4 - Da Valdaora a Chiusa" image="t4-03-1024x768.jpg" subtitle="Dove tra calo di tensione e rogne varie, insomma, non ce la godiamo." method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa5" title="Tappa 5 - Da Chiusa a Trento" image="t5-05-1024x768.jpg" subtitle="Da Ferrara a Mesola, dove non c’è molto da vedere, se non il Po. Ma se c’è qualcosa che deve rompersi, succederà qui." method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa6" title="Tappa 6 - Da Trento a Bassano del Grappa" image="t6-01-1024x768.jpg" subtitle="Dove superiamo l'ultimo muro prima dle gran finale in crescendo." method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}

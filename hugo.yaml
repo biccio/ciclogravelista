@@ -4,7 +4,7 @@ theme: hextra
 menu:
   main:
     - name: I miei viaggi
-      pageRef: /docs
+      pageRef: /
       weight: 1
     - name: La bici dell'anima
       pageRef: /about
@@ -29,3 +29,6 @@ params:
       link: /
       width: 250
       height: 45
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide

@@ -1,5 +1,5 @@
 ---
-title: Sardegna Tour [2019]
+title: Sardegna Tour
 weight: 2
 sidebar:
   open: false
