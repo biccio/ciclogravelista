@@ -1,21 +1,20 @@
 ---
 title: Sardegna Tour
 weight: 2
+prev: /docs/getting-started
+next: /docs/guide/organize-files
 sidebar:
   open: false
 ---
 
-Explore the following sections to learn how to use Hextra:
+
 
 <!--more-->
 
 {{< cards >}}
-  {{< card link="organize-files" title="Organize Files" icon="document-duplicate" >}}
-  {{< card link="configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="markdown" title="Markdown" icon="markdown" >}}
-  {{< card link="syntax-highlighting" title="Syntax Highlighting" icon="sparkles" >}}
-  {{< card link="latex" title="LaTeX" icon="variable" >}}
-  {{< card link="diagrams" title="Diagrams" icon="chart-square-bar" >}}
-  {{< card link="shortcodes" title="Shortcodes" icon="template" >}}
-  {{< card link="deploy-site" title="Deploy Site" icon="server" >}}
+  {{< card link="tappa1" title="Tappa 1 - Da Olbia a Luras" image="t1-01-1024x768.jpg" subtitle="Dove mi sono preso a schiaffi più di una volta" method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa2" title="Tappa 2 - Luras a Nivi" image="t2-01-1024x768.jpg" subtitle="Dove il vento in faccia non è bastato" method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa3" title="Tappa 3 - Da Sassari a Orosei" image="t3-02-1024x768.jpg" subtitle="Dove ho deciso che Alghero non valeva perdere una cena con gli amici" method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa4" title="Tappa 4 - Da Orosei a Olbia" image="t4-04-1024x768.jpg" subtitle="dove faccio 100km inutilmente e poi per fortuna la prendo a ridere" method="Resize" options="600x q80 webp" >}}
+  
 {{< /cards >}}

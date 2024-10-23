@@ -1,23 +1,17 @@
 ---
 title: Il Delta del Po
-weight: 4
-prev: /docs/getting-started
-next: /docs/guide/organize-files
+weight: 1
 sidebar:
   open: false
 ---
 
-Explore the following sections to learn how to use Hextra:
+
 
 <!--more-->
 
 {{< cards >}}
-  {{< card link="organize-files" title="Organize Files" icon="document-duplicate" >}}
-  {{< card link="configuration" title="Configuration" icon="adjustments" >}}
-  {{< card link="markdown" title="Markdown" icon="markdown" >}}
-  {{< card link="syntax-highlighting" title="Syntax Highlighting" icon="sparkles" >}}
-  {{< card link="latex" title="LaTeX" icon="variable" >}}
-  {{< card link="diagrams" title="Diagrams" icon="chart-square-bar" >}}
-  {{< card link="shortcodes" title="Shortcodes" icon="template" >}}
-  {{< card link="deploy-site" title="Deploy Site" icon="server" >}}
+  {{< card link="tappa1" title="Tappa 1 - Da Ravenna a Comacchio" image="img_4299-1024x768.jpg" subtitle="Dove capisco che sarà un viaggio ventro-vagale (e te la spiego)" method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa2" title="Tappa 2 - Da Comacchio a Boccasette" image="img_4349-1024x768.jpg" subtitle="Dove il passo lento è il ritmo del viaggio" method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa3" title="Tappa 3 - Da Boccasette a Venezia" image="img_4378-1024x768.jpg" subtitle="Dove trovo l’umanità che dà senso alla vita" method="Resize" options="600x q80 webp" >}}
+  
 {{< /cards >}}

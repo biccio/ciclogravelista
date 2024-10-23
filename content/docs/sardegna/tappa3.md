@@ -11,7 +11,7 @@ Insomma, per farla breve, quando mi sono messo in movimento da Nulvi non avevo l
 
 Con questo spirito ho viaggiato per una trentina di km agevolmente e senza intoppi (a parte qualche disorientamento dentro il paese di Nulvi) sulla statale per Sassari: poco traffico, saliscendi ragionevoli, una lunga salita sul finale e poi un discesone infinito dalla periferia di Sassari fino al centro e al bellissimo Duomo.
 
-![alt](img_20190803_1017382808580478191041428.jpg)
+![alt](t3-01-1024x768.jpg)
 
 
 E ora? Per prima cosa un bel caffè con un pasticcino di pasta sfoglia e crema, poi qualche considerazione. Arrivare ad Alghero solo per mettere la bandierina e poi stressarmi per trovare il modo di essere la sera a Orosei mi sembrava una roba stupidamente faticosa di cui non avevo voglia né bisogno. Quindi, stravolgo i piani, rinomino il viaggio e trovo il modo di arrivare a Nuoro in pullman per poi farmi la cinquantina di km in bici necessari per arrivare a Cala Liberotto. Con questo spirito mi avvio girellando per il centro di Sassari verso la fermata degli autobus regionali ARST.
@@ -22,9 +22,9 @@ Dopo un panino veloce torno alle fermate e al gabbiotto con l&#8217;intenzione d
 
 Naturalmente l&#8217;uscita da Sassari è un percorso di montagne russe, ma era scontato. Io sono piuttosto stanco e decido di rilassarmi e godermi il viaggio al fresco, dormendo anche un po&#8217;. La strada è rapida e piacevole, e un paio di ore dopo siamo a Nuoro, dove il termometro segna 40°. In questo caldo infernale mi metto in marcia, con l&#8217;idea di arrivare a Orosei e poi a Cala Liberotto percorrendo la statale 129, una bella strada panoramica poco trafficata perché ormai affiancata da una nuova superstrada.
 
-La strada è in effetti molto bella, tendenzialmente in discesa ma con vari saliscendi non impegnativi, a parte il forte vento caldo che in alcuni momenti mi costringe a spingere anche in discesa! In effetti passano pochissime auto e moto, e con i più disparati comportamenti: alcuni mi incitano, altri aspettano il mio segnale per superarmi, altri mi suonano e mi sfiorano di mezzo centimetro, ci si rende conto facilmente di quanto ormai questo paese sia spaccato fra gente civile ed equilibrata e gente incivile e rancorosa. Niente che non sapevo già, purtroppo.
+La strada è in effetti molto bella, tendenzialmente in discesa ma con vari saliscendi non impegnativi, a parte il forte vento caldo che in alcuni momenti mi costringe a spingere anche in discesa! In effetti passano pochissime auto e moto, e con i più disparati comportamenti: alcuni mi incitano, altri aspettano il mio segnale per superarmi, altri mi suonano e mi sfiorano di mezzo centimetro, ci si rende conto facilmente di quanto ormai questo paese sia spaccato fra gente civile ed equilibrata e gente incivile e rancorosa. Niente che non sapessi già, purtroppo.
 
-![alt](img_20190806_0808412124939979629991713.jpg)
+![alt](t3-02-1024x768.jpg)
 
 Dopo qualche ora arrivo finalmente a destinazione, sfiancato da una lunga salita finale che concludo ansimando per via del gran caldo e degli 80km complessivi che ho nelle gambe.
 

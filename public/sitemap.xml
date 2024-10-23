@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/gardamare/</loc>
+    <loc>http://localhost:1313/docs/delta-del-po/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/sardegna/tappa1/</loc>
   </url><url>
@@ -11,6 +11,8 @@
     <loc>http://localhost:1313/docs/gardamare/tappa1/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/delta-del-po/tappa1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/anello-dolomiti/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/sardegna/</loc>
   </url><url>
@@ -22,8 +24,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/gardamare/tappa2/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/anello-dolomiti/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/delta-del-po/tappa3/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/gardamare/tappa3/</loc>
@@ -32,7 +32,7 @@
   </url><url>
     <loc>http://localhost:1313/docs/sardegna/tappa3/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/delta-del-po/</loc>
+    <loc>http://localhost:1313/docs/gardamare/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/gardamare/tappa4/</loc>
   </url><url>
@@ -46,11 +46,11 @@
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/la-mia-bici-dell-anima/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

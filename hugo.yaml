@@ -6,8 +6,8 @@ menu:
     - name: I miei viaggi
       pageRef: /
       weight: 1
-    - name: La bici dell'anima
-      pageRef: /about
+    - name: La mia bici dell'anima
+      pageRef: /la-mia-bici-dell-anima
       weight: 2
     - name: Cerca
       weight: 3
