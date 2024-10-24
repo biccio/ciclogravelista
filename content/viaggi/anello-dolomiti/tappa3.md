@@ -4,12 +4,14 @@ weight: 3
 ---
 Io e Vincenzo sapevamo bene che questa sarebbe stata la tappa più lunga, la più difficile e la più bella del giro, ma quanto saremmo rimasti meravigliati e stupiti era inimmaginabile.
 
+## La Partenza
 Già dalla partenza da Pieve di Cadore si è capito che il percorso avrebbe preso una piega diversa rispetto ai giorni precedenti. Il percorso verso Cortina, tutto in salita, si snoda lungo una ciclabile tranquilla e bellissima. Il tempo incredibilmente è splendido, e questo è un regalo meraviglioso considerando la tanta pioggia del giorno prima. 
 
 Arrivati a San Vito di Cadore finalmente tocchiamo i 1000mt di altezza.
 
 ![alt](t3-01-1024x768.jpg)
 
+## La bellezza arriva
 La ciclabile continua a salire, oggi l&#8217;obiettivo è raggiungere i 1.200 metri di Cortina per poi arrivare fino ai 1.530 del passo di Cimebanche. La strada è lunga, il dislivello anche, pedaliamo con tranquillità per dosare le forze e non arrivare stremati al vero impegno della giornata: raggiungere il lago di Braies.
 
 ![alt](t3-02-1024x768.jpg)
@@ -30,6 +32,7 @@ E spingendo spingendo ci arriviamo.
 
 ![alt](t3-05-1024x768.jpg)
 
+## Verso Braies
 Ci fermiamo al ristoro del passo per un caffè e per rifornimento acqua, e ci apprestiamo a ripartire per goderci i 20km di discesa verso Dobbiaco 😁
 
 Carichi come non mai, ci lanciamo nella discesa per riempirci gli occhi di tutta la bellezza di questo sentiero ghiaioso che continua ininterrotto da Cortina. Ci sentiamo bene entrambi, qui c&#8217;è tutto il senso del viaggio di scoperta, di emozione, di spensieratezza, e di ricarica personale.
@@ -53,11 +56,3 @@ Nel frattempo ci raggiunge anche il nostro amico Cesare in auto, che in questi g
 ![alt](t3-09-1024x768.jpg)
 
 È fatta, Braies è conquistata, la giornata si chiude a Valdaora di Sotto dove fermiamo il GPS a 100km tondi, per abbatterci su cibo e vino, che fame!
-
-
-
-<p class="has-text-align-center">
-  <a href="https://ciclogravelista.com/2021/08/08/dolomiti-tour-tappa-4-da-valdaora-a-chiusa/"><strong>continua →</strong></a>
-</p>
-
- [1]: https://m.facebook.com/story.php?story_fbid=10158040216560233&id=688665232

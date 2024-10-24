@@ -34,9 +34,3 @@ Arriviamo a Bassano senza minimamente sentire i 100km percorsi, e siamo contenti
 _Grazie a Vincenzo per aver condiviso con me questo viaggio, non ce l&#8217;avrei mai fatta senza di te e comunque non sarebbe stato così divertente. Grazie a Cesare che non potendo pedalare con noi ci ha seguito in auto pur di condividere con noi un po&#8217; di preziosi momenti insieme._
 
 ![alt](t6-07-1024x768.jpg)
-
-
-
-<p class="has-text-align-center">
-  <strong><a href="https://ciclogravelista.com/2021/08/03/dolomiti-tour-tappa-1-da-bassano-del-grappa-a-belluno/">torna alla prima tappa →</a></strong>
-</p>

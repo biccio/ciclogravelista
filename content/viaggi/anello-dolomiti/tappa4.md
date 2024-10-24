@@ -2,7 +2,9 @@
 title: Tappa 4 – Da Valdaora a Chiusa
 weight: 4
 ---
-Dopo Braies, che nella nostra mente rappresentava la sfida principale, sapevamo che il resto del viaggio sarebbe stato più &#8220;in discesa&#8221;. E infatti questa tappa, più breve e nettamente meno faticosa, non ci ha dato grandissime emozioni. Tuttavia la bellezza qui è davvero ovunque, e non va mai sottovalutata: ad esempio la ciclabile da Valdaora a Brunico è uno splendido percorso nel bosco, e questo tratto con passaggio della funivia è particolarmente suggestivo.
+Dopo Braies, che nella nostra mente rappresentava la sfida principale, sapevamo che il resto del viaggio sarebbe stato più &#8220;in discesa&#8221;. E infatti questa tappa, più breve e nettamente meno faticosa, non ci ha dato grandissime emozioni. 
+## La partenza
+La bellezza qui è davvero ovunque, e non va mai sottovalutata: ad esempio, appena partiti troviamo la ciclabile da Valdaora a Brunico, uno splendido percorso nel bosco, e questo tratto con passaggio della funivia è particolarmente suggestivo.
 
 ![alt](t4-01-1024x768.jpg)
 
@@ -14,6 +16,7 @@ Decidiamo che non vale la pena inzupparsi, e che può essere una buona idea scav
 
 ![alt](t4-03-1024x768.jpg)
 
+## Piccole scoperte emozionanti
 Dopo una breve pausa a Rio Pusteria per mangiare qualcosa, entriamo in Bressanone sul delizioso lungofiume &#8220;urbano&#8221; del Rienz, e pedalando raggiungiamo il Duomo, e il suo splendido chiostro. Sarà per la bellezza degli affreschi, per la musica diffusa nel chiostro, per il silenzio, forse anche per le difese un po&#8217; abbassate, ma mi vivo un breve momento di emozione molto profonda che mi porterò poi dentro per tutta la giornata. 
 
 ![alt](t4-04-1024x768.jpg) 
@@ -23,8 +26,3 @@ Tutto intorno a noi è incredibilmente ordinato e civile. Assuefatti al caos e a
 Ripartiamo da Bressanone in direzione Chiusa, pedalando in grande tranquillità. Il tempo è bello, stiamo scendendo di pendenza, e 60km alla fine vengono via quasi senza accorgercene. Arriviamo a Chiusa nel pomeriggio, pronti per goderci una serata di relax e buon cibo (costine alla birra, veramente notevoli!)
 
 ![alt](t4-05-1024x768.jpg)
-
-
-<p class="has-text-align-center">
-  <strong><a href="https://ciclogravelista.com/2021/08/08/dolomiti-tour-tappa-5-da-chiusa-a-trento/">continua →</a></strong>
-</p>

@@ -2,10 +2,7 @@
 title: Tappa 1 - da Peschiera a Mantova
 weight: 1
 ---
-
-
 _La Pista Ciclabile del Mincio da Peschiera del Garda a Mantova, dove il cuore si spalanca inaspettatamente_
-
 
 ![alt](t1-01-1024x768.jpg)
 

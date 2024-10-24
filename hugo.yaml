@@ -29,6 +29,17 @@ params:
       link: /
       width: 250
       height: 45
+  comments:
+    enable: true
+    type: giscus
+    giscus:
+      repo: biccio/ciclogravelista
+      repoId: R_kgDOM8Qg2Q
+      category: Announcements
+      categoryId: DIC_kwDOM8Qg2c4Cjog-
+      
+
+
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: wide

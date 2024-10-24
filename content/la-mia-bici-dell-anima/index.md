@@ -1,6 +1,7 @@
 ---
 title: La mia bici dell'anima
 toc: false
+comments: "true"
 ---
 
 ![alt](cube.jpg)

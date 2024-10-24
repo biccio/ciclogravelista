@@ -1,54 +1,41 @@
 {
   "main": {
-    "id": "0d883cc7f35c27e5",
+    "id": "d203c0e0119188e9",
     "type": "split",
     "children": [
       {
-        "id": "c6c7b0bc51439b12",
+        "id": "c673255f42bb5527",
         "type": "tabs",
         "children": [
           {
-            "id": "d631ec558676ebd9",
+            "id": "08d474395628be76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/viaggi/anello-dolomiti/tappa5.md",
+                "file": "la-mia-bici-dell-anima/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tappa5"
-            }
-          },
-          {
-            "id": "ac8dbc5e2b124542",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6c7afbaba29b9b8f",
+    "id": "991dfce986976e53",
     "type": "split",
     "children": [
       {
-        "id": "01e10aa70b2b02b3",
+        "id": "e5fe2f254b06894c",
         "type": "tabs",
         "children": [
           {
-            "id": "4d433b5385ca2450",
+            "id": "5c4fee657974451b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +47,7 @@
             }
           },
           {
-            "id": "60d5a5165535e212",
+            "id": "abcc7bbe1fcd7c3f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +64,7 @@
             }
           },
           {
-            "id": "ac37a742634e8f33",
+            "id": "c180e2e1ed4e556d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "eb68522382e9fdcd",
+    "id": "ebd801b490c367a9",
     "type": "split",
     "children": [
       {
-        "id": "e31133108bfe3bc0",
+        "id": "f5af0d4c6c85ba49",
         "type": "tabs",
         "children": [
           {
-            "id": "a1e497d6a69bc4f8",
+            "id": "722aebc4e5bd8161",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/viaggi/anello-dolomiti/tappa5.md",
+                "file": "viaggi/anello-dolomiti/tappa3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tappa5"
+              "title": "Backlinks for tappa3"
             }
           },
           {
-            "id": "18c3ca3eef227533",
+            "id": "4d49fb7060fd4971",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/viaggi/anello-dolomiti/tappa5.md",
+                "file": "viaggi/anello-dolomiti/tappa3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tappa5"
+              "title": "Outgoing links from tappa3"
             }
           },
           {
-            "id": "ff5bfe61748d0194",
+            "id": "c88fe428428f7402",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,15 +134,15 @@
             }
           },
           {
-            "id": "1834849cf7ad218f",
+            "id": "f15fd3fa52d32019",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/viaggi/anello-dolomiti/tappa5.md"
+                "file": "viaggi/anello-dolomiti/tappa3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of tappa5"
+              "title": "Outline of tappa3"
             }
           }
         ]
@@ -175,15 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac8dbc5e2b124542",
+  "active": "08d474395628be76",
   "lastOpenFiles": [
-    "content/viaggi/anello-dolomiti/tappa4.md",
-    "content/viaggi/anello-dolomiti/tappa3.md",
-    "content/viaggi/anello-dolomiti/tappa2.md",
-    "content/viaggi/anello-dolomiti/tappa1.md",
-    "content/viaggi/anello-dolomiti/_index.md",
-    "static/logo.png",
-    "public/book.min.7619c831de88e60140441cdfd3954f785afa10049086dffcd42fe7427e13d352.css",
-    "public/book.min.9f032f90eecef0da60ddc49db84b5d3f967af71fe7a17fa6e6251a83990f98ff.css"
+    "viaggi/anello-dolomiti/t1-04-1024x768.jpg",
+    "viaggi/anello-dolomiti/1628007103537-01-1024x729.jpeg",
+    "viaggi/gardamare/_index.md",
+    "viaggi/gardamare/tappa5.md",
+    "viaggi/gardamare/tappa4.md",
+    "viaggi/gardamare/2019-07-03-gardamare-tappa-5-da-mesola-a-pomposa-passando-dal-mare-con-mezzora-di-videogame-dal-vivo.md",
+    "viaggi/gardamare/tappa3.md",
+    "viaggi/gardamare/tappa2.md",
+    "viaggi/gardamare/tappa1.md",
+    "viaggi/delta-del-po/tappa3.md",
+    "viaggi/delta-del-po/tappa2.md",
+    "viaggi/delta-del-po/tappa1.md",
+    "viaggi/delta-del-po/img_4433-1024x768.jpg",
+    "viaggi/delta-del-po/_index.md",
+    "viaggi/anello-dolomiti/tappa3.md",
+    "viaggi/anello-dolomiti/tappa4.md",
+    "viaggi/anello-dolomiti/tappa5.md",
+    "viaggi/anello-dolomiti/tappa6.md",
+    "viaggi/anello-dolomiti/tappa2.md",
+    "viaggi/anello-dolomiti/tappa1.md",
+    "viaggi/anello-dolomiti/t2-06-1024x768.jpg"
   ]
 }

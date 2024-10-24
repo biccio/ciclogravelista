@@ -5,10 +5,10 @@ layout: docs
 sidebar:
   open: false
 ---
+Un viaggio sconclusionato e un po’ caotico nel nord est della Sardegna
 
 
 
-<!--more-->
 
 {{< cards >}}
   {{< card link="tappa1" title="Tappa 1 - Da Olbia a Luras" image="t1-01-1024x768.jpg" subtitle="Dove mi sono preso a schiaffi più di una volta" method="Resize" options="600x q80 webp" >}}

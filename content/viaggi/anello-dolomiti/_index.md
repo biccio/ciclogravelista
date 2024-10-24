@@ -6,7 +6,7 @@ sidebar:
   open: false
 ---
 
-
+Un viaggio a due in 6 tappe di 500Km da Bassano del Grappa fino al Lago di Braies, e poi Bressanone, Trento e la Valsugana fino a Bassano
 
 <!--more-->
 

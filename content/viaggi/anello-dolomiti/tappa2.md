@@ -6,10 +6,15 @@ Dopo la lunga tappa di ieri, con Vincenzo abbiamo deciso di fare una tappa di &#
 
 ![alt](t2-01-1024x768.jpg)
 
+## La Partenza
+
 La partenza è su strada statale, un po&#8217; trafficata, ci mettiamo a filo della corsia di emergenza e pedaliamo con pazienza. Non c&#8217;è molto da vedere, ma quando capita qualche paesino sulla strada ci fermiamo volentieri per dare un&#8217;occhiata e fare qualche foto, come nel caso di Canevoi, dove fotografiamo uno dei tanti grandi campanili bianchi che si trovano in queste zone.
 
 ![alt](t2-02-1024x768.jpg)
-Poco dopo, finalmente un&#8217;occasione per lasciare la strada: la ciclabile Pontalpina. Ma dopo pochissimi chilometri con delusione finiamo dritti dentro la classica zona commerciale di fondo valle, dimenticando prestissimo il piacere di pedalare in mezzo alla natura. Ma alla fine della ciclabile troviamo una grande bici rosa, molto probabilmente dedicata al giro d&#8217;Italia.<figure class="wp-block-image size-large">
+
+## Pedalando, la bellezza arriva
+
+Poco dopo, finalmente un&#8217;occasione per lasciare la strada: la ciclabile Pontalpina. Ma dopo pochissimi chilometri con delusione finiamo dritti dentro la classica zona commerciale di fondo valle, dimenticando prestissimo il piacere di pedalare in mezzo alla natura. Ma alla fine della ciclabile troviamo una grande bici rosa, molto probabilmente dedicata al giro d&#8217;Italia.
 
 ![alt](t2-03-1024x768.jpg)
 
@@ -21,6 +26,7 @@ Da lì in poi la strada si fa davvero bella. C&#8217;è pochissima gente in giro
 
 ![alt](t2-05-1024x768.jpg)
 
+## Ancora traffico, ma dai, ci siamo
 Arrivati a Codissago, dove avremmo dovuto prendere una bella ciclabile che costeggia il fiume Piave, veniamo informati che l&#8217;alluvione ha fatto un disastro rendendola impraticabile. Ci facciamo coraggio e affrontiamo la Statale 51, stretta e ipertrafficata anche per via dei lavori. Un po&#8217; storditi arriviamo in un punto dove è disponibile la vecchia statale, ormai in disuso perché sostituita dalla nuova, ma perfettamente praticabile con la bici. Ancora un cambiamento di scenario: siamo letteralmente soli, su questa bella strada che costeggia il Piave da un lato, e alcuni bei paesini apparentemente abbandonati dall&#8217;altro lato. 
 ![alt](t2-06-1024x768.jpg)
 
@@ -29,9 +35,3 @@ La strada è tranquilla, il clima è ottimo anche se il cielo è coperto. Solo g
 Arrivati a Pieve di Cadore piuttosto stanchi, la cosa migliore da fare è abbattersi su cibo in abbondanza, nell&#8217;ottima Locanda dei Dogi dove torneremo anche stasera!
 
 ![alt](t2-07-1024x768.jpg)
-
-
-
-<p class="has-text-align-center">
-  <strong><a href="https://ciclogravelista.com/2021/08/06/dolomiti-tour-tappa-3-da-pieve-di-cadore-a-valdaora/">continua →</a></strong>
-</p>

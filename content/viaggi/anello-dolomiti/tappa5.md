@@ -4,6 +4,7 @@ weight: 5
 ---
 Proprio quando ti sembra di aver iniziato la discesa, e inizi a mollare, ecco che arriva la giornata più pesante che ti prende in contropiede tanto è inaspettata. 
 
+## La partenza 
 Partiamo sapendo di dover fare una novantina di chilometri sostanzialmente in discesa, e sembra tutto abbastanza facile. La ciclabile da Chiusa a Bolzano non è particolarmente bella, ma il fiume Isarco che l&#8217;accompagna rende il percorso molto piacevole.
 
 ![alt](t5-01-1024x768.jpg)
@@ -49,9 +50,3 @@ Siamo quasi a Trento, ma non manca una beffa finale: per proseguire sull&#8217;A
 ![alt](t5-08-1024x768.jpg)
 
 Vabbè. Pedalando pedalando, praticamente sulle ginocchia, entriamo nel lungoAdige cittadino, e lì comica finale: il navigatore punta dritto a un muro. C&#8217;è un sottopasso! Per arrivare al nostro appartamento avremmo dovuto caricarci la bici e passare sotto la stazione. Grandi risate nervose e liberatorie, ci incolliamo la bici in spalla e via, è fatta. 111km. La vita arriva proprio lì, quando la sottovaluti ti presenta il conto.
-
-
-
-<p class="has-text-align-center">
-  <strong><a href="https://ciclogravelista.com/2021/08/10/dolomiti-tour-tappa-6-da-trento-a-bassano-del-grappa/">continua →</a></strong>
-</p>

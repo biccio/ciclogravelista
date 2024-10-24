@@ -6,9 +6,9 @@ sidebar:
   open: false
 ---
 
+Un viaggio di tre giorni da Ravenna a Venezia lungo il Delta del Po
 
 
-<!--more-->
 
 {{< cards >}}
   {{< card link="tappa1" title="Tappa 1 - Da Ravenna a Comacchio" image="img_4299-1024x768.jpg" subtitle="Dove capisco che sarà un viaggio ventro-vagale (e te la spiego)" method="Resize" options="600x q80 webp" >}}
