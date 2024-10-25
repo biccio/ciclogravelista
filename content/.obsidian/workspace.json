@@ -10,6 +10,7 @@
           {
             "id": "c673255f42bb5527",
             "type": "tabs",
+            "dimension": 75,
             "children": [
               {
                 "id": "08d474395628be76",
@@ -17,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "viaggi/sardegna/tappa4.md",
+                    "file": "viaggi/anello-dolomiti/tappa5.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "tappa4"
+                  "title": "tappa5"
                 }
               },
               {
@@ -62,6 +63,7 @@
           {
             "id": "6897b3133c70a1e3",
             "type": "tabs",
+            "dimension": 25,
             "children": [
               {
                 "id": "5798e31c9480393a",
@@ -94,9 +96,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 101,
-                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add -a\r\nerror: unknown switch `a'\r\nusage: git add [<options>] [--] <pathspec>...\r\n\r\n    -n, --dry-run         dry run\r\n    -v, --verbose         be verbose\r\n\r\n    -i, --interactive     interactive picking\r\n    -p, --patch           select hunks interactively\r\n    -e, --edit            edit current diff and apply\r\n    -f, --force           allow adding otherwise ignored files\r\n    -u, --update          update tracked files\r\n    --renormalize         renormalize EOL of tracked files (implies -u)\r\n    -N, --intent-to-add   record only the fact that the path will be added later\r\n    -A, --all             add changes from all tracked and untracked files\r\n    --ignore-removal      ignore paths removed in the working tree (same as --no-all)\r\n    --refresh             don't add, only refresh the index\r\n    --ignore-errors       just skip files which cannot be added because of errors\r\n    --ignore-missing      check if - even missing - files are ignored in dry run\r\n    --sparse              allow updating entries outside of the sparse-checkout cone\r\n    --chmod (+|-)x        override the executable bit of the listed files\r\n    --pathspec-from-file <file>\r\n                          read pathspec from file\r\n    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character\r\n\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add",
-                        "rows": 16
+                        "columns": 116,
+                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd..\r\nzsh: command not found: cd..\r\nfabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add",
+                        "rows": 7
                       }
                     }
                   },
@@ -253,11 +255,16 @@
   },
   "active": "5798e31c9480393a",
   "lastOpenFiles": [
+    "viaggi/anello-dolomiti/tappa5.md",
+    "viaggi/anello-dolomiti/tappa6.md",
+    "viaggi/anello-dolomiti/tappa4.md",
+    "viaggi/anello-dolomiti/tappa3.md",
+    "viaggi/anello-dolomiti/tappa1.md",
+    "viaggi/anello-dolomiti/tappa2.md",
     "viaggi/sardegna/tappa4.md",
     "viaggi/sardegna/tappa3.md",
     "viaggi/sardegna/tappa2.md",
     "viaggi/sardegna/tappa1.md",
-    "viaggi/anello-dolomiti/tappa6.md",
     "viaggi/anello-dolomiti/t6-10-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-09-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-08-1024x768.jpg",
@@ -279,11 +286,6 @@
     "viaggi/delta-del-po/tappa3.md",
     "viaggi/delta-del-po/tappa2.md",
     "viaggi/delta-del-po/tappa1.md",
-    "viaggi/delta-del-po/_index.md",
-    "viaggi/anello-dolomiti/tappa3.md",
-    "viaggi/anello-dolomiti/tappa4.md",
-    "viaggi/anello-dolomiti/tappa5.md",
-    "viaggi/anello-dolomiti/tappa2.md",
-    "viaggi/anello-dolomiti/tappa1.md"
+    "viaggi/delta-del-po/_index.md"
   ]
 }
