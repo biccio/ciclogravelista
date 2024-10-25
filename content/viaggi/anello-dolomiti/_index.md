@@ -15,5 +15,5 @@ Un viaggio a due in 6 tappe di 500Km da Bassano del Grappa fino al Lago di Braie
   {{< card link="tappa3" title="Tappa 3 - Da Pieve di Cadore a Valdaora" image="t3-05-1024x768.jpg" subtitle="Dove si passeggia godendoci la vittoria." method="Resize" options="600x q80 webp" >}}
   {{< card link="tappa4" title="Tappa 4 - Da Valdaora a Chiusa" image="t4-03-1024x768.jpg" subtitle="Dove tra calo di tensione e rogne varie, insomma, non ce la godiamo." method="Resize" options="600x q80 webp" >}}
   {{< card link="tappa5" title="Tappa 5 - Da Chiusa a Trento" image="t5-05-1024x768.jpg" subtitle="Da Ferrara a Mesola, dove non c’è molto da vedere, se non il Po. Ma se c’è qualcosa che deve rompersi, succederà qui." method="Resize" options="600x q80 webp" >}}
-  {{< card link="tappa6" title="Tappa 6 - Da Trento a Bassano del Grappa" image="t6-07-1024x768.jpg" subtitle="Dove superiamo l'ultimo muro prima del gran finale in crescendo." method="Resize" options="600x q80 webp" >}}
+  {{< card link="tappa6" title="Tappa 6 - Da Trento a Bassano del Grappa" image="t6-06-1024x768.jpg" subtitle="Dove superiamo l'ultimo muro prima del gran finale in crescendo." method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
