@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "viaggi/delta-del-po/tappa1.md",
+                    "file": "viaggi/sardegna/_index.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "tappa1"
+                  "title": "_index"
                 }
               },
               {
@@ -97,7 +97,7 @@
                       },
                       "serial": {
                         "columns": 116,
-                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % hugo server\r\nzsh: command not found: hugo\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add -A",
+                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % ",
                         "rows": 7
                       }
                     }
@@ -253,8 +253,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5798e31c9480393a",
+  "active": "08d474395628be76",
   "lastOpenFiles": [
+    "viaggi/_index.md",
+    "viaggi/gardamare/_index.md",
+    "viaggi/anello-dolomiti/_index.md",
+    "viaggi/delta-del-po/_index.md",
+    "_index.md",
     "viaggi/delta-del-po/tappa1.md",
     "viaggi/anello-dolomiti/tappa6.md",
     "viaggi/anello-dolomiti/tappa5.md",
@@ -285,8 +290,6 @@
     "viaggi/anello-dolomiti/t6-03-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-02-1024x768.jpg",
     "la-mia-bici-dell-anima/index.md",
-    "viaggi/gardamare/_index.md",
-    "viaggi/gardamare/2019-07-03-gardamare-tappa-5-da-mesola-a-pomposa-passando-dal-mare-con-mezzora-di-videogame-dal-vivo.md",
-    "viaggi/delta-del-po/_index.md"
+    "viaggi/gardamare/2019-07-03-gardamare-tappa-5-da-mesola-a-pomposa-passando-dal-mare-con-mezzora-di-videogame-dal-vivo.md"
   ]
 }

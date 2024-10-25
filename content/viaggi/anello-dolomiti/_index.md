@@ -6,9 +6,8 @@ sidebar:
   open: false
 ---
 
-Un viaggio a due in 6 tappe di 500Km da Bassano del Grappa fino al Lago di Braies, e poi Bressanone, Trento e la Valsugana fino a Bassano
+Un viaggio a due in 6 tappe di 500Km da Bassano del Grappa fino al Lago di Braies, poi Trento e la Valsugana fino a Bassano (3-9 Agosto 2021)
 
-<!--more-->
 
 {{< cards >}}
   {{< card link="tappa1" title="Tappa 1 - Da Bassano del Grappa a Belluno" image="t1-01-1024x768.jpg" subtitle="Dove inizia il viaggio, e incontriamo il meccanico delle stelle." method="Resize" options="600x q80 webp" >}}

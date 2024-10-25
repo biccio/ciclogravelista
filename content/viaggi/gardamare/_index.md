@@ -6,8 +6,7 @@ sidebar:
   open: false
 ---
 
-Un viaggio in cinque tappe da Peschiera del Garda al Delta del Po, 305 km lungo la ciclabile del Mincio e la pista ciclabile Destra Po, fino all’Abbazia di Pomposa
-
+Da Peschiera del Garda al Delta del Po, lungo la ciclabile del Mincio e la pista ciclabile Destra Po, fino all’Abbazia di Pomposa (28 Giugno - 2 Luglio 2019)
 
 
 {{< cards >}}
