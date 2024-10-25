@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "viaggi/sardegna/_index.md",
+                    "file": "viaggi/sardegna/tappa4.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "_index"
+                  "title": "tappa4"
                 }
               },
               {
@@ -97,8 +97,8 @@
                       },
                       "serial": {
                         "columns": 116,
-                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % ",
-                        "rows": 7
+                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..                      \r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add -A\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git -m \"added tracks\"\r\nunknown option: -m\r\nusage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\r\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\r\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\r\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\r\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\r\n           <command> [<args>]\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git pudh\r\ngit: 'pudh' is not a git command. See 'git --help'.\r\n\r\nThe most similar command is\r\n\u001b[8Cpush\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git push\r\nEverything up-to-date\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % ",
+                        "rows": 6
                       }
                     }
                   },
@@ -253,13 +253,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "08d474395628be76",
+  "active": "5798e31c9480393a",
   "lastOpenFiles": [
-    "viaggi/_index.md",
-    "viaggi/gardamare/_index.md",
-    "viaggi/anello-dolomiti/_index.md",
-    "viaggi/delta-del-po/_index.md",
-    "_index.md",
+    "viaggi/sardegna/tappa4.md",
+    "viaggi/sardegna/tappa3.md",
+    "viaggi/sardegna/tappa2.md",
+    "viaggi/sardegna/tappa1.md",
+    "viaggi/gardamare/tappa5.md",
+    "viaggi/gardamare/tappa4.md",
+    "viaggi/gardamare/tappa3.md",
+    "viaggi/gardamare/tappa2.md",
+    "viaggi/gardamare/tappa1.md",
+    "viaggi/delta-del-po/tappa3.md",
+    "viaggi/delta-del-po/tappa2.md",
     "viaggi/delta-del-po/tappa1.md",
     "viaggi/anello-dolomiti/tappa6.md",
     "viaggi/anello-dolomiti/tappa5.md",
@@ -267,18 +273,14 @@
     "viaggi/anello-dolomiti/tappa3.md",
     "viaggi/anello-dolomiti/tappa2.md",
     "viaggi/anello-dolomiti/tappa1.md",
-    "viaggi/gardamare/tappa4.md",
-    "viaggi/gardamare/tappa5.md",
-    "viaggi/sardegna/tappa1.md",
-    "viaggi/sardegna/tappa2.md",
-    "viaggi/sardegna/tappa3.md",
-    "viaggi/sardegna/tappa4.md",
-    "viaggi/gardamare/tappa3.md",
-    "viaggi/gardamare/tappa2.md",
-    "viaggi/gardamare/tappa1.md",
-    "viaggi/delta-del-po/tappa3.md",
-    "viaggi/delta-del-po/tappa2.md",
+    "la-mia-bici-dell-anima/index.md",
+    "Untitled.md",
     "viaggi/sardegna/_index.md",
+    "viaggi/_index.md",
+    "viaggi/gardamare/_index.md",
+    "viaggi/anello-dolomiti/_index.md",
+    "viaggi/delta-del-po/_index.md",
+    "_index.md",
     "viaggi/anello-dolomiti/t6-06-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-06-1024x768.jpg.jpg",
     "viaggi/anello-dolomiti/t6-10-1024x768.jpg",
@@ -288,8 +290,6 @@
     "viaggi/anello-dolomiti/t6-05-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-04-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-03-1024x768.jpg",
-    "viaggi/anello-dolomiti/t6-02-1024x768.jpg",
-    "la-mia-bici-dell-anima/index.md",
-    "viaggi/gardamare/2019-07-03-gardamare-tappa-5-da-mesola-a-pomposa-passando-dal-mare-con-mezzora-di-videogame-dal-vivo.md"
+    "viaggi/anello-dolomiti/t6-02-1024x768.jpg"
   ]
 }

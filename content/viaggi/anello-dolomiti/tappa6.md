@@ -36,3 +36,7 @@ Arriviamo a Bassano senza minimamente sentire i 100km percorsi, e siamo contenti
 _Grazie a Vincenzo per aver condiviso con me questo viaggio, non ce l'avrei mai fatta senza di te e comunque non sarebbe stato così divertente. Grazie a Cesare che non potendo pedalare con noi ci ha seguito in auto pur di condividere con noi un po' di preziosi momenti insieme._
 
 ![alt](t6-07-1024x768.jpg)
+
+## La traccia
+
+→ [Giro_delle_Dolomiti_Day_6_Da_Trento_a_Bassano_del_Grappa.gpx](../Giro_delle_Dolomiti_Day_6_Da_Trento_a_Bassano_del_Grappa.gpx)

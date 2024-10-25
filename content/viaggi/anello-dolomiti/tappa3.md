@@ -59,3 +59,27 @@ Nel frattempo ci raggiunge anche il nostro amico Cesare in auto, che in questi g
 ![alt](t3-09-1024x768.jpg)
 
 È fatta, Braies è conquistata, la giornata si chiude a Valdaora di Sotto dove fermiamo il GPS a 100km tondi, per abbatterci su cibo e vino, che fame!
+
+## La traccia
+
+→ [Giro_delle_Dolomiti_Day_3_Da_Pieve_di_Cadore_a_Valdaora.gpx](../Giro_delle_Dolomiti_Day_3_Da_Pieve_di_Cadore_a_Valdaora.gpx)
+
+## Commenti
+
+**Margherita**   
+*Agosto 7, 2021 alle 3:19 pm*
+
+Che bello questo post, emozionante leggerti!
+Devi scrivere, scrivere e scrivere!👏🏻👏🏻👏🏻
+
+**Claudio**   
+*Agosto 7, 2021 alle 6:12 pm*
+
+Che giro stupendo! Quanto mi piace leggere i racconti di bici!
+(Erano dieci anni – credo – che non scrivevo un commento su un blog)
+
+**Vincenzo**   
+*Agosto 8, 2021 alle 9:30 am*
+
+Grande Biccio. Hai aggiunto magia a una esperienza unica e indimenticabile
+Grazie

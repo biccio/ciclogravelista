@@ -37,3 +37,7 @@ Stasera, non potendo fare diversamente, ho fatto qualche km in bici da S. Giusti
 Poi, al ritorno, ho passeggiato in bicicletta senza fretta, godendomi uno dei tramonti più belli mai visti.
 
 ![alt](t4-04-1024x768.jpg)
+
+## La tappa
+
+→ [GardaMare19_Tappa_4_da_Ferrara_a_Mesola.gpx](../GardaMare19_Tappa_4_da_Ferrara_a_Mesola.gpx)

@@ -37,7 +37,7 @@ E mi chiedo se sia vero.
 
 ![alt](t1-04-1024x768.jpg)
 
- [1]: https://lesigalette.it
- [2]: https://it.m.wikipedia.org/wiki/Borghetto_(Valeggio_sul_Mincio)
- [3]: https://chioscodeimulini.com
- [4]: https://www.agriturismobeatilla.it/?gclid=CjwKCAjw9dboBRBUEiwA7VrrzcvjYzrKpgpy0gwJ8k8I0Z1rjfK-yQBNo5rKRy9L65I3jA_eOfxbbxoCG9cQAvD_BwE
+
+## La tappa
+
+→ [GardaMare19_Tappa_1_da_Peschiera_a_Mantova.gpx](../GardaMare19_Tappa_1_da_Peschiera_a_Mantova.gpx)

@@ -46,3 +46,14 @@ Detto fatto, inizio a pedalare come un forsennato per arrivare in tempo per fare
 Arrivo all'Aeroporto di Olbia stanco, sudato e puzzolente, e per fortuna trovo impiegati disponibili che mi aiutano a risolvere il problema nonostante sia la prima volta che gli capita di accogliere una bici intera e non smontata, letteralmente parcheggiata nel deposito bagagli. La difficoltà principale è l'impossibilità di far entrare la bici sul tapis roulant del controllo bagagli, che ci costringe a chiamare un addetto per il test manuale sul telaio della bici! Per fortuna il problema si risolve rapidamente, e con 12 euro di deposito bici, 8 di biglietto, e diversi metri di coda fra le gambe, me ne torno all'ovile dopo aver percorso 100km. Anzi il GPS me ne registra 99,97, neanche la soddisfazione del centone! Meno male che l'ho presa veramente a ridere, segno che il cuore comincia a essere un po' più leggero.
 
 Con questa tappa si è concluso il mio strano e un po' sconclusionato giro sardo, con 300km totali e 3165m di dislivello, per me una grande esperienza fisica e umana, davvero impensabile fino a un anno fa. Difficile non pensare a quanta tristezza lo abbia reso possibile e necessario, ma non si può fare altro che pedalare in avanti, con le borse piene di ricordi, che per fortuna quanto più sono belli, tanto più sono leggeri.
+
+## La traccia
+
+→ [Sardegna_Tour_Tappa_4_da_Cala_Liberotto_a_Olbia.gpx](../Sardegna_Tour_Tappa_4_da_Cala_Liberotto_a_Olbia.gpx)
+
+## Commenti
+
+**Anna Laura**   
+*Agosto 13, 2019 alle 6:40 am*
+
+Se c’ è una cosa che i miei giri in bici mi hanno insegnato è che si deve sempre essere pronti ai cambiamenti e soprattutto che le mappe non ti dicono mai la verità fino in fondo! Bravo Fabrizio!!!💕

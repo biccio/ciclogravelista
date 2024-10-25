@@ -47,3 +47,16 @@ Siamo quasi a Trento, ma non manca una beffa finale: per proseguire sull'Adige b
 ![alt](t5-11-1024x768.jpg)
 
 Vabbè. Pedalando pedalando, praticamente sulle ginocchia, entriamo nel lungoAdige cittadino, e lì comica finale: il navigatore punta dritto a un muro. C'è un sottopasso! Per arrivare al nostro appartamento avremmo dovuto caricarci la bici e passare sotto la stazione. Grandi risate nervose e liberatorie, ci incolliamo la bici in spalla e via, è fatta. 111km. La vita arriva proprio lì, quando la sottovaluti ti presenta il conto.
+
+
+## La traccia
+
+→ [Giro_delle_Dolomiti_Day_5_Da_Chiusa_a_Trento.gpx](../Giro_delle_Dolomiti_Day_5_Da_Chiusa_a_Trento.gpx)
+
+## Commenti
+
+**Vincenzo**. 
+*Agosto 8, 2021 alle 4:55 pm*
+
+Grande metafora di vita la pedalata ieri. Stanchi però arrivati fino alla fine della giornata.
+Anche Trento è conquistata

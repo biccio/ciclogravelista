@@ -39,6 +39,6 @@ Nei giorni successivi mi sarei finalmente fermato qualche giorno per godermi la 
 
 Prossima tappa il 10 agosto, quando mi percorrerò tutta la costa per tornare a Olbia, e da lì a casa.
 
-<p style="text-align: center;">
-  <a href="https://ciclogravelista.com/2019/08/12/sardegna-tour-tappa-4-da-orosei-a-olbia-dove-faccio-100km-e-poi-per-fortuna-la-prendo-a-ridere/"><strong>continua →</strong></a>
-</p>
+## La tappa
+
+→ [Sardegna_Tour_Tappa_3_bus_da_Sassari_a_Nuoro_e_bici_fino_a_Cala_Liberotto.gpx](../Sardegna_Tour_Tappa_3_bus_da_Sassari_a_Nuoro_e_bici_fino_a_Cala_Liberotto.gpx)

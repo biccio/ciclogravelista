@@ -45,3 +45,7 @@ Per il resto del viaggio non c’è davvero molto da raccontare. Pedalo metro do
 Diversi km dopo arrivo a destinazione, mi spingo fino alla spiaggia di Boccasette dove mi faccio un paio di spritz a 4 euro (mi dicono persino sia “al limite” rispetto ai bar di zona), per poi andarmene a cena all’ottima [Oasi di Val Pisana][3], dove mi intrattengo a chiacchierare con la proprietaria Katia. 
 
 Domani si parte per Venezia.
+
+## La traccia
+
+→ [Il_Delta_del_Po_da_Ravenna_a_Venezia_Tappa_2.gpx](../Il_Delta_del_Po_da_Ravenna_a_Venezia_Tappa_2.gpx)

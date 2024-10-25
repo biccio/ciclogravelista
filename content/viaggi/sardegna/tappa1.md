@@ -52,3 +52,7 @@ Dopo circa 10 km così, arrivo alla fine della ferrovia, a sinistra una discesa 
 
 Voglio segnalare la preziosa gentilezza e ospitalità della gestrice del <a href="http://legemelleluras.it" target="_blank" rel="noopener noreferrer">B&B Le Gemelle</a>, che vedendomi arrivare in quello stato, oltre ad avermi fatto fare check-in alle 22, è anche andata a prendermi una pizza da asporto, unico pasto disponibile a quell'ora (e l'unico della giornata). Grazie di ❤️
 
+
+## La tappa
+
+→ [Sardegna_Tour_Tappa_1_da_Olbia_a_Luras.gpx](../Sardegna_Tour_Tappa_1_da_Olbia_a_Luras.gpx)

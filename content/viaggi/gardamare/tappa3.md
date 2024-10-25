@@ -46,3 +46,8 @@ Gniaafaccio. No, gniaafaccio. Impossibile, gniaafaccio. Alla fine, iaafaccio, no
 Arrivo alle porte di Ferrara, ma per arrivare in centro ci sono voluti altri 10km. Finalmente arrivo al Castello, e come mi aspettavo mi arriva uno schiaffone: il ricordo della splendida serata passata al Teatro Comunale con Milena per vedere il meraviglioso concerto di Sufjan Stevens, l'ultima volta che eravamo stati a Ferrara. Sono molto stanco ed è dura.
 
 Ma il viaggio serve a questo.
+
+
+## La tappa
+
+→ [GardaMare19_Tappa_3_da_Ostiglia_a_Ferrara.gpx](../GardaMare19_Tappa_3_da_Ostiglia_a_Ferrara.gpx)

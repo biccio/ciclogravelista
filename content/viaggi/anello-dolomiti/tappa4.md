@@ -29,3 +29,8 @@ Tutto intorno a noi è incredibilmente ordinato e civile. Assuefatti al caos e a
 Ripartiamo da Bressanone in direzione Chiusa, pedalando in grande tranquillità. Il tempo è bello, stiamo scendendo di pendenza, e 60km alla fine vengono via quasi senza accorgercene. Arriviamo a Chiusa nel pomeriggio, pronti per goderci una serata di relax e buon cibo (costine alla birra, veramente notevoli!)
 
 ![alt](t4-05-1024x768.jpg)
+
+
+## La traccia
+
+→ [Giro_delle_Dolomiti_Day_4_Da_Valdaora_a_Chiusa.gpx](../Giro_delle_Dolomiti_Day_4_Da_Valdaora_a_Chiusa.gpx)

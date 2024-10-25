@@ -43,3 +43,37 @@ Adesso resta solo da arrivare all'Abbazia di Pomposa, che so essere bellissima e
 Sono arrivato alla fine. Ora i km sono 305, ma quel che più conta è la strada che ha fatto la mia anima, che non si misura in chilometri.
 
 Grazie amore mio per avermi accompagnato fin qui. Ce la posso fare, ce la sto facendo. Ce la faccio.
+
+
+## La tappa
+
+→ [GardaMare19_Tappa_4_da_Ferrara_a_Mesola.gpx](../GardaMare19_Tappa_4_da_Ferrara_a_Mesola.gpx)
+
+## Commenti
+
+**Marco B.**   
+*Luglio 4, 2019 alle 5:32 am*
+
+È fatta.
+Grazie per questo bellissimo racconto!
+
+---
+**Vincenzo**   
+*Luglio 4, 2019 alle 5:45 am*
+
+Grande Biccio!
+La generosità, dolcezza e precisione delle tue parole lasciano intravedere il grande viaggio umano ed emotivo che le hanno accompagnate.
+Ben fatto.
+Ad maiora
+
+---
+**Federico**    
+*Luglio 4, 2019 alle 3:37 pm*
+
+Grandissimo viaggio, conosco le zone per aver fatto lo stesso viaggio varie volte ma non è mai uguale.
+
+---
+**Cristian Conti**   
+*Agosto 2, 2019 alle 8:14 am*
+
+La scritta al Beatilla, “le cose succedono per una ragione”. A volte dobbiamo spingerci oltre, alzarci e iniziare. Poi sulla strada le cose succedono.

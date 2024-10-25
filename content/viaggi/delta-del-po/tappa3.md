@@ -43,3 +43,7 @@ Saluto il mio compagno di viaggio che sarebbe ripartito subito, mentre io decido
 
 Tanti pensieri, tante immagini, tante cose. C'è davvero molto in un piccolo ma intenso viaggio come questo. Ancora una volta porto con me qualcosa che mi arricchisce, che mi stimola, che mi tiene vivo. Ringrazio te, che hai letto fin qui. Raccontare i miei viaggi in bicicletta è un modo per fermare i ricordi, ma soprattutto per riflettersi in essi, per trovare cosa hanno trasformato dentro di me. E ogni volta è una scoperta, e una conquista.
 
+
+## La traccia
+
+→ [Il_Delta_del_Po_da_Ravenna_a_Venezia_Tappa_3.gpx](../Il_Delta_del_Po_da_Ravenna_a_Venezia_Tappa_3.gpx)

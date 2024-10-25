@@ -34,3 +34,7 @@ Non c'è nulla, sono sotto al sole battente, penso più di una volta di mollare,
 All'improvviso, veramente con le ultime forze rimaste, mi trovo davanti il cartello di Ostiglia. Ecco! Era qui che dovevo fermarmi! Alla fine il conto è di 55,59km, avrei voluto arrivare a 60 ma qui bisogna davvero che mi fermi per recuperare un po'.
 
 Essere arrivato fin qui è importante, mi rendo conto che ho poca preparazione fisica, il caldo è opprimente, e viaggiare fisso controvento mi ha distrutto. Ma oggi era tutta una questione di forza di volontà. Sto accettando e sto reagendo, e oggi me ne accorgo un po' di più.
+
+## La tappa
+
+→ [GardaMare19_Tappa_2_da_Mantova_a_Ostiglia.gpx](../GardaMare19_Tappa_2_da_Mantova_a_Ostiglia.gpx)

@@ -42,3 +42,15 @@ La strada verso Belluno è noiosissima, solo verso il finale la traccia ci condu
 Siamo comunque piuttosto stanchi e Belluno non si vede, ma a forza di pedalare riusciamo ad arrivare. Comica finale: ci carichiamo le bici in spalla per le scale che portano in centro perché la scala mobile è ovviamente proibita. A quel punto tanto valeva arrivarci per la strada ma obiettivamente temo che saremmo crollati prima di arrivare!
 
 Domani comincia la parte più difficile ma più bella, io sono con il ghiaccio sul ginocchio. Speriamo che tenga, ma se avrò momenti difficili penserò alla grande forza d'animo e umanità del meccanico di Pederobba.
+
+
+## La traccia
+
+→ [Giro_delle_Dolomiti_Day_1_Da_Bassano_a_Belluno.gpx](../Giro_delle_Dolomiti_Day_1_Da_Bassano_a_Belluno.gpx)
+
+## I commenti
+
+**Vincenzo**   
+*Agosto 8, 2021 alle 9:27 am*
+
+E che inizio di avventura … fra mille paure e mille e uno speranze

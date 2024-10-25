@@ -38,3 +38,16 @@ La strada è tranquilla, il clima è ottimo anche se il cielo è coperto. Solo g
 Arrivati a Pieve di Cadore piuttosto stanchi, la cosa migliore da fare è abbattersi su cibo in abbondanza, nell'ottima Locanda dei Dogi dove torneremo anche stasera!
 
 ![alt](t2-07-1024x768.jpg)
+
+
+## La traccia
+
+→ [Giro_delle_Dolomiti_Day_2_da_Belluno_a_Pieve_di_Cadore.gpx](../Giro_delle_Dolomiti_Day_2_da_Belluno_a_Pieve_di_Cadore.gpx)
+
+## Commenti
+
+**Margherita**    
+*Agosto 4, 2021 alle 3:57 pm*
+
+Grandissimi! Vi invidio soprattutto la tappa alla locanda 😊 (non è vero, anche il Piave).
+Buona continuazione!

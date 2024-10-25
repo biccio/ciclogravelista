@@ -65,7 +65,6 @@ Non ho idea di dove porti questa strada, ho mollato mappe e sicurezze (la “sop
 E ora aperitivo, cena, riposo, e poi domani si parte. Ah il ventro vagale dici? Recentemente mi sto appassionando alla [Teoria Polivagale][2] di Stephen Porges. No, non te la spiego qui, t’ho messo il link apposta 😄
 
 
+## La traccia
 
-
- [1]: https://youtu.be/aFnqCYVP3N4
- [2]: https://psiche.santagostino.it/2019/04/18/la-teoria-polivagale-quando-il-trauma-resta-nel-corpo/
+→ [Il_Delta_del_Po_da_Ravenna_a_Venezia_Tappa_1.gpx](../Il_Delta_del_Po_da_Ravenna_a_Venezia_Tappa_1.gpx)

@@ -48,3 +48,7 @@ Dichiarati persi i guantini continuo un po' a pedalare un po' a spingere, e fina
 
 Sembrava facile, oggi.
 
+## La tappa
+
+→ [Sardegna_Tour_Tappa_1_da_Olbia_a_Luras.gpx](../Sardegna_Tour_Tappa_1_da_Olbia_a_Luras.gpx)
+
