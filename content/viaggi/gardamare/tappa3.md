@@ -1,8 +1,10 @@
 ---
 title: Tappa 3 - da Ostiglia a Ferrara
 weight: 3
-
+data: 30 Giugno 2019
 ---
+***30 Giugno 2019***
+
 _Da Ostiglia a Ferrara, dove ho incontrato qualche persona, qualche storia, e persino una poesia_
 ## La partenza
 Oggi sono partito un pochino più presto e senza vento contro, ma ho pur sempre fatto 80km di cui gli ultimi bruttini, che forse potevo evitare (ma mica l'ho capito).

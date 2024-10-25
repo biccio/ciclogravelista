@@ -1,7 +1,10 @@
 ---
 title: Tappa 1 - da Ravenna a Comacchio
 weight: 1
+data: 16 Giugno 2023
 ---
+***16 Giugno 2023***
+
 4 anni dopo il mio primo viaggio in bici in solitaria, ho deciso di tornare in quegli stessi luoghi, alla ricerca delle ragioni stesse che mi hanno spinto a tornare. E già ti gira la testa eh? Vedrai dopo.
 
 ## La partenza

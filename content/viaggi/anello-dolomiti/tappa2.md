@@ -1,7 +1,10 @@
 ---
 title: Tappa 2 - da Belluno a Pieve di Cadore
 weight: 2
+data: 4 Agosto 2021
 ---
+***4 Agosto 2021***
+
 Dopo la lunga tappa di ieri, con Vincenzo abbiamo deciso di fare una tappa di "trasferimento" senza spingere troppo, 45km con un dislivello totale di 848mt con destinazione Pieve di Cadore. La giornata è buona ma sappiamo che troveremo tempaccio salendo verso nord. Mi fa un po' male il ginocchio ma confido nel fatto che pedalare normalmente non peggiora la situazione.
 
 ![alt](t2-01-1024x768.jpg)

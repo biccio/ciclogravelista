@@ -1,10 +1,12 @@
 ---
 title: Tappa 3 - da Sassari a Orosei
 weight: 3
-
+data: 3 Agosto 2019
 ---
-Originariamente la fine del mio viaggio avrebbe dovuto essere a Orosei, il 3 sera, per la prima cena con gli amici appena arrivati da Roma in cui avremmo anche festeggiato due compleanni. Ma la mia partenza il 31 mi avrebbe lasciato pochissimo tempo per le mie tappe in solitaria; per questo ho scelto di mettermi in marcia immediatamente da Olbia con il serio rischio di fare notte sulla ferrovia dismessa Monti Calangianus.
 
+***3 Agosto 2019***
+
+Originariamente la fine del mio viaggio avrebbe dovuto essere a Orosei, il 3 sera, per la prima cena con gli amici appena arrivati da Roma in cui avremmo anche festeggiato due compleanni. Ma la mia partenza il 31 mi avrebbe lasciato pochissimo tempo per le mie tappe in solitaria; per questo ho scelto di mettermi in marcia immediatamente da Olbia con il serio rischio di fare notte sulla ferrovia dismessa Monti Calangianus.
 Purtroppo però la giornata pesante del 31 luglio mi ha costretto ad uno stop il 1° agosto e il vantaggio si è perso. Il risultato è che mi sono trovato il 3 agosto mattina a Nulvi col problema di dover arrivare la sera a Orosei, o perdermi tutto il weekend con gli amici. Avevo quindi due possibilità: sacrificare Alghero e fermarmi a Sassari e da lì arrivare a Nuoro con il pullman, oppure arrivare ad Alghero e ripartire subito praticamente per tornare indietro con il rischio di fare tutto di corsa e male.
 
 ## La partenza

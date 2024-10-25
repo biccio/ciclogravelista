@@ -1,7 +1,10 @@
 ---
 title: Tappa 4 – Da Valdaora a Chiusa
 weight: 4
+data: 6 Agosto 2021
 ---
+***6 Agosto 2021***
+
 Dopo Braies, che nella nostra mente rappresentava la sfida principale, sapevamo che il resto del viaggio sarebbe stato più "in discesa". E infatti questa tappa, più breve e nettamente meno faticosa, non ci ha dato grandissime emozioni. 
 ## La partenza
 La bellezza qui è davvero ovunque, e non va mai sottovalutata: ad esempio, appena partiti troviamo la ciclabile da Valdaora a Brunico, uno splendido percorso nel bosco, e questo tratto con passaggio della funivia è particolarmente suggestivo.

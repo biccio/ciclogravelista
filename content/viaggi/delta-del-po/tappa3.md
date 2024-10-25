@@ -1,8 +1,10 @@
 ---
 title: Tappa 3 - da Boccasette a Venezia
 weight: 3
-
+data: 18 Giugno 2023
 ---
+***18 Giugno 2023***
+
 Dopo una nottata in agriturismo non proprio idilliaca, a causa di vicini di stanza insonni che facevano avanti e indietro con l'esterno, faccio una discreta colazione e mi metto in marcia per la lunga traversata fino a Venezia. 
 
 ## La partenza (e i 2€)

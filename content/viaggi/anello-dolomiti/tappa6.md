@@ -1,7 +1,10 @@
 ---
 title: Tappa 6 – Da Trento a Bassano del Grappa
 weight: 6
+data: 9 Agosto 2021
 ---
+***9 Agosto 2021***
+
 Dopo una giornata di riposo a Trento per riprendere le energie, ci accingiamo a chiudere il giro percorrendo la ciclabile che nel 2020 si è aggiudicata il premio della stampa dell' "Italian green roads award", l'oscar italiano del cicloturismo: la ciclabile della Valsugana. Siamo molto curiosi, e l'idea di chiudere l'anello con un percorso molto bello ci intriga parecchio. C'è solo un piccolo problema: che per accedere alla Valsugana da Trento occorre scollinare un passo a 730mt slm partendo dai 190mt di Trento, in 7km circa. 
 
 ## La partenza
@@ -20,8 +23,7 @@ Con non poca fatica però arriviamo fino in fondo, e il premio della bellezza de
 
 ## Il Gran Finale 
 Costeggiando il Lago di Caldonazzo sulla piacevolissima ciclabile, arriviamo all'inizio della famosa e tanto attesa Ciclabile della Valsugana. E lì scopriamo un mondo. La ciclabile segue il Brenta dal suo formarsi, e si snoda per 80km di bellezza incredibile. È tutto curato, tutto pulito, c'è tantissimo verde, alberi, fiori, e questo splendido fiume che in più punti è paragonabile a un ruscello di montagna con piccole cascatelle sulle rocce. Sembra di pedalare in un delizioso giardino giapponese.
-
-![alt](t5-05-1024x768.jpg)
+![alt](t6-06-1024x768.jpg)
 
 Stiamo bene, e siamo contenti. Pedaliamo allegramente sopra i 20km/h e maciniamo strada rapidamente e godendoci lo scenario, in continuo cambiamento e con tantissime sorprese. Non facciamo molte tappe, giusto una sosta a Borgo Valsugana e poi in uno dei tanti bici grill lungo la ciclabile per farci un panino, ma per il resto ci godiamo il percorso incantato facendo gli scemi di tanto in tanto 😊.
 

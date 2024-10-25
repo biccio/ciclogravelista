@@ -1,8 +1,10 @@
 ---
 title: Tappa 4 - da Orosei a Olbia
 weight: 4
-
+data: 10 Agosto 2019
 ---
+***10 Agosto 2019***
+
 Finita la breve vacanza nel Golfo di Orosei con gli amici, in previsione di ripartire l'11 da Olbia ho deciso di partire il giorno prima per farmi l'Orientale Sarda senza correre, fermandomi in zona porto per partire l'indomani fresco e riposato. Come no.
 
 ## La partenza

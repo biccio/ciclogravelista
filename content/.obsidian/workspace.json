@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "viaggi/anello-dolomiti/tappa5.md",
+                    "file": "viaggi/delta-del-po/tappa1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "tappa5"
+                  "title": "tappa1"
                 }
               },
               {
@@ -97,7 +97,7 @@
                       },
                       "serial": {
                         "columns": 116,
-                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd..\r\nzsh: command not found: cd..\r\nfabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add",
+                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % hugo server\r\nzsh: command not found: hugo\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add -A",
                         "rows": 7
                       }
                     }
@@ -255,16 +255,27 @@
   },
   "active": "5798e31c9480393a",
   "lastOpenFiles": [
-    "viaggi/anello-dolomiti/tappa5.md",
+    "viaggi/delta-del-po/tappa1.md",
     "viaggi/anello-dolomiti/tappa6.md",
+    "viaggi/anello-dolomiti/tappa5.md",
     "viaggi/anello-dolomiti/tappa4.md",
     "viaggi/anello-dolomiti/tappa3.md",
-    "viaggi/anello-dolomiti/tappa1.md",
     "viaggi/anello-dolomiti/tappa2.md",
-    "viaggi/sardegna/tappa4.md",
-    "viaggi/sardegna/tappa3.md",
-    "viaggi/sardegna/tappa2.md",
+    "viaggi/anello-dolomiti/tappa1.md",
+    "viaggi/gardamare/tappa4.md",
+    "viaggi/gardamare/tappa5.md",
     "viaggi/sardegna/tappa1.md",
+    "viaggi/sardegna/tappa2.md",
+    "viaggi/sardegna/tappa3.md",
+    "viaggi/sardegna/tappa4.md",
+    "viaggi/gardamare/tappa3.md",
+    "viaggi/gardamare/tappa2.md",
+    "viaggi/gardamare/tappa1.md",
+    "viaggi/delta-del-po/tappa3.md",
+    "viaggi/delta-del-po/tappa2.md",
+    "viaggi/sardegna/_index.md",
+    "viaggi/anello-dolomiti/t6-06-1024x768.jpg",
+    "viaggi/anello-dolomiti/t6-06-1024x768.jpg.jpg",
     "viaggi/anello-dolomiti/t6-10-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-09-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-08-1024x768.jpg",
@@ -273,19 +284,9 @@
     "viaggi/anello-dolomiti/t6-04-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-03-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-02-1024x768.jpg",
-    "viaggi/anello-dolomiti/t6-01-1024x768.jpg",
-    "viaggi/anello-dolomiti/t5-10-1024x768.jpg",
     "la-mia-bici-dell-anima/index.md",
     "viaggi/gardamare/_index.md",
-    "viaggi/gardamare/tappa5.md",
-    "viaggi/gardamare/tappa4.md",
     "viaggi/gardamare/2019-07-03-gardamare-tappa-5-da-mesola-a-pomposa-passando-dal-mare-con-mezzora-di-videogame-dal-vivo.md",
-    "viaggi/gardamare/tappa3.md",
-    "viaggi/gardamare/tappa2.md",
-    "viaggi/gardamare/tappa1.md",
-    "viaggi/delta-del-po/tappa3.md",
-    "viaggi/delta-del-po/tappa2.md",
-    "viaggi/delta-del-po/tappa1.md",
     "viaggi/delta-del-po/_index.md"
   ]
 }

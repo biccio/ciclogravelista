@@ -1,13 +1,13 @@
 ---
-
 title: Tappa 1 - Da Bassano del Grappa a Belluno
 weight: 1
-
+data: 3 Agosto 2021
 ---
+***3 Agosto 2021***
+
 Dopo un intero anno senza viaggi in bici causa Covid, finalmente torno a mettere le borse sulla mia Genesis per macinare un po' di km in qualche giorno. La scelta cade sulle Dolomiti, un giro non particolarmente impegnativo per chi è giovane ed allenato, probabilmente un po' difficoltoso per un ciclista della domenica come me. La novità stavolta è che non sono da solo, sono con il mio amico Vincenzo, e non mi dispiace lasciare un po' da parte i miei viaggi in solitaria, senza mai dimenticare lo spirito con cui tutto questo è iniziato.
 
 ## La partenza
-
 Ed eccoci qui, alla partenza da Bassano del Grappa questa mattina, dopo essere arrivati in serata lui da Roma e io da Cervia.
 ![alt](t1-01-1024x768.jpg)
 

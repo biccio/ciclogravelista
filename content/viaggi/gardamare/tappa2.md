@@ -1,8 +1,10 @@
 ---
 title: Tappa 2 - da Mantova a Ostiglia
 weight: 2
-
+data: 29 Giugno 2019
 ---
+***29 Giugno 2019***
+
 _Da Mantova a Ostiglia, dove all’inizio sembra la tangenziale controvento poi dopo è solo controvento_
 ## La partenza
 Sono partito da Mantova tardi, perché all'agriturismo non potevo fare colazione prima delle 8, e quando ho cominciato a incartarmi per trovare la strada tra statali e semafori viaggiando contro una ventazza tosta, ho capito subito che oggi sarebbe stata una questione di disciplina e testa dura.

@@ -1,8 +1,10 @@
 ---
 title: Tappa 4 - Da Ferrara a Mesola
 weight: 4
-
+data: 1 Luglio 2019
 ---
+***1 Luglio 2019***
+
  _Da Ferrara a Mesola, dove non c'è molto da vedere, se non il Po, che è immenso, maestoso e silenzioso. Ma se c'è qualcosa che deve rompersi, è proprio qui che probabilmente succede. E infatti._
 
 ## La partenza

@@ -1,8 +1,10 @@
 ---
 title: Tappa 1 -  da Olbia a Luras
 weight: 1
-
+data: 31 Luglio 2019
 ---
+***31 Luglio 2019***
+
 Sapevo che decidere di accorciare i tempi e mettermi in marcia appena arrivato a Olbia sarebbe stata una scelta discutibile. Invece è stata proprio una solenne, fragorosa stupidaggine.
 
 ![alt](t1-01-1024x768.jpg)

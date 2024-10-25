@@ -1,8 +1,10 @@
 ---
 title: Tappa 5 - Da Mesola a Pomposa
 weight: 5
-
+data: 2 Luglio 2019
 ---
+***2 Luglio 2019***
+
 Questa volta sono partito senza tracce per il navigatore, perché volevo arrivare al mare chiedendo informazioni e orientandomi da solo. Vai a sapere che mi sarei trovato anche dentro un videogioco dal vivo.
 ## La partenza, la bellezza
 Quante cose in questi ultimi 50km del mio viaggio. La terra del delta del Po è piena di meraviglie, naturali e costruite dall'uomo, e più di una volta sono rimasto a bocca aperta, estasiato da ciò che avevo davanti ai miei occhi. La prima volta è successo davanti a Torre Abate, a pochi metri dal rifugio dove ho passato la notte. Il manufatto è una splendida opera di ingegneria idraulica costruita nel 1569 durante la Bonifica Estense, con il compito di difesa dalle acque e controllo. È un posto magico, che ho avuto la fortuna di ammirare anche al tramonto la sera prima di partire.

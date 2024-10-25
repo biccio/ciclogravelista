@@ -1,7 +1,10 @@
 ---
 title: Tappa 5 – Da Chiusa a Trento
 weight: 5
+data: 7 Agosto 2021
 ---
+***7 Agosto 2021***
+
 Proprio quando ti sembra di aver iniziato la discesa, e inizi a mollare, ecco che arriva la giornata più pesante che ti prende in contropiede tanto è inaspettata. 
 
 ## La partenza 

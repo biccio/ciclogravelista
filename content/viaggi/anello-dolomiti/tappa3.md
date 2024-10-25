@@ -1,7 +1,10 @@
 ---
 title: Tappa 3 - da Pieve di Cadore a Valdaora
 weight: 3
+data: 5 Agosto 2021
 ---
+***5 Agosto 2021***
+
 Io e Vincenzo sapevamo bene che questa sarebbe stata la tappa più lunga, la più difficile e la più bella del giro, ma quanto saremmo rimasti meravigliati e stupiti era inimmaginabile.
 
 ## La partenza

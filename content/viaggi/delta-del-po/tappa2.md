@@ -1,7 +1,10 @@
 ---
 title: Tappa 2 - da Comacchio a Boccasette
 weight: 2
+data: 17 Giugno 2023
 ---
+***17 Giugno 2023***
+
 Dopo una serata a base di spritz, e a seguire, marinati locali e anguilla ai ferri (stai a Comacchio, e che mangi sennò?), la ripartenza mattutina è un po’ più lenta del dovuto, ma poco male, non c’è davvero fretta.
 ## La partenza
 Da Comacchio mi dirigo verso Porto Garibaldi, dove mi infilo in un Carrefour per fare il pieno di cibarie, necessarie anche per la scarsa colazione offerta dal B&B dove ho passato la notte. Fatte le provviste riparto e mi batto tutti i lidi del ferrarese, non senza una quota di inevitabile noia. Ma tiro dritto. E le cose cambiano quando arrivo in zona Lido di Volano.
