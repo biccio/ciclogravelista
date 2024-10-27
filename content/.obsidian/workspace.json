@@ -96,8 +96,8 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 116,
-                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add - A\r\nfatal: pathspec '-' did not match any files\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add",
+                        "columns": 82,
+                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add - A\r\nfatal: pathspec '-' did not match any files\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add -A\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git commit -m \"rename titles\"\r\n[main a068f2a] rename titles\r\n 19 files changed, 23 insertions(+), 23 deletions(-)\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git push\r\nEnumerating objects: 55, done.\r\nCounting objects: 100% (55/55), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (28/28), done.\r\nWriting objects: 100% (28/28), 2.34 KiB | 2.34 MiB/s, done.\r\nTotal 28 (delta 26), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (26/26), completed with 26 local objects.\r\nTo https://github.com/biccio/ciclogravelista.git\r\n   3b364c5..a068f2a  main -> main\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % ",
                         "rows": 6
                       }
                     }
@@ -233,13 +233,23 @@
               "icon": "lucide-list",
               "title": "Outline of tappa3"
             }
+          },
+          {
+            "id": "02fc7ff40146ed33",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
