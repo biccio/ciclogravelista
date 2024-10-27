@@ -1,5 +1,6 @@
-baseURL: "https://example.org/"
+baseURL: "https://ciclogravelista.com"
 languageCode: 'en-us'
+title: 'Il Ciclogravelista'
 theme: hextra
 menu:
   main:

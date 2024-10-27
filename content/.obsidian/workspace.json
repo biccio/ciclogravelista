@@ -4,81 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "cc2041ba014696cb",
-        "type": "split",
+        "id": "6897b3133c70a1e3",
+        "type": "tabs",
         "children": [
           {
-            "id": "c673255f42bb5527",
-            "type": "tabs",
-            "dimension": 75,
-            "children": [
-              {
-                "id": "08d474395628be76",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "viaggi/anello-dolomiti/tappa1.md",
-                    "mode": "source",
-                    "source": false
+            "id": "5798e31c9480393a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/fabrizio.ulisse/Documents/HUGO/ciclo/content",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "icon": "lucide-file",
-                  "title": "tappa1"
+                  "serial": {
+                    "columns": 82,
+                    "data": "fabrizio.ulisse@AirdiFaioUlisse content % ",
+                    "rows": 44
+                  }
                 }
-              }
-            ]
-          },
-          {
-            "id": "6897b3133c70a1e3",
-            "type": "tabs",
-            "dimension": 25,
-            "children": [
-              {
-                "id": "5798e31c9480393a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/fabrizio.ulisse/Documents/HUGO/ciclo/content",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 82,
-                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add - A\r\nfatal: pathspec '-' did not match any files\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add -A\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git commit -m \"rename titles\"\r\n[main a068f2a] rename titles\r\n 19 files changed, 23 insertions(+), 23 deletions(-)\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git push\r\nEnumerating objects: 55, done.\r\nCounting objects: 100% (55/55), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (28/28), done.\r\nWriting objects: 100% (28/28), 2.34 KiB | 2.34 MiB/s, done.\r\nTotal 28 (delta 26), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (26/26), completed with 26 local objects.\r\nTo https://github.com/biccio/ciclogravelista.git\r\n   3b364c5..a068f2a  main -> main\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % ",
-                        "rows": 6
-                      }
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: zsh"
-                }
-              }
-            ]
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: zsh"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,8 +202,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "08d474395628be76",
+  "active": "5798e31c9480393a",
   "lastOpenFiles": [
+    "viaggi/anello-dolomiti/tappa1.md",
     "viaggi/sardegna/tappa4.md",
     "viaggi/sardegna/tappa3.md",
     "viaggi/sardegna/tappa2.md",
@@ -249,7 +221,6 @@
     "viaggi/anello-dolomiti/tappa6.md",
     "viaggi/anello-dolomiti/tappa3.md",
     "viaggi/anello-dolomiti/tappa2.md",
-    "viaggi/anello-dolomiti/tappa1.md",
     "viaggi/anello-dolomiti/tappa5.md",
     "viaggi/anello-dolomiti/tappa4.md",
     "viaggi/gardamare/_index.md",
