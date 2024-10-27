@@ -1,5 +1,5 @@
 ---
-title: 3 - da Ostiglia a Ferrara
+title: 3 - Da Ostiglia a Ferrara
 weight: 3
 data: 30 Giugno 2019
 ---

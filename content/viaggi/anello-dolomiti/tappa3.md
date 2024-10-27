@@ -1,5 +1,5 @@
 ---
-title: 3 - da Pieve di Cadore a Valdaora
+title: 3 - Da Pieve di Cadore a Valdaora
 weight: 3
 data: 5 Agosto 2021
 ---

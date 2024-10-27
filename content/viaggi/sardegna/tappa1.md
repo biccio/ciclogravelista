@@ -1,5 +1,5 @@
 ---
-title: 1 -  da Olbia a Luras
+title: 1 -  Da Olbia a Luras
 weight: 1
 data: 31 Luglio 2019
 ---
