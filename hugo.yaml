@@ -1,7 +1,7 @@
 baseURL: "https://ciclogravelista.com"
 languageCode: 'en-us'
-title: 'Il Ciclogravelista'
 theme: hextra
+title: 'test'
 menu:
   main:
     - name: I miei viaggi
@@ -35,6 +35,3 @@ params:
     # full (100%), wide (90rem), normal (1280px)
     width: wide
 
-services:
-  disqus:
-    shortname: biccio
