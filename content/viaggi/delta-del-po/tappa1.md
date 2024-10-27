@@ -1,5 +1,5 @@
 ---
-title: Tappa 1 - da Ravenna a Comacchio
+title: 1 - da Ravenna a Comacchio
 weight: 1
 data: 16 Giugno 2023
 ---

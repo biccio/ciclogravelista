@@ -1,5 +1,5 @@
 ---
-title: Tappa 4 - da Orosei a Olbia
+title: 4 - da Orosei a Olbia
 weight: 4
 data: 10 Agosto 2019
 ---

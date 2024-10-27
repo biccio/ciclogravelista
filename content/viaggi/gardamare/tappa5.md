@@ -1,5 +1,5 @@
 ---
-title: Tappa 5 - Da Mesola a Pomposa
+title: 5 - Da Mesola a Pomposa
 weight: 5
 data: 2 Luglio 2019
 ---

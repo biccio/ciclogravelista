@@ -1,5 +1,5 @@
 ---
-title: Tappa 1 - da Peschiera a Mantova
+title: 1 - da Peschiera a Mantova
 weight: 1
 data: 28 Giugno 2019
 ---

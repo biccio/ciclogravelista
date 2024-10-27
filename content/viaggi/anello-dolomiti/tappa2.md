@@ -1,5 +1,5 @@
 ---
-title: Tappa 2 - da Belluno a Pieve di Cadore
+title: 2 - da Belluno a Pieve di Cadore
 weight: 2
 data: 4 Agosto 2021
 ---

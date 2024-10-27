@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "viaggi/sardegna/tappa4.md",
+                    "file": "viaggi/gardamare/tappa1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "tappa4"
+                  "title": "tappa1"
                 }
               },
               {
@@ -97,7 +97,7 @@
                       },
                       "serial": {
                         "columns": 116,
-                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..                      \r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add -A\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git -m \"added tracks\"\r\nunknown option: -m\r\nusage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\r\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\r\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\r\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\r\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\r\n           <command> [<args>]\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git pudh\r\ngit: 'pudh' is not a git command. See 'git --help'.\r\n\r\nThe most similar command is\r\n\u001b[8Cpush\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git push\r\nEverything up-to-date\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % ",
+                        "data": "fabrizio.ulisse@AirdiFaioUlisse content % cd ..\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add - A\r\nfatal: pathspec '-' did not match any files\r\nfabrizio.ulisse@AirdiFaioUlisse ciclo % git add",
                         "rows": 6
                       }
                     }
@@ -255,6 +255,8 @@
   },
   "active": "5798e31c9480393a",
   "lastOpenFiles": [
+    "viaggi/gardamare/tappa1.md",
+    "viaggi/gardamare/_index.md",
     "viaggi/sardegna/tappa4.md",
     "viaggi/sardegna/tappa3.md",
     "viaggi/sardegna/tappa2.md",
@@ -263,7 +265,6 @@
     "viaggi/gardamare/tappa4.md",
     "viaggi/gardamare/tappa3.md",
     "viaggi/gardamare/tappa2.md",
-    "viaggi/gardamare/tappa1.md",
     "viaggi/delta-del-po/tappa3.md",
     "viaggi/delta-del-po/tappa2.md",
     "viaggi/delta-del-po/tappa1.md",
@@ -277,7 +278,6 @@
     "Untitled.md",
     "viaggi/sardegna/_index.md",
     "viaggi/_index.md",
-    "viaggi/gardamare/_index.md",
     "viaggi/anello-dolomiti/_index.md",
     "viaggi/delta-del-po/_index.md",
     "_index.md",

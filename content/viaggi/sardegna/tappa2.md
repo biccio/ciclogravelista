@@ -1,5 +1,5 @@
 ---
-title: Tappa 2 - da Luras a Nulvi
+title: 2 - da Luras a Nulvi
 weight: 2
 data: 2 Agosto 2019
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tappa 3 - da Boccasette a Venezia
+title: 3 - da Boccasette a Venezia
 weight: 3
 data: 18 Giugno 2023
 ---

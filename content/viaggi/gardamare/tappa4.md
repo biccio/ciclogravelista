@@ -1,5 +1,5 @@
 ---
-title: Tappa 4 - Da Ferrara a Mesola
+title: 4 - Da Ferrara a Mesola
 weight: 4
 data: 1 Luglio 2019
 ---

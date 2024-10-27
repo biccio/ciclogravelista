@@ -1,5 +1,5 @@
 ---
-title: Tappa 2 - da Mantova a Ostiglia
+title: 2 - da Mantova a Ostiglia
 weight: 2
 data: 29 Giugno 2019
 ---

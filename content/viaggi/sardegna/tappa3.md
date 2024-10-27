@@ -1,5 +1,5 @@
 ---
-title: Tappa 3 - da Sassari a Orosei
+title: 3 - da Sassari a Orosei
 weight: 3
 data: 3 Agosto 2019
 ---
