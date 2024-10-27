@@ -1,6 +1,6 @@
 ---
-title: Il Ciclogravelista
-description: test
+title: 'Il Ciclogravelista'
+description: 'Ho cominciato ad andare in bici nel 2018, a quasi 50 anni. È nato un grande amore, e poi una rinascita'
 layout: hextra-home
 toc: false
 ---

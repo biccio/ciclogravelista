@@ -1,7 +1,6 @@
 baseURL: "https://ciclogravelista.com"
 languageCode: 'en-us'
 theme: hextra
-title: 'test'
 menu:
   main:
     - name: I miei viaggi
