@@ -50,7 +50,7 @@ Dopo circa 10 km così, arrivo alla fine della ferrovia, a sinistra una discesa 
 ![alt](t1-07-1024x768.jpg)
 
 
-Voglio segnalare la preziosa gentilezza e ospitalità della gestrice del <a href="http://legemelleluras.it" target="_blank" rel="noopener noreferrer">B&B Le Gemelle</a>, che vedendomi arrivare in quello stato, oltre ad avermi fatto fare check-in alle 22, è anche andata a prendermi una pizza da asporto, unico pasto disponibile a quell'ora (e l'unico della giornata). Grazie di ❤️
+Voglio segnalare la preziosa gentilezza e ospitalità della gestrice del [B&B Le Gemelle](http://legemelleluras.it), che vedendomi arrivare in quello stato, oltre ad avermi fatto fare check-in alle 22, è anche andata a prendermi una pizza da asporto, unico pasto disponibile a quell'ora (e l'unico della giornata). Grazie di ❤️
 
 
 ## La tappa

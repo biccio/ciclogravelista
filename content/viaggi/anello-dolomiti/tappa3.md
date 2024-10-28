@@ -19,7 +19,7 @@ La ciclabile continua a salire, oggi l'obiettivo è raggiungere i 1.200 metri di
 
 ![alt](t3-02-1024x768.jpg)
 
-Non devo raccontare nulla di Cortina che non si sappia già: paesino molto carino e perfettamente curato, centro pieno di negozi di brand &#8220;alti&#8221;, insomma tutto quello che sai di Cortina è sostanzialmente vero. Ci fermiamo giusto il tempo di fare scorta di cibo (paninetti con affettati e formaggi che consumeremo lungo tutta la giornata senza mai fare un vero pranzo per non appesantirci) e un caffè, e poi via.
+Non devo raccontare nulla di Cortina che non si sappia già: paesino molto carino e perfettamente curato, centro pieno di negozi di brand "alti", insomma tutto quello che sai di Cortina è sostanzialmente vero. Ci fermiamo giusto il tempo di fare scorta di cibo (paninetti con affettati e formaggi che consumeremo lungo tutta la giornata senza mai fare un vero pranzo per non appesantirci) e un caffè, e poi via.
 
 E qui comincia il bello: andando in direzione Dobbiaco la ciclabile è in realtà una bellissima vecchia ferrovia dismessa, con fondo ghiaioso, che si snoda nei boschi attraversando anche delle gallerie, alcune delle quali scavate nella roccia.
 

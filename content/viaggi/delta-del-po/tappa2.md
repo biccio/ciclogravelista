@@ -20,11 +20,11 @@ Ho tentato di avvicinarmi ma il povero daino se l’è data a gambe levate! Pazi
 Sto pedalando a bassissima intensità, e questo sarà il leitmotiv di tutti i 90km che farò oggi. Ho voglia di godermi ogni metro, senza fretta, senza ansia di correre per arrivare cosa, un’ora prima? E perché? E allora pedalo con lentezza, e mi fermo continuamente, sapendo che avrei fatto felice il mio amico Mik, che m’avrebbe ammazzato al terzodicesimo stop per guardare il mattone della casa cantoniera o il cormorano che fa cose. Ma né Mik né gli altri amici pedalatori romani sono lì con me, e quindi. 
 
 ## Ritorno al videogame
-Finito il tratto di pineta di Lido di Volano, ecco che iniziano i salti nel passato. D’altronde ieri ho capito che ero qui per questo. Il primo fa molto ridere: ritrovo il percorso MTB delimitato dai cancelli, [avventura surreale del primo viaggio][1]. Stavolta però è tutto diverso. 
+Finito il tratto di pineta di Lido di Volano, ecco che iniziano i salti nel passato. D’altronde ieri ho capito che ero qui per questo. Il primo fa molto ridere: ritrovo il percorso MTB delimitato dai cancelli, [avventura surreale del primo viaggio](../gardamare/tappa5/). Stavolta però è tutto diverso. 
 
 ![alt](img_4340-1024x768.jpg)
 
-Intanto ho il [Jungle][2] e non l’Autan, perché mi puoi fregà una volta, non due. Ma poi sono **veramente** più rilassato, e me la pedalo scanzonato, compresi i sabbioni che prevedibilmente mi inceppano, ma pazienza.
+Intanto ho il [Jungle](https://www.jungle-formula.it/) e non l’Autan, perché mi puoi fregà una volta, non due. Ma poi sono **veramente** più rilassato, e me la pedalo scanzonato, compresi i sabbioni che prevedibilmente mi inceppano, ma pazienza.
 
 ## L'incontro con me stesso
 Finisco il videogame del Bosco della Mesola, e mi ritrovo lì, dove 4 anni fa raggiungevo il mare dopo tanti km di fatica, soprattutto di testa, come scopro ora. L’incontro con me stesso di 4 anni fa non è facile, ma a quello che c’è da dire ci pensa il cuore. È un momento importante, di grandi e inaspettate consapevolezze, che celebro continuando a pedalare con tranquillità, lasciando che accada ciò che deve accadere. 
@@ -42,7 +42,7 @@ Per il resto del viaggio non c’è davvero molto da raccontare. Pedalo metro do
 ![alt](img_4349-1024x768.jpg)
 
 
-Diversi km dopo arrivo a destinazione, mi spingo fino alla spiaggia di Boccasette dove mi faccio un paio di spritz a 4 euro (mi dicono persino sia “al limite” rispetto ai bar di zona), per poi andarmene a cena all’ottima [Oasi di Val Pisana][3], dove mi intrattengo a chiacchierare con la proprietaria Katia. 
+Diversi km dopo arrivo a destinazione, mi spingo fino alla spiaggia di Boccasette dove mi faccio un paio di spritz a 4 euro (mi dicono persino sia “al limite” rispetto ai bar di zona), per poi andarmene a cena all’ottima [Oasi di Val Pisana](https://www.tripadvisor.it/Restaurant_Review-g1184501-d17821084-Reviews-Oasi_Val_Pisani-Porto_Viro_Province_of_Rovigo_Veneto.html), dove mi intrattengo a chiacchierare con la proprietaria Katia. 
 
 Domani si parte per Venezia.
 

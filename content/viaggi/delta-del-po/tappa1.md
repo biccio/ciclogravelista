@@ -43,7 +43,7 @@ C’è un silenzio bellissimo, sottolineato solo dalle tante specie di uccelli c
 
 ![alt](img_4277-1024x768.jpg)
 
-Proseguo il viaggio tra pinete sabbiose e argini sterrati. Inizio ad avere fame, e sarà il caso di guardarsi intorno. Detto fatto, vedo da lontano la Trattoria Primaro e mi fiondo. Il proprietario, la cui gentilezza è certamente ben nascosta (ma non ne fa mistero) mi spiega che non fanno panini, figuriamoci piadine, ma mi siedo, un po’ di fresco riposo ci sta, e un piatto di pasta non mi ucciderà. Infatti prendo degli ottimi Passatelli al Ragù di Seppia che mi rimettono al mondo.
+Proseguo il viaggio tra pinete sabbiose e argini sterrati. Inizio ad avere fame, e sarà il caso di guardarsi intorno. Detto fatto, vedo da lontano la [Trattoria Primaro](https://www.google.it/maps/place/Trattoria+Primaro/@44.5805759,12.250485,17z/data=!3m1!4b1!4m6!3m5!1s0x477de148f9ce3a4f:0xe80974ebdb862ff3!8m2!3d44.5805759!4d12.2530599!16s%2Fg%2F1thzmr39?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D) e mi fiondo. Il proprietario, la cui gentilezza è certamente ben nascosta (ma non ne fa mistero) mi spiega che non fanno panini, figuriamoci piadine, ma mi siedo, un po’ di fresco riposo ci sta, e un piatto di pasta non mi ucciderà. Infatti prendo degli ottimi Passatelli al Ragù di Seppia che mi rimettono al mondo.
 
 ![alt](img_4433-1024x768.jpg)
 
@@ -55,14 +55,14 @@ Riparto dopo aver mangiato, ed ecco la magia. Davanti a me, all’improvviso, si
 
 Tutto intorno a me sa di pace e mi sento parte del tutto. Pedalo molto lentamente, nel rispetto supremo di me stesso e di tutto ciò che esiste. Ad ogni passaggio un gruppo di uccelli vola via nella laguna. Continuo a pedalare, e comincio a comprendere perché sono qui, perché da solo, e perché proprio adesso. Ha a che fare con l’incontrare il me stesso di allora, rassicurarlo, abbracciarlo, chiudere un cerchio importante i cui presupposti partono da lontanissimo. Ti gira ancora più la testa? Oh, t’avevo avvisato.
 
-Non ho idea di dove porti questa strada, ho mollato mappe e sicurezze (la “sopravvivenza”, direbbe [Erica Poli][1], per lasciar spazio all’esistenza), alla fine, a Comacchio, in qualche modo ci arriverò. E infatti ci arrivo, attraverso un tranquillo dedalo di argini di canali che dalla laguna porta fino al centro del paese.
+Non ho idea di dove porti questa strada, ho mollato mappe e sicurezze (la “sopravvivenza”, direbbe [Erica Poli](https://www.ericapoli.it/), per lasciar spazio all’esistenza), alla fine, a Comacchio, in qualche modo ci arriverò. E infatti ci arrivo, attraverso un tranquillo dedalo di argini di canali che dalla laguna porta fino al centro del paese.
 
 
 ![alt](img_4313-1024x768.jpg)
 
 
 
-E ora aperitivo, cena, riposo, e poi domani si parte. Ah il ventro vagale dici? Recentemente mi sto appassionando alla [Teoria Polivagale][2] di Stephen Porges. No, non te la spiego qui, t’ho messo il link apposta 😄
+E ora aperitivo, cena, riposo, e poi domani si parte. Ah il ventro vagale dici? Recentemente mi sto appassionando alla [Teoria Polivagale](https://www.stateofmind.it/teoria-polivagale/) di Stephen Porges. No, non te la spiego qui, t’ho messo il link apposta 😄
 
 
 ## La traccia

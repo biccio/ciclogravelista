@@ -48,8 +48,23 @@
               "icon": "terminal",
               "title": "Terminal: zsh"
             }
+          },
+          {
+            "id": "b20d4f4f3ec63b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "viaggi/sardegna/tappa4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tappa4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,34 +217,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5798e31c9480393a",
+  "active": "b20d4f4f3ec63b12",
   "lastOpenFiles": [
-    "viaggi/anello-dolomiti/tappa1.md",
-    "viaggi/sardegna/tappa4.md",
     "viaggi/sardegna/tappa3.md",
     "viaggi/sardegna/tappa2.md",
     "viaggi/sardegna/tappa1.md",
+    "viaggi/gardamare/tappa3.md",
     "viaggi/gardamare/tappa5.md",
     "viaggi/gardamare/tappa4.md",
-    "viaggi/gardamare/tappa3.md",
     "viaggi/gardamare/tappa2.md",
     "viaggi/gardamare/tappa1.md",
+    "[.md",
     "viaggi/delta-del-po/tappa3.md",
     "viaggi/delta-del-po/tappa2.md",
     "viaggi/delta-del-po/tappa1.md",
     "viaggi/delta-del-po/_index.md",
     "viaggi/anello-dolomiti/tappa6.md",
-    "viaggi/anello-dolomiti/tappa3.md",
-    "viaggi/anello-dolomiti/tappa2.md",
     "viaggi/anello-dolomiti/tappa5.md",
     "viaggi/anello-dolomiti/tappa4.md",
+    "viaggi/anello-dolomiti/tappa3.md",
+    "viaggi/anello-dolomiti/tappa2.md",
+    "viaggi/anello-dolomiti/tappa1.md",
+    "viaggi/sardegna/tappa4.md",
     "viaggi/gardamare/_index.md",
     "la-mia-bici-dell-anima/index.md",
     "Untitled.md",
     "viaggi/sardegna/_index.md",
     "viaggi/_index.md",
     "viaggi/anello-dolomiti/_index.md",
-    "_index.md",
     "viaggi/anello-dolomiti/t6-06-1024x768.jpg",
     "viaggi/anello-dolomiti/t6-06-1024x768.jpg.jpg",
     "viaggi/anello-dolomiti/t6-10-1024x768.jpg",

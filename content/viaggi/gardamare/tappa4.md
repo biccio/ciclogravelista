@@ -10,7 +10,7 @@ data: 1 Luglio 2019
 ## La partenza
 Oggi sono partito da Ferrara abbastanza presto, per limitare il caldo eccessivo. A differenza dell'arrivo ho trovato una strada più rapida e piu piacevole per uscire dalla città, tranne l'ultimo tratto in Pontelagoscuro dove, a parte il rettilineo ciclabile, c'è da stare un po' attenti alle auto.
 
-Sono partito con buone sensazioni, anche grazie a una casa molto bella poco fuori Ferrara, con una splendida meridiana funzionante. Ho chiesto al giovane proprietario se potevo fare una foto, e mi ha risposto &#8220;certo, ci mancherebbe&#8221;. Aveva l'aria di uno che vive circondato di semplicità e bellezza. Non poco di questi tempi.
+Sono partito con buone sensazioni, anche grazie a una casa molto bella poco fuori Ferrara, con una splendida meridiana funzionante. Ho chiesto al giovane proprietario se potevo fare una foto, e mi ha risposto "certo, ci mancherebbe". Aveva l'aria di uno che vive circondato di semplicità e bellezza. Non poco di questi tempi.
 
 ![alt](t4-01-1024x768.jpg)
 ## Tutto bene, per ora

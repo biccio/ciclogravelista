@@ -11,7 +11,7 @@ La bellezza qui è davvero ovunque, e non va mai sottovalutata: ad esempio, appe
 
 ![alt](t4-01-1024x768.jpg)
 
-Arrivati a Brunico pedalando, ci fermiamo per un caffè. Siamo un po' rallentati, ma ci può stare dopo la lunga tappa di ieri. Ripartiamo da Brunico in direzione Bressanone sempre seguendo la ciclabile che costeggia l'impetuoso fiume Rienz. L'acqua è una costante in questi giorni, e le grandi piogge hanno pericolosamente innalzato i livelli di fiumi e torrenti, al punto di rappresentare un pericolo in diversi passaggi. Infatti proprio fra Brunico e Bressanone ci troviamo in un sottopasso allagato, con acqua evidentemente profonda una sessantina di centimetri
+Arrivati a Brunico pedalando, ci fermiamo per un caffè. Siamo un po' rallentati, ma ci può stare dopo la lunga tappa di ieri. Ripartiamo da Brunico in direzione Bressanone sempre seguendo la ciclabile che costeggia l'impetuoso fiume Rienz. L'acqua è una costante in questi giorni, e le grandi piogge hanno pericolosamente innalzato i livelli di fiumi e torrenti, al punto di rappresentare un pericolo in diversi passaggi. Infatti proprio fra Brunico e Bressanone ci troviamo in un sottopasso allagato, con acqua evidentemente profonda una sessantina di centimetri.
 
 ![alt](t4-02-1024x768.jpg)
 
