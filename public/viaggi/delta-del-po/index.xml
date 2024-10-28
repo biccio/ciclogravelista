@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>Tappa 1 - da Ravenna a Comacchio</title>
+      <title>1 - Da Ravenna a Comacchio</title>
       <link>http://localhost:1313/viaggi/delta-del-po/tappa1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>Tappa 2 - da Comacchio a Boccasette</title>
+      <title>2 - da Comacchio a Boccasette</title>
       <link>http://localhost:1313/viaggi/delta-del-po/tappa2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -114,7 +114,7 @@ Sto pedalando a bassissima intensità, e questo sarà il leitmotiv di tutti i 90
     </item>
     
     <item>
-      <title>Tappa 3 - da Boccasette a Venezia</title>
+      <title>3 - da Boccasette a Venezia</title>
       <link>http://localhost:1313/viaggi/delta-del-po/tappa3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

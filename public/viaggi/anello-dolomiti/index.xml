@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>Tappa 1 - Da Bassano del Grappa a Belluno</title>
+      <title>1 - Da Bassano del Grappa a Belluno</title>
       <link>http://localhost:1313/viaggi/anello-dolomiti/tappa1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -59,7 +59,7 @@
     </item>
     
     <item>
-      <title>Tappa 2 - da Belluno a Pieve di Cadore</title>
+      <title>2 - Da Belluno a Pieve di Cadore</title>
       <link>http://localhost:1313/viaggi/anello-dolomiti/tappa2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -105,7 +105,7 @@ Buona continuazione!&lt;/p&gt;
     </item>
     
     <item>
-      <title>Tappa 3 - da Pieve di Cadore a Valdaora</title>
+      <title>3 - Da Pieve di Cadore a Valdaora</title>
       <link>http://localhost:1313/viaggi/anello-dolomiti/tappa3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -172,7 +172,7 @@ Grazie&lt;/p&gt;
     </item>
     
     <item>
-      <title>Tappa 4 – Da Valdaora a Chiusa</title>
+      <title>4 – Da Valdaora a Chiusa</title>
       <link>http://localhost:1313/viaggi/anello-dolomiti/tappa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -207,7 +207,7 @@ Grazie&lt;/p&gt;
     </item>
     
     <item>
-      <title>Tappa 5 – Da Chiusa a Trento</title>
+      <title>5 – Da Chiusa a Trento</title>
       <link>http://localhost:1313/viaggi/anello-dolomiti/tappa5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -256,7 +256,7 @@ Anche Trento è conquistata&lt;/p&gt;
     </item>
     
     <item>
-      <title>Tappa 6 – Da Trento a Bassano del Grappa</title>
+      <title>6 – Da Trento a Bassano del Grappa</title>
       <link>http://localhost:1313/viaggi/anello-dolomiti/tappa6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

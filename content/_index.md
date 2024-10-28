@@ -7,6 +7,21 @@ toc: false
 
 
 
+<div class="mt-6 mb-6">
+{{< hextra/hero-headline >}}
+  La mia bici dell'anima
+{{< /hextra/hero-headline >}}
+</div>
+
+<div class="mb-12">
+{{< hextra/hero-subtitle >}}
+
+ Ho cominciato ad andare in bici nel 2018, a quasi 50 anni. 
+È nato un grande amore, che ora è anche una rinascita. 
+ <a href="/la-mia-bici-dell-anima">Qui ti racconto la storia</a>, e <a href="/viaggi">qui racconto i miei viaggi</a>.
+{{< /hextra/hero-subtitle >}}
+</div>
+
 {{< cards cols="2">}}
   {{< card link="/viaggi/delta-del-po/" title="Il Delta del Po" image="viaggi/delta-del-po/img_4299-1024x768.jpg" subtitle="Un viaggio di tre giorni da Ravenna a Venezia, attraverso il Delta del Po (16-18 Giugno 2023)." >}}
   {{< card link="/viaggi/anello-dolomiti/" title="Anello Dolomiti" image="viaggi/anello-dolomiti/t5-05-1024x768.jpg" subtitle="Un viaggio a due in 6 tappe di 500Km da Bassano del Grappa fino al Lago di Braies, e poi Bressanone, Trento e la Valsugana fino a Bassano (3-9 Agosto 2021)." >}}

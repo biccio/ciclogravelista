@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>Tappa 1 - da Peschiera a Mantova</title>
+      <title>1 - da Peschiera a Mantova</title>
       <link>http://localhost:1313/viaggi/gardamare/tappa1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>Tappa 2 - da Mantova a Ostiglia</title>
+      <title>2 - da Mantova a Ostiglia</title>
       <link>http://localhost:1313/viaggi/gardamare/tappa2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>Tappa 3 - da Ostiglia a Ferrara</title>
+      <title>3 - Da Ostiglia a Ferrara</title>
       <link>http://localhost:1313/viaggi/gardamare/tappa3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -135,7 +135,7 @@
     </item>
     
     <item>
-      <title>Tappa 4 - Da Ferrara a Mesola</title>
+      <title>4 - Da Ferrara a Mesola</title>
       <link>http://localhost:1313/viaggi/gardamare/tappa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -174,7 +174,7 @@
     </item>
     
     <item>
-      <title>Tappa 5 - Da Mesola a Pomposa</title>
+      <title>5 - Da Mesola a Pomposa</title>
       <link>http://localhost:1313/viaggi/gardamare/tappa5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
