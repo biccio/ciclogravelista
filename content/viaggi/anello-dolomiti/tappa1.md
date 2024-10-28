@@ -1,5 +1,5 @@
 ---
-title: 1 - Da Bassano del Grappa a Belluno
+title: Da Bassano del Grappa a Belluno
 weight: 1
 data: 3 Agosto 2021
 ---

@@ -1,5 +1,5 @@
 ---
-title: 4 – Da Valdaora a Chiusa
+title: Da Valdaora a Chiusa
 weight: 4
 data: 6 Agosto 2021
 ---

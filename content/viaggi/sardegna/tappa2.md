@@ -1,5 +1,5 @@
 ---
-title: 2 - Da Luras a Nulvi
+title: Da Luras a Nulvi
 weight: 2
 data: 2 Agosto 2019
 ---

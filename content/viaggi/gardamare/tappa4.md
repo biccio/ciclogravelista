@@ -1,5 +1,5 @@
 ---
-title: 4 - Da Ferrara a Mesola
+title: Da Ferrara a Mesola
 weight: 4
 data: 1 Luglio 2019
 ---

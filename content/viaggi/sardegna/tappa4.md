@@ -1,5 +1,5 @@
 ---
-title: 4 - Da Orosei a Olbia
+title: Da Orosei a Olbia
 weight: 4
 data: 10 Agosto 2019
 ---

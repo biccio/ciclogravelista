@@ -1,5 +1,5 @@
 ---
-title: 5 – Da Chiusa a Trento
+title: Da Chiusa a Trento
 weight: 5
 data: 7 Agosto 2021
 ---

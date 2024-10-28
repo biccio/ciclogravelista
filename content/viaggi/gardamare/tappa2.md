@@ -1,5 +1,5 @@
 ---
-title: 2 - da Mantova a Ostiglia
+title: Da Mantova a Ostiglia
 weight: 2
 data: 29 Giugno 2019
 ---

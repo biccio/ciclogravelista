@@ -1,5 +1,5 @@
 ---
-title: 6 – Da Trento a Bassano del Grappa
+title: Da Trento a Bassano del Grappa
 weight: 6
 data: 9 Agosto 2021
 ---

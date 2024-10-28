@@ -1,5 +1,5 @@
 ---
-title: 3 - Da Sassari a Orosei
+title: Da Sassari a Orosei
 weight: 3
 data: 3 Agosto 2019
 ---

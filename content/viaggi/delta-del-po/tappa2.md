@@ -1,5 +1,5 @@
 ---
-title: 2 - da Comacchio a Boccasette
+title: Da Comacchio a Boccasette
 weight: 2
 data: 17 Giugno 2023
 ---
