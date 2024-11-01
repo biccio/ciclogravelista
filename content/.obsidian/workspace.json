@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "tappa6"
             }
+          },
+          {
+            "id": "3b92f76590bd8069",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,14 +227,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b20d4f4f3ec63b12",
+  "active": "3b92f76590bd8069",
   "lastOpenFiles": [
+    "viaggi/anello-dolomiti/tappa6.md",
     "viaggi/anello-dolomiti/tappa5.md",
     "viaggi/anello-dolomiti/tappa4.md",
     "viaggi/anello-dolomiti/tappa3.md",
     "viaggi/anello-dolomiti/tappa2.md",
     "viaggi/anello-dolomiti/tappa1.md",
-    "viaggi/anello-dolomiti/tappa6.md",
     "viaggi/delta-del-po/tappa3.md",
     "viaggi/delta-del-po/tappa2.md",
     "viaggi/delta-del-po/tappa1.md",
