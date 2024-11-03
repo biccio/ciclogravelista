@@ -1,4 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /home                /
-
 /v/i-miei-viaggi/delta-del-po/                /viaggi/delta-del-po/
+/v/i-miei-viaggi/gardamare19/				  /viaggi/gardamare/
+/2019/06/25/la-mia-bici-dell-anima/			  /la-mia-bici-dell-anima/
+/v/i-miei-viaggi/dolomiti-tour/               /viaggi/anello-dolomiti/
