@@ -1,7 +1,7 @@
 # Redirects from what the browser requests to what we serve
-/home                /
-/v/i-miei-viaggi/delta-del-po/                /viaggi/delta-del-po/
-/v/i-miei-viaggi/gardamare19/				  /viaggi/gardamare/
-/2019/06/25/la-mia-bici-dell-anima/			  /la-mia-bici-dell-anima/
-/v/i-miei-viaggi/dolomiti-tour/               /viaggi/anello-dolomiti/
-/2021/08/04/dolomiti-tour-tappa-2-da-belluno-a-pieve-di-cadore/          /viaggi/anello-dolomiti/tappa2/
+/home                /     301
+/v/i-miei-viaggi/delta-del-po/                /viaggi/delta-del-po/    301
+/v/i-miei-viaggi/gardamare19/				  /viaggi/gardamare/    301
+/2019/06/25/la-mia-bici-dell-anima/			  /la-mia-bici-dell-anima/   301
+/v/i-miei-viaggi/dolomiti-tour/               /viaggi/anello-dolomiti/   301
+/2021/08/04/dolomiti-tour-tappa-2-da-belluno-a-pieve-di-cadore/          /viaggi/anello-dolomiti/tappa2/   301
