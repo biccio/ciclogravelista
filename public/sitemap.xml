@@ -2,15 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/viaggi/sardegna/tappa1/</loc>
-  </url><url>
     <loc>http://localhost:1313/viaggi/anello-dolomiti/tappa1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/viaggi/sardegna/tappa1/</loc>
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/tappa1/</loc>
   </url><url>
     <loc>http://localhost:1313/viaggi/delta-del-po/tappa1/</loc>
   </url><url>
     <loc>http://localhost:1313/viaggi/delta-del-po/</loc>
+  </url><url>
+    <loc>http://localhost:1313/viaggi/anello-dolomiti/</loc>
   </url><url>
     <loc>http://localhost:1313/viaggi/anello-dolomiti/tappa2/</loc>
   </url><url>
@@ -19,8 +21,6 @@
     <loc>http://localhost:1313/viaggi/sardegna/tappa2/</loc>
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/tappa2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/viaggi/anello-dolomiti/</loc>
   </url><url>
     <loc>http://localhost:1313/viaggi/sardegna/</loc>
   </url><url>
@@ -40,13 +40,11 @@
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/</loc>
   </url><url>
-    <loc>http://localhost:1313/viaggi/gardamare/tappa5/</loc>
-  </url><url>
     <loc>http://localhost:1313/viaggi/anello-dolomiti/tappa5/</loc>
   </url><url>
-    <loc>http://localhost:1313/viaggi/anello-dolomiti/tappa6/</loc>
+    <loc>http://localhost:1313/viaggi/gardamare/tappa5/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/viaggi/anello-dolomiti/tappa6/</loc>
   </url><url>
     <loc>http://localhost:1313/viaggi/</loc>
   </url><url>

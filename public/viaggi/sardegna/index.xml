@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>1 -  Da Olbia a Luras</title>
+      <title>Da Olbia a Luras</title>
       <link>http://localhost:1313/viaggi/sardegna/tappa1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -61,7 +61,7 @@
     </item>
     
     <item>
-      <title>2 - Da Luras a Nulvi</title>
+      <title>Da Luras a Nulvi</title>
       <link>http://localhost:1313/viaggi/sardegna/tappa2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -104,7 +104,7 @@
     </item>
     
     <item>
-      <title>3 - Da Sassari a Orosei</title>
+      <title>Da Sassari a Orosei</title>
       <link>http://localhost:1313/viaggi/sardegna/tappa3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -141,7 +141,7 @@ Purtroppo però la giornata pesante del 31 luglio mi ha costretto ad uno stop il
     </item>
     
     <item>
-      <title>4 - Da Orosei a Olbia</title>
+      <title>Da Orosei a Olbia</title>
       <link>http://localhost:1313/viaggi/sardegna/tappa4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

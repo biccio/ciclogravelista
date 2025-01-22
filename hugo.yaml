@@ -1,6 +1,6 @@
 baseURL: "https://ciclogravelista.com"
 languageCode: 'en-us'
-theme: hextra
+theme: 'hextra'
 menu:
   main:
     - name: I miei viaggi
@@ -29,6 +29,10 @@ params:
       link: /
       width: 250
       height: 45
+  theme:
+    # light | dark | system
+    default: light
+
 
   page:
     # full (100%), wide (90rem), normal (1280px)
