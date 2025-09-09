@@ -1,9 +1,41 @@
 ---
-title: Gardamare 
-weight: 4
 layout: docs
+schema:
+  '@context': https://schema.org
+  '@type': EventSeries
+  description: Da Peschiera del Garda al Delta del Po, lungo la ciclabile del Mincio
+    e la pista ciclabile Destra Po, fino all’Abbazia di Pomposa (28 Giugno - 2 Luglio
+    2019)
+  event:
+  - '@type': Event
+    description: La Pista Ciclabile del Mincio da Peschiera del Garda a Mantova, dove
+      il cuore si spalanca inaspettatamente
+    image: t1-01-1024x768.jpg
+    name: Tappa 1 - Da Peschiera a Mantova
+  - '@type': Event
+    description: Dove all’inizio sembra la tangenziale controvento poi dopo è solo
+      controvento
+    image: t2-01-1024x768.jpg
+    name: Tappa 2 - Da Mantova a Ostiglia
+  - '@type': Event
+    description: Dove ho incontrato qualche persona, qualche storia, e persino una
+      poesia
+    image: t3-01-1024x768.jpg
+    name: Tappa 3 - Da Ostiglia a Ferrara
+  - '@type': Event
+    description: Dove non c’è molto da vedere, se non il Po. Ma se c’è qualcosa che
+      deve rompersi, succederà qui.
+    image: t4-04-1024x768.jpg
+    name: Tappa 4 - Da Ferrara a Mesola
+  - '@type': Event
+    description: Passando dal mare. Con mezz’ora di videogame dal vivo
+    image: t5-05-1024x768.jpg
+    name: Tappa 5 - Da Mesola a Pomposa
+  name: Gardamare
 sidebar:
   open: false
+title: Gardamare
+weight: 4
 ---
 
 Da Peschiera del Garda al Delta del Po, lungo la ciclabile del Mincio e la pista ciclabile Destra Po, fino all’Abbazia di Pomposa (28 Giugno - 2 Luglio 2019)

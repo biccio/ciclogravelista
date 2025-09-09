@@ -1,8 +1,38 @@
 ---
+data: 1 Luglio 2019
+schema:
+  '@context': https://schema.org
+  '@type': Event
+  description: Un'analisi personale di un viaggio in bicicletta da Ferrara a Mesola.
+  endDate: 1 Luglio 2019
+  eventCategory: Travel
+  eventStatus: http://schema.org/EventScheduled
+  image:
+    '@type': ImageObject
+    url:
+    - t4-01-1024x768.jpg
+    - t4-02-1024x768.jpg
+    - t4-03-1024x576.jpg
+    - t4-04-1024x768.jpg
+  location:
+    '@type': Place
+    address:
+      '@type': PostalAddress
+      addressCountry: Italy
+      addressLocality: Ferrara
+      addressRegion: ''
+      postalCode: ''
+      streetAddress: ''
+    name: Ferrara to Mesola
+  name: Da Ferrara a Mesola
+  performer:
+    '@type': Person
+    name: Anonymous Author
+  startDate: 1 Luglio 2019
 title: Da Ferrara a Mesola
 weight: 4
-data: 1 Luglio 2019
 ---
+
 ***1 Luglio 2019***
 
  _Da Ferrara a Mesola, dove non c'è molto da vedere, se non il Po, che è immenso, maestoso e silenzioso. Ma se c'è qualcosa che deve rompersi, è proprio qui che probabilmente succede. E infatti._

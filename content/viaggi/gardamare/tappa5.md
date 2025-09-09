@@ -1,8 +1,47 @@
 ---
+data: 2 Luglio 2019
+schema:
+  '@context': https://schema.org
+  '@type': Article
+  articleBody:
+  - '@type': Text
+    text: La partenza, la bellezza...
+  - '@type': Text
+    text: Il mare...
+  - '@type': Text
+    text: Il videogame...
+  - '@type': Text
+    text: Fine del viaggio...
+  author:
+    '@type': Person
+    name: Your Name
+  datePublished: 2 Luglio 2019
+  description: Un viaggio in bicicletta lungo il Po di Goro e la sua fine al mare.
+  image:
+  - '@type': ImageObject
+    caption: Torre Abate
+    url: t5-01-1024x768.jpg
+  - '@type': ImageObject
+    caption: Canale Bianco
+    url: t5-02-1024x768.jpg
+  - '@type': ImageObject
+    caption: Goro
+    url: t5-03-1024x768.jpg
+  - '@type': ImageObject
+    caption: Sterrato con cartello
+    url: t5-04-1024x768.jpg
+  - '@type': ImageObject
+    caption: Lido di Volano
+    url: t5-05-1024x768.jpg
+  - '@type': ImageObject
+    caption: Abbazia di Pomposa
+    url: t5-06-1024x768.jpg
+  learningResourceType: BlogPosting
+  name: Da Mesola a Pomposa
 title: Da Mesola a Pomposa
 weight: 5
-data: 2 Luglio 2019
 ---
+
 ***2 Luglio 2019***
 
 Questa volta sono partito senza tracce per il navigatore, perché volevo arrivare al mare chiedendo informazioni e orientandomi da solo. Vai a sapere che mi sarei trovato anche dentro un videogioco dal vivo.

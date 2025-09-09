@@ -1,8 +1,43 @@
 ---
+data: 30 Giugno 2019
+schema:
+  '@context': https://schema.org
+  '@type': Event
+  description: Un viaggio in bicicletta da Ostiglia a Ferrara, con incontri e storie
+    lungo il percorso.
+  endDate: 30 Giugno 2019
+  eventCategory:
+  - Travel
+  - Adventure
+  eventStatus: http://schema.org/EventScheduled
+  image:
+    '@type': ImageObject
+    url:
+    - t3-01-1024x768.jpg
+    - t3-02-1024x768.jpg
+    - t3-03-1024x768.jpg
+    - t3-04-1024x768.jpg
+    - t3-05-1024x768.jpg
+    - t3-06-1024x768.jpg
+    - t3-07-1024x768.jpg
+  location:
+    '@type': Place
+    address:
+      '@type': PostalAddress
+      addressLocality: Ostiglia and Ferrara
+      addressRegion: ''
+      postalCode: ''
+      streetAddress: ''
+    name: Ostiglia to Ferrara
+  name: Da Ostiglia a Ferrara
+  performer:
+    '@type': Person
+    name: Anonymous Author
+  startDate: 30 Giugno 2019
 title: Da Ostiglia a Ferrara
 weight: 3
-data: 30 Giugno 2019
 ---
+
 ***30 Giugno 2019***
 
 _Da Ostiglia a Ferrara, dove ho incontrato qualche persona, qualche storia, e persino una poesia_
