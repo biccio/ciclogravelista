@@ -1,8 +1,54 @@
 ---
+data: 4 Agosto 2021
+schema:
+  '@context': https://schema.org
+  '@type': Event
+  author:
+    '@type': Person
+    name: Vincenzo
+  comment:
+  - '@type': Comment
+    author:
+      '@type': Person
+      name: Margherita
+    text: "Grandissimi! Vi invidio soprattutto la tappa alla locanda \U0001F60A (non
+      è vero, anche il Piave). Buona continuazione!"
+  description: A cycling tour from Belluno to Pieve di Cadore, with photos and stories.
+  endDate: '2021-08-04'
+  image:
+  - '@type': ImageObject
+    caption: La partenza
+    url: t2-01-1024x768.jpg
+  - '@type': ImageObject
+    caption: Canevoi
+    url: t2-02-1024x768.jpg
+  - '@type': ImageObject
+    caption: La bellezza arriva
+    url: t2-03-1024x768.jpg
+  - '@type': ImageObject
+    caption: Soverzene
+    url: t2-04-1024x768.jpg
+  - '@type': ImageObject
+    caption: Il Ponte sul Piave
+    url: t2-05-1024x768.jpg
+  - '@type': ImageObject
+    caption: Codissago
+    url: t2-06-1024x768.jpg
+  - '@type': ImageObject
+    caption: La Locanda dei Dogi
+    url: t2-07-1024x768.jpg
+  location:
+    '@type': Place
+    name: Pieve di Cadore
+  name: Da Belluno a Pieve di Cadore
+  startDate: '2021-08-04'
+  trailer:
+    '@type': URL
+    url: Giro_delle_Dolomiti_Day_2_da_Belluno_a_Pieve_di_Cadore.gpx
 title: Da Belluno a Pieve di Cadore
 weight: 2
-data: 4 Agosto 2021
 ---
+
 ***4 Agosto 2021***
 
 Dopo la lunga tappa di ieri, con Vincenzo abbiamo deciso di fare una tappa di "trasferimento" senza spingere troppo, 45km con un dislivello totale di 848mt con destinazione Pieve di Cadore. La giornata è buona ma sappiamo che troveremo tempaccio salendo verso nord. Mi fa un po' male il ginocchio ma confido nel fatto che pedalare normalmente non peggiora la situazione.

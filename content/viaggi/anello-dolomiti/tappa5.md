@@ -1,8 +1,44 @@
 ---
+data: 7 Agosto 2021
+schema:
+  '@context': https://schema.org
+  '@type': Article
+  articleBody:
+  - '@type': Text
+    text: Proprio quando ti sembra di aver iniziato la discesa, e inizi a mollare,
+      ecco che arriva la giornata più pesante...
+  - '...'
+  audience:
+  - '@type': Audience
+    name: Ciclisti
+  author:
+    '@type': Person
+    name: Vincenzo e [nome dell'autore]
+  datePublished: 7 Agosto 2021
+  description: Un'analisi tecnica del percorso ciclabile da Chiusa a Trento.
+  image:
+  - '@type': ImageObject
+    caption: La ciclabile da Chiusa a Bolzano
+    url: t5-01-1024x768.jpg
+  - '@type': ImageObject
+    caption: L'esposizione permanente di opere create da un laboratorio artistico
+      per persone con disabilità
+    url: t5-02-1024x768.jpg
+  - '@type': ImageObject
+    caption: La piazzetta principale di Appiano
+    url: t5-04-1024x768.jpg
+  - '@type': ImageObject
+    caption: Le vigne della Strada del Vino
+    url: t5-08-1024x768.jpg
+  - '@type': ImageObject
+    caption: Il lungo Adige cittadino
+    url: t5-11-1024x768.jpg
+  learningResourceType: HowTo
+  name: Da Chiusa a Trento
 title: Da Chiusa a Trento
 weight: 5
-data: 7 Agosto 2021
 ---
+
 ***7 Agosto 2021***
 
 Proprio quando ti sembra di aver iniziato la discesa, e inizi a mollare, ecco che arriva la giornata più pesante che ti prende in contropiede tanto è inaspettata. 

@@ -1,8 +1,44 @@
 ---
+data: 3 Agosto 2021
+schema:
+  '@context': https://schema.org
+  '@type': Article
+  audience:
+  - '@type': Audience
+    name: Ciclisti
+  - '@type': Audience
+    name: Viaggiatori
+  author:
+    '@type': Person
+    name: Your Name
+  datePublished: '2021-08-03'
+  description: Un racconto di viaggio in bicicletta attraverso le Dolomiti.
+  image:
+  - '@type': ImageObject
+    caption: La partenza da Bassano del Grappa
+    url: t1-01-1024x768.jpg
+  - '@type': ImageObject
+    caption: La strada secondaria molto piacevole
+    url: t1-02-1024x768.jpg
+  - '@type': ImageObject
+    caption: Il meccanico di Pederobba
+    url: t1-03-1024x768.jpg
+  - '@type': ImageObject
+    caption: La strada verso Belluno
+    url: t1-04-1024x768.jpg
+  learningResourceType: BlogPosting
+  mentions:
+  - '@type': Person
+    name: Vincenzo
+  - '@type': Place
+    name: Pederobba
+  - '@type': Place
+    name: Belluno
+  name: Da Bassano del Grappa a Belluno
 title: Da Bassano del Grappa a Belluno
 weight: 1
-data: 3 Agosto 2021
 ---
+
 ***3 Agosto 2021***
 
 Dopo un intero anno senza viaggi in bici causa Covid, finalmente torno a mettere le borse sulla mia Genesis per macinare un po' di km in qualche giorno. La scelta cade sulle Dolomiti, un giro non particolarmente impegnativo per chi è giovane ed allenato, probabilmente un po' difficoltoso per un ciclista della domenica come me. La novità stavolta è che non sono da solo, sono con il mio amico Vincenzo, e non mi dispiace lasciare un po' da parte i miei viaggi in solitaria, senza mai dimenticare lo spirito con cui tutto questo è iniziato.

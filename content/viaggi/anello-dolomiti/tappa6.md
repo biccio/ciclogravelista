@@ -1,8 +1,35 @@
 ---
+data: 9 Agosto 2021
+schema:
+  '@context': https://schema.org
+  '@type': Event
+  author:
+    '@type': Person
+    name: Vincenzo
+  description: Un viaggio in bicicletta lungo la ciclabile della Valsugana.
+  endDate: 9 Agosto 2021
+  eventStatus: http://schema.org/EventScheduled
+  image:
+    '@type': ImageObject
+    url:
+    - t6-02-1024x768.jpg
+    - t6-03-1024x768.jpg
+    - t6-04-1024x768.jpg
+    - t6-05-1024x768.jpg
+    - t6-06-1024x768.jpg
+    - t6-07-1024x768.jpg
+  location:
+    '@type': Place
+    name: Valsugana
+  name: Da Trento a Bassano del Grappa
+  publisher:
+    '@type': Organization
+    name: Giro delle Dolomiti
+  startDate: 9 Agosto 2021
 title: Da Trento a Bassano del Grappa
 weight: 6
-data: 9 Agosto 2021
 ---
+
 ***9 Agosto 2021***
 
 Dopo una giornata di riposo a Trento per riprendere le energie, ci accingiamo a chiudere il giro percorrendo la ciclabile che nel 2020 si è aggiudicata il premio della stampa dell' "Italian green roads award", l'oscar italiano del cicloturismo: la ciclabile della Valsugana. Siamo molto curiosi, e l'idea di chiudere l'anello con un percorso molto bello ci intriga parecchio. C'è solo un piccolo problema: che per accedere alla Valsugana da Trento occorre scollinare un passo a 730mt slm partendo dai 190mt di Trento, in 7km circa. 

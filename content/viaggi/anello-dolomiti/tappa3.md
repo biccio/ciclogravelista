@@ -1,8 +1,51 @@
 ---
+data: 5 Agosto 2021
+schema:
+  '@context': https://schema.org
+  '@type': Event
+  description: Un giro in bicicletta attraverso le Dolomiti, con descrizione dei luoghi
+    visitati e delle emozioni vissute.
+  endDate: '2021-08-05'
+  image:
+    '@type': ImageObject
+    url:
+    - t3-01-1024x768.jpg
+    - t3-02-1024x768.jpg
+    - t3-03-1024x768.jpg
+    - t3-04-1024x768.jpg
+    - t3-05-1024x768.jpg
+    - t3-06-1024x768.jpg
+    - t3-07-1024x768.jpg
+    - t3-08-1024x768.jpg
+    - t3-09-1024x768.jpg
+  learningResourceType: BlogPosting
+  location:
+    '@type': Place
+    address:
+      '@type': PostalAddress
+      addressLocality: Valdaora di Sotto
+      addressRegion: Belluno
+      postalCode: ''
+      streetAddress: ''
+    name: Dolomiti
+  mentions:
+  - '@type': Place
+    name: Pieve di Cadore
+  - '@type': Place
+    name: Cortina
+  - '@type': Place
+    name: Dobbiaco
+  - '@type': Place
+    name: Lago di Braies
+  name: Da Pieve di Cadore a Valdaora
+  performer:
+    '@type': Person
+    name: Io e Vincenzo
+  startDate: '2021-08-05'
 title: Da Pieve di Cadore a Valdaora
 weight: 3
-data: 5 Agosto 2021
 ---
+
 ***5 Agosto 2021***
 
 Io e Vincenzo sapevamo bene che questa sarebbe stata la tappa più lunga, la più difficile e la più bella del giro, ma quanto saremmo rimasti meravigliati e stupiti era inimmaginabile.

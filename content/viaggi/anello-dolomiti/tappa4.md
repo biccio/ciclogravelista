@@ -1,8 +1,48 @@
 ---
+data: 6 Agosto 2021
+schema:
+  '@context': https://schema.org
+  '@type': TravelArticle
+  audience:
+  - '@type': Audience
+    name: Ciclisti e viaggiatori
+  author:
+    '@type': Person
+    name: Autore anonimo
+  datePublished: 6 Agosto 2021
+  description: Un'analisi del viaggio da Valdaora a Chiusa, con descrizioni delle
+    tappe e delle emozioni vissute.
+  image:
+  - '@type': ImageObject
+    caption: La ciclabile da Valdaora a Brunico
+    url: t4-01-1024x768.jpg
+  - '@type': ImageObject
+    caption: Il sottopasso allagato fra Brunico e Bressanone
+    url: t4-02-1024x768.jpg
+  - '@type': ImageObject
+    caption: La ferrovia e il fiume Rienz
+    url: t4-03-1024x768.jpg
+  - '@type': ImageObject
+    caption: Il Duomo di Bressanone
+    url: t4-04-1024x768.jpg
+  - '@type': ImageObject
+    caption: La serata a Chiusa
+    url: t4-05-1024x768.jpg
+  learningResourceType: Travelogue
+  name: Da Valdaora a Chiusa
+  publisher:
+    '@type': Organization
+    name: ChromaDB
+  trailer:
+    '@type': HowTo
+    description: Un'analisi del quarto giorno del giro delle Dolomiti, da Valdaora
+      a Chiusa.
+    name: 'Giro delle Dolomiti - Day 4: Da Valdaora a Chiusa'
+    url: ../Giro_delle_Dolomiti_Day_4_Da_Valdaora_a_Chiusa.gpx
 title: Da Valdaora a Chiusa
 weight: 4
-data: 6 Agosto 2021
 ---
+
 ***6 Agosto 2021***
 
 Dopo Braies, che nella nostra mente rappresentava la sfida principale, sapevamo che il resto del viaggio sarebbe stato più "in discesa". E infatti questa tappa, più breve e nettamente meno faticosa, non ci ha dato grandissime emozioni. 
