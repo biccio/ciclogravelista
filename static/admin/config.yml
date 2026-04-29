@@ -4,7 +4,7 @@
 # ==============================================================
 
 backend:
-  name: github
+  name: git-gateway
   repo: biccio/ciclogravelista
   branch: main
 
