@@ -1,0 +1,171 @@
+# ==============================================================
+# Decap CMS — config.yml
+# Sito: ciclogravelista.com (Hugo + Hextra + Netlify)
+# ==============================================================
+
+backend:
+  name: git-gateway
+  repo: biccio/ciclogravelista
+  branch: main
+
+# Abilita l'anteprima editoriale (opzionale)
+publish_mode: editorial_workflow
+
+# Cartella dove Decap caricherà le immagini caricate dal CMS
+# (le immagini esistenti nei contenuti rimangono dove sono)
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+# ==============================================================
+# COLLECTIONS
+# ==============================================================
+
+collections:
+
+  # ------------------------------------------------------------
+  # PAGINE STATICHE
+  # Editing di home e pagina "La mia bici dell'anima"
+  # ------------------------------------------------------------
+  - name: "pagine"
+    label: "📄 Pagine statiche"
+    files:
+
+      - name: "home"
+        label: "Home Page"
+        file: "content/_index.md"
+        fields:
+          - label: "Titolo"
+            name: "title"
+            widget: "string"
+          - label: "Descrizione"
+            name: "description"
+            widget: "text"
+            required: false
+          - label: "Contenuto"
+            name: "body"
+            widget: "markdown"
+
+      - name: "bici-dell-anima"
+        label: "La mia bici dell'anima"
+        file: "content/la-mia-bici-dell-anima/index.md"
+        fields:
+          - label: "Titolo"
+            name: "title"
+            widget: "string"
+          - label: "Mostra indice laterale (TOC)"
+            name: "toc"
+            widget: "boolean"
+            default: false
+            required: false
+          - label: "Contenuto"
+            name: "body"
+            widget: "markdown"
+
+  # ------------------------------------------------------------
+  # ANELLO DOLOMITI
+  # Tappe del viaggio (agosto 2021)
+  # NOTA: il file _index.md appare nell'elenco ma NON modificarlo
+  #       da qui — contiene dati strutturati JSON-LD complessi.
+  # ------------------------------------------------------------
+  - name: "anello-dolomiti"
+    label: "🏔️ Anello Dolomiti"
+    folder: "content/viaggi/anello-dolomiti"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Titolo tappa"
+        name: "title"
+        widget: "string"
+        hint: "Es: Da Bassano del Grappa a Belluno"
+      - label: "Data (formato italiano)"
+        name: "data"
+        widget: "string"
+        hint: "Es: 3 Agosto 2021"
+      - label: "Ordine tappa"
+        name: "weight"
+        widget: "number"
+        value_type: "int"
+        min: 1
+        hint: "1 = prima tappa, 2 = seconda, ecc."
+      - label: "Contenuto"
+        name: "body"
+        widget: "markdown"
+
+  # ------------------------------------------------------------
+  # DELTA DEL PO
+  # Tappe del viaggio (giugno 2023)
+  # ------------------------------------------------------------
+  - name: "delta-del-po"
+    label: "🦆 Delta del Po"
+    folder: "content/viaggi/delta-del-po"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Titolo tappa"
+        name: "title"
+        widget: "string"
+        hint: "Es: Da Ravenna a Comacchio"
+      - label: "Data (formato italiano)"
+        name: "data"
+        widget: "string"
+        hint: "Es: 16 Giugno 2023"
+      - label: "Ordine tappa"
+        name: "weight"
+        widget: "number"
+        value_type: "int"
+        min: 1
+      - label: "Contenuto"
+        name: "body"
+        widget: "markdown"
+
+  # ------------------------------------------------------------
+  # GARDAMARE
+  # Tappe del viaggio (giugno-luglio 2019)
+  # ------------------------------------------------------------
+  - name: "gardamare"
+    label: "🌊 Gardamare"
+    folder: "content/viaggi/gardamare"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Titolo tappa"
+        name: "title"
+        widget: "string"
+      - label: "Data (formato italiano)"
+        name: "data"
+        widget: "string"
+        hint: "Es: 28 Giugno 2019"
+      - label: "Ordine tappa"
+        name: "weight"
+        widget: "number"
+        value_type: "int"
+        min: 1
+      - label: "Contenuto"
+        name: "body"
+        widget: "markdown"
+
+  # ------------------------------------------------------------
+  # SARDEGNA
+  # Tappe del viaggio (luglio-agosto 2019)
+  # ------------------------------------------------------------
+  - name: "sardegna"
+    label: "🏝️ Sardegna Tour"
+    folder: "content/viaggi/sardegna"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Titolo tappa"
+        name: "title"
+        widget: "string"
+      - label: "Data (formato italiano)"
+        name: "data"
+        widget: "string"
+        hint: "Es: 31 Luglio 2019"
+      - label: "Ordine tappa"
+        name: "weight"
+        widget: "number"
+        value_type: "int"
+        min: 1
+      - label: "Contenuto"
+        name: "body"
+        widget: "markdown"

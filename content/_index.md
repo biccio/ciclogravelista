@@ -23,6 +23,7 @@ toc: false
 </div>
 
 {{< cards cols="2">}}
+  {{< card link="/viaggi/tuscany-trail/" title="Tuscany Trail 2026" image="viaggi/tuscany-trail/img_5000-1024x768.jpg" subtitle="Lo storico evento gravel bikepacking toscano, da fare almeno una volta nella vita. (22-26 Maggio 2026)." >}}
   {{< card link="/viaggi/delta-del-po/" title="Il Delta del Po" image="viaggi/delta-del-po/img_4299-1024x768.jpg" subtitle="Un viaggio di tre giorni da Ravenna a Venezia, attraverso il Delta del Po (16-18 Giugno 2023)." >}}
   {{< card link="/viaggi/anello-dolomiti/" title="Anello Dolomiti" image="viaggi/anello-dolomiti/t5-05-1024x768.jpg" subtitle="Un viaggio a due in 6 tappe di 500Km da Bassano del Grappa fino al Lago di Braies, e poi Bressanone, Trento e la Valsugana fino a Bassano (3-9 Agosto 2021)." >}}
   {{< card link="/viaggi/sardegna/" title="Sardegna Tour" image="viaggi/sardegna/t3-02-1024x768.jpg" subtitle="Un viaggio sconclusionato e un po’ caotico nel nord est della Sardegna (31 Luglio - 11 Agosto 2019)." >}}
