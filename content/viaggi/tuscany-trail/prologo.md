@@ -22,7 +22,7 @@ Le gambe non ce l’ho, e forse neanche il fiato. Ma il cuore ha fatto un lungo 
 
 ## La macchinina gialla
 
-Con me ho una macchinina gialla. Ho chiesto a mio figlio (ormai quasi 4enne) di sceglierne una da darmi, e che avrei portato con me in questo viaggio. Sarà un modo per portarlo con me, insieme al pensiero che non mi lascia mai.
+Con me ho una macchinina gialla. Ho chiesto a mio figlio (ormai quasi 4enne) di sceglierne una da portarmi in questo viaggio. Mi piaceva molto l’idea di una sua macchinina che gira la Toscana insieme a me e alla mia bici: un modo per stare insieme anche a distanza, creando tante storie da raccontare, come [il nano di Amelie](https://www.amica.it/gallery/le-foto-piu-favolose-di-il-favoloso-mondo-di-amelie-e-le-clip-del-film/).
 
 ![alt](img_5002-1024x768.jpg)
 
