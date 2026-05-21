@@ -47,7 +47,7 @@ schema:
 sidebar:
   open: false
 title: Anello Dolomiti
-weight: 2
+weight: 3
 ---
 
 Un viaggio a due in 6 tappe di 500Km da Bassano del Grappa fino al Lago di Braies, poi Trento e la Valsugana fino a Bassano (3-9 Agosto 2021)

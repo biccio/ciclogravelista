@@ -35,7 +35,7 @@ schema:
 sidebar:
   open: false
 title: Gardamare
-weight: 4
+weight: 5
 ---
 
 Da Peschiera del Garda al Delta del Po, lungo la ciclabile del Mincio e la pista ciclabile Destra Po, fino all’Abbazia di Pomposa (28 Giugno - 2 Luglio 2019)

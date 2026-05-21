@@ -1,7 +1,6 @@
 ---
 title: Sardegna Tour
-weight: 2
-layout: docs
+weight: 4
 sidebar:
   open: false
 ---
