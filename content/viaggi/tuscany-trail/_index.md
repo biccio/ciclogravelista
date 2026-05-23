@@ -15,4 +15,7 @@ Lo storico evento gravel bikepacking toscano, da fare almeno una volta nella vit
 title="Tappa 1 - Da Venturina a Paganico" image="img_4999-1024x768.jpg" subtitle="Dove provo a trovare un equilibrio diverso"
 method="Resize" options="600x q80 webp">}}
 
+{{< card link="tappa1"
+title="Tappa 2 - Da Paganico a Torrenieri" image="img_5011-1024x768.jpg" subtitle="Dove i desideri sono illusioni"
+method="Resize" options="600x q80 webp">}}
 {{< /cards >}}
