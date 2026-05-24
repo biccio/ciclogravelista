@@ -5,7 +5,7 @@ data: 23 Maggio 2026
 ---
 ***23 Maggio 2026***
 
-A volte i desideri sono illusioni, ma aiutano a capire meglio cosa vuoi veramente 
+I desideri sono illusioni, ma aiutano a capire meglio cosa è giusto per noi. 
 
 ## La partenza 
 Dopo la giornata di ieri chiaramente mi aspettavo fiacca e dolori, invece per fortuna (ma anche per “dosaggio” dello sforzo) dolori non ne avevo. Ho però trovato il modo di rimediare subito: scendendo dalla sterrata dell’agriturismo dove abbiamo passato la notte, ho preso male uno spacco nella terra e sono caduto, rimediando due belle botte ai lati delle ginocchia (giusto per infierire là dove non me la passo benissimo). E vabbè. 
