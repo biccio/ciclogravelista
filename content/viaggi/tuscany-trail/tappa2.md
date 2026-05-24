@@ -3,7 +3,7 @@ title: Tappa 2 - Da Paganico a Torrenieri
 weight: 3
 data: 23 Maggio 2026
 ---
-***23 Maggio 2026***
+***23 Maggio 2026 - 66,20km 1450 DSL +***
 
 I desideri sono illusioni, ma aiutano a capire meglio cosa è giusto per noi. 
 

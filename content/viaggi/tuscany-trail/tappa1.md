@@ -3,7 +3,7 @@ title: Tappa 1 - Da Venturina a Paganico
 weight: 2
 data: 22 Maggio 2026
 ---
-***22 Maggio 2026***
+***22 Maggio 2026 - 126,85km 1305 DSL +***
 
 È importante conciliare ciò che siamo e possiamo fare, con il desiderio di fare.
 
