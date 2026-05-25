@@ -19,11 +19,11 @@ method="Resize" options="600x q80 webp">}}
 title="Tappa 2 - Da Paganico a Torrenieri" image="img_5011-1024x768.jpg" subtitle="Dove i desideri, forse, sono illusioni"
 method="Resize" options="600x q80 webp">}}
 
-{{< ecard link="tappa3"
+{{< card link="tappa3"
 title="Tappa 3 - Da Torrenieri a Campiglia" image="img_5016-1024x768.jpg" subtitle="Dove inaspettatamente ritrovo la mia resilienza attiva"
 method="Resize" options="600x q80 webp">}}
 
-{{< ecard link="tappa4"
+{{< card link="tappa4"
 title="Tappa 4 - Da Campiglia a Lajatico" image="img_5026.jpg" subtitle="Dove il sorriso è il motore"
 method="Resize" options="600x q80 webp">}}
 {{< /cards >}}
