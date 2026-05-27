@@ -21,16 +21,6 @@ markup:
       unsafe: true
 
 params:
-  comments:
-    enable: false
-    type: giscus
-    giscus:
-      repo: "biccio/ciclogravelista"
-      repoId: "R_kgDOM8Qg2Q"
-      category: "Comments"
-      categoryId: "DIC_kwDOM8Qg2c4C99k-"
-      lang: "en"
-      reactionsEnabled: 0
   navbar:
     displayTitle: true
     displayLogo: true
