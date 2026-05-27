@@ -40,7 +40,7 @@ params:
       repoId: R_kgDOM8Qg2Q
       category: Comments
       categoryId: DIC_kwDOM8Qg2c4C99k-
-
+      crossorigin: anonymous
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: wide
