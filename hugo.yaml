@@ -40,4 +40,6 @@ params:
 
 services:
   googleAnalytics:
-    ID: G-BD8LYXM9X1
+    ID: G-BD8LYXM9X1 
+  disqus:
+    shortname: ciclogravelista
