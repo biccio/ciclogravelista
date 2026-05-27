@@ -33,13 +33,13 @@ params:
     # light | dark | system
     default: light
   comments:
-  enable: false
-  type: giscus
-  giscus:
-    repo: ciclogravelista
-    repoId: R_kgDOM8Qg2Q
-    category: Comments
-    categoryId: DIC_kwDOM8Qg2c4C99k-
+    enable: true
+    type: giscus
+    giscus:
+      repo: ciclogravelista
+      repoId: R_kgDOM8Qg2Q
+      category: Comments
+      categoryId: DIC_kwDOM8Qg2c4C99k-
 
   page:
     # full (100%), wide (90rem), normal (1280px)
