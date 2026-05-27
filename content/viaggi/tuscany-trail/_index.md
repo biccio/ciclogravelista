@@ -28,7 +28,7 @@ title="Tappa 4 - Da Campiglia a Lajatico" image="img_5026.jpg" subtitle="Dove il
 method="Resize" options="600x q80 webp">}}
 
 {{< card link="tappa5"
-title="Tappa 5 - Da Lajatico a Campiglia Marittima" image="img_5031.jpg" subtitle="Dove è Shiki-shin-funi e Itai doshin"
+title="Tappa 5 - Da Lajatico a Campiglia Marittima" image="img_5032.jpg" subtitle="Dove è Shiki-shin-funi e Itai doshin"
 method="Resize" options="600x q80 web">}}
 
 {{< /cards >}}
