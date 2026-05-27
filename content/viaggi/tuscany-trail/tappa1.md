@@ -1,6 +1,5 @@
 ---
 title: Tappa 1 - Da Venturina a Paganico
-comments: true
 weight: 2
 data: 22 Maggio 2026
 ---
