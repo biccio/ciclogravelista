@@ -27,5 +27,8 @@ method="Resize" options="600x q80 webp">}}
 title="Tappa 4 - Da Campiglia a Lajatico" image="img_5026.jpg" subtitle="Dove il sorriso è il motore"
 method="Resize" options="600x q80 webp">}}
 
+{{< card link="tappa5"
+title="Tappa 5 - Da Lajatico a Campiglia Marittima" image="img_5031.jpg" subtitle="Dove il sorriso è il motore"
+method="Resize" options="600x q80 web">}}
 
 {{< /cards >}}
