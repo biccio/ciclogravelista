@@ -1,5 +1,15 @@
 baseURL: "https://ciclogravelista.com"
-languageCode: 'en-us'
+languageCode: 'it'
+
+defaultContentLanguage: it
+languages:
+  it:
+    languageName: Italiano
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
+
 theme: 'hextra'
 menu:
   main:
