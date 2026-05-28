@@ -1,5 +1,5 @@
 baseURL: "https://ciclogravelista.com"
-languageCode: 'it'
+languageCode: it
 
 defaultContentLanguage: it
 languages:
