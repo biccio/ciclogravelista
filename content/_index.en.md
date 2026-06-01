@@ -13,7 +13,8 @@ toc: false
 {{< hextra/hero-subtitle >}}
  I started cycling in 2018, at almost 50 years old. 
 A great love was born, which then became a rebirth. <br class="sm:block hidden" />
- <a href="/la-mia-bici-dell-anima">Here I tell you the story</a>, and <a href="/viaggi">here I tell you about my travels</a>.
+ <a href="/la-mia-bici-dell-anima">Here I tell you the story</a>, and <a href="/viaggi">here I tell you about my travels</a>.<br class="sm:block hidden" />
+ <small>Versione italiana <a href="/">→ qui</a></small>
 {{< /hextra/hero-subtitle >}}
 </div>
 {{< cards cols="2">}}
