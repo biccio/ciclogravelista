@@ -1,18 +1,6 @@
 baseURL: "https://ciclogravelista.com"
 languageCode: it
 theme: 'hextra'
-menu:
-  main:
-    - name: I miei viaggi
-      pageRef: /viaggi
-      weight: 1
-    - name: La mia bici dell'anima
-      pageRef: /la-mia-bici-dell-anima
-      weight: 2
-    - name: Cerca
-      weight: 3
-      params:
-        type: search
 
 markup:
   # allow raw html
@@ -40,6 +28,68 @@ params:
 services:
   googleAnalytics:
     ID: G-BD8LYXM9X1
+
+defaultContentLanguage: it
+languages:
+  it:
+    languageName: Italiano
+    weight: 1
+    params:
+      navbar:
+        displayTitle: true
+        displayLogo: true
+        logo:
+          path: images/logo.png
+          link: /
+          width: 250
+          height: 45
+
+    menu:
+      main:
+        - name: I miei viaggi
+          pageRef: /viaggi
+          weight: 1
+        - name: La mia bici dell'anima
+          pageRef: /la-mia-bici-dell-anima
+          weight: 2
+        - name: English Version
+          pageRef: /en
+          weight: 3
+        - name: Cerca
+          weight: 4
+          params:
+            type: search
+
+
+  en:
+    languageName: English
+    weight: 2
+    params:
+      navbar:
+        displayTitle: true
+        displayLogo: true
+        logo:
+          path: images/logo.png
+          link: /en
+          width: 250
+          height: 45
+    menu:
+      main:
+        - name: My trips
+          pageRef: /viaggi
+          weight: 1
+        - name: My soul bike
+          pageRef: /la-mia-bici-dell-anima
+          weight: 2
+        - name: Versione Italiana
+          url: "/"
+          weight: 3
+          params:
+        - name: Search
+          weight: 4
+          params:
+            type: search
+
 
 
 

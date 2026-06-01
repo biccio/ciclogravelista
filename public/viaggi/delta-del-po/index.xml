@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> – Il Delta del Po</title>
+    <title> – Delta del Po</title>
     <link>http://localhost:1313/viaggi/delta-del-po/</link>
-    <description>Recent content in Il Delta del Po on </description>
+    <description>Recent content in Delta del Po on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>it</language>
     
 	  <atom:link href="http://localhost:1313/viaggi/delta-del-po/index.xml" rel="self" type="application/rss+xml" />
     

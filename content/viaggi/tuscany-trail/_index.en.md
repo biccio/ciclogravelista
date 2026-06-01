@@ -1,0 +1,34 @@
+---
+title: Tuscany Trail 2026
+weight: 1
+layout: docs
+sidebar:
+  open: false
+---
+
+The historic Tuscan gravel bikepacking event, to be done at least once in a lifetime.
+
+{{< cards >}}
+  {{< card link="prologo" title="Prologue" image="/viaggi/tuscany-trail/img_5001-1024x768.jpg" subtitle="Where the heart will do the leading (more than the head or the legs)" method="Resize" options="600x q80 webp" >}}
+
+ {{< card link="tappa1"
+title="Stage 1 - From Venturina to Paganico" image="/viaggi/tuscany-trail/img_4999-1024x768.jpg" subtitle="Where I try to find a different balance"
+method="Resize" options="600x q80 webp">}}
+
+{{< card link="tappa2"
+title="Stage 2 - From Paganico to Torrenieri" image="/viaggi/tuscany-trail/img_5011-1024x768.jpg" subtitle="Where desires, perhaps, are illusions"
+method="Resize" options="600x q80 webp">}}
+
+{{< card link="tappa3"
+title="Stage 3 - From Torrenieri to Campiglia" image="/viaggi/tuscany-trail/img_5016-1024x768.jpg" subtitle="Where, unexpectedly, I rediscover my active resilience"
+method="Resize" options="600x q80 webp">}}
+
+{{< card link="tappa4"
+title="Stage 4 - From Campiglia to Lajatico" image="/viaggi/tuscany-trail/img_5026.jpg" subtitle="Where the smile is the engine"
+method="Resize" options="600x q80 webp">}}
+
+{{< card link="tappa5"
+title="Stage 5 - From Lajatico to Campiglia Marittima" image="/viaggi/tuscany-trail/img_5032.jpg" subtitle="Where there is Shiki-shin-funi and Itai doshin"
+method="Resize" options="600x q80 webp">}}
+
+{{< /cards >}}
