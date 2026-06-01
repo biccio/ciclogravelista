@@ -1,5 +1,6 @@
 ---
 breadcrumbs: false
+title: "Trips"
 cascade:
   type: docs
   

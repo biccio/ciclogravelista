@@ -9,6 +9,7 @@ markup:
       unsafe: true
 
 params:
+  echothreadApiKey: "jAaV7lW6KxA5KzT5RP5HHV49Ur0q4xDlUDf3wgV3N1I"
   navbar:
     displayTitle: true
     displayLogo: true
@@ -60,7 +61,6 @@ languages:
           params:
             type: search
 
-
   en:
     languageName: English
     weight: 2
@@ -89,9 +89,5 @@ languages:
           weight: 4
           params:
             type: search
-
-
-
-
 
 

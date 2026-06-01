@@ -36,3 +36,11 @@ line-height: 2rem;
 .hx-items-start {
   align-items: stretch;
 }
+
+
+.comments {
+  --echothread-bg: #0f0f10;
+  --echothread-text: #e8e8ea;
+  --echothread-accent: #c7610e;
+  min-height: 400px;
+}
