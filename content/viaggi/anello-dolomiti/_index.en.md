@@ -50,7 +50,7 @@ sidebar:
 title: Dolomites Loop
 weight: 3
 ---
-
+**3-9 August 2021**<br>
 A journey for two in 6 stages covering 500 km from Bassano del Grappa to Lake Braies, then Trento and the Valsugana back to Bassano (3-9 August 2021)
 
 

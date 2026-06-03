@@ -31,7 +31,8 @@ title: Po Delta
 weight: 2
 ---
 
-A three-day journey from Ravenna to Venice, through the Po Delta (16-18 June 2023).
+**16-18 June 2023**<br>
+A three-day journey from Ravenna to Venice, through the Po Delta.
 
 
 {{< cards >}}

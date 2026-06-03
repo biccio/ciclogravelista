@@ -30,8 +30,8 @@ sidebar:
 title: Delta del Po
 weight: 2
 ---
-
-Un viaggio di tre giorni da Ravenna a Venezia, attraverso il Delta del Po (16-18 Giugno 2023).
+**16-18 Giugno 2023**<br>
+Un viaggio di tre giorni da Ravenna a Venezia, attraverso il Delta del Po.
 
 
 {{< cards >}}

@@ -36,7 +36,8 @@ title: Gardamare
 weight: 5
 ---
 
-From Peschiera del Garda to the Po Delta, along the Mincio cycle path and the Destra Po cycle path, up to the Pomposa Abbey (28 June - 2 July 2019)
+**28 June - 2 July 2019**<br>
+From Peschiera del Garda to the Po Delta, along the Mincio cycle path and the Destra Po cycle path, up to the Pomposa Abbey 
 
 
 {{< cards >}}

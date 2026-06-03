@@ -4,7 +4,8 @@ weight: 4
 sidebar:
   open: false
 ---
-A rambling and somewhat chaotic journey in the north-east of Sardinia (31 July - 11 August 2019)
+**31 July - 11 August 2019**<br>
+A rambling and somewhat chaotic journey in the north-east of Sardinia.
 
 {{< cards >}}
   {{< card link="tappa1" title="Stage 1 - From Olbia to Luras" image="/viaggi/sardegna/t1-01-1024x768.jpg" subtitle="Where I slapped myself more than once" method="Resize" options="600x q80 webp" >}}

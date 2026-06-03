@@ -6,6 +6,7 @@ sidebar:
   open: false
 ---
 
+**22-26 May 2026**<br>
 Lo storico evento gravel bikepacking toscano, da fare almeno una volta nella vita.
 
 {{< cards >}}

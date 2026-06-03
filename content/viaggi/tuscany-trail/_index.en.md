@@ -6,6 +6,7 @@ sidebar:
   open: false
 ---
 
+**22-26 Maggio 2026**<br>
 The historic Tuscan gravel bikepacking event, to be done at least once in a lifetime.
 
 {{< cards >}}
