@@ -18,10 +18,10 @@ A great love was born, which then became a rebirth. <br class="sm:block hidden" 
 {{< /hextra/hero-subtitle >}}
 </div>
 {{< cards cols="2">}}
-  {{< card link="/en/viaggi/tuscany-trail/" title="Tuscany Trail 2026" image="/viaggi/tuscany-trail/img_5000-1024x768_en.jpg" subtitle="The historic Tuscan gravel bikepacking event, to be done at least once in a lifetime. (22-26 May 2026)." >}}
-  {{< card link="/en/viaggi/delta-del-po/" title="The Po Delta" image="/viaggi/delta-del-po/img_4299-1024x768.jpg" subtitle="A three-day journey from Ravenna to Venice, through the Po Delta (16-18 June 2023)." >}}
-  {{< card link="/en/viaggi/anello-dolomiti/" title="Dolomites Loop" image="/viaggi/anello-dolomiti/t5-05-1024x768.jpg" subtitle="A journey for two in 6 stages covering 500 km from Bassano del Grappa to Lake Braies, then Bressanone, Trento and the Valsugana back to Bassano (3-9 August 2021)." >}}
-  {{< card link="/en/viaggi/sardegna/" title="Sardinia Tour" image="/viaggi/sardegna/t3-02-1024x768.jpg" subtitle="A rambling and somewhat chaotic journey in the north-east of Sardinia (31 July - 11 August 2019)." >}}
-  {{< card link="/en/viaggi/gardamare/" title="Gardamare" image="/viaggi/gardamare/t4-04-1024x768.jpg" subtitle="A five-stage journey from Peschiera del Garda to the Po Delta, 305 km along the Mincio cycle path and the Destra Po cycle path, up to the Pomposa Abbey (28 June - 2 July 2019)." >}}
+  {{< card link="/en/viaggi/tuscany-trail/" title="Tuscany Trail 2026" image="/viaggi/tuscany-trail/img_5000-1024x768_en.jpg" subtitle="**22-26 May 2026**<br>The historic Tuscan gravel bikepacking event, to be done at least once in a lifetime." >}}
+  {{< card link="/en/viaggi/delta-del-po/" title="The Po Delta" image="/viaggi/delta-del-po/img_4299-1024x768.jpg" subtitle="**16-18 June 2023**<br>A three-day journey from Ravenna to Venice, through the Po Delta." >}}
+  {{< card link="/en/viaggi/anello-dolomiti/" title="Dolomites Loop" image="/viaggi/anello-dolomiti/t5-05-1024x768.jpg" subtitle="**3-9 August 2021**<br>A journey for two in 6 stages covering 500 km from Bassano del Grappa to Lake Braies, then Bressanone, Trento and the Valsugana back to Bassano." >}}
+  {{< card link="/en/viaggi/sardegna/" title="Sardinia Tour" image="/viaggi/sardegna/t3-02-1024x768.jpg" subtitle="**31 July - 11 August 2019**<br>A rambling and somewhat chaotic journey in the north-east of Sardinia." >}}
+  {{< card link="/en/viaggi/gardamare/" title="Gardamare" image="/viaggi/gardamare/t4-04-1024x768.jpg" subtitle="**28 June - 2 July 2019**<br>A five-stage journey from Peschiera del Garda to the Po Delta, 305 km along the Mincio cycle path and the Destra Po cycle path, up to the Pomposa Abbey." >}}
   
 {{< /cards >}}
