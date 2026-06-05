@@ -27,6 +27,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/tappa1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/viaggi/gardamare/tappa1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/viaggi/gardamare/tappa1/"
+                />
   </url><url>
     <loc>http://localhost:1313/viaggi/delta-del-po/tappa1/</loc>
     <xhtml:link
@@ -101,6 +111,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/tappa2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/viaggi/gardamare/tappa2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/viaggi/gardamare/tappa2/"
+                />
   </url><url>
     <loc>http://localhost:1313/viaggi/delta-del-po/</loc>
     <xhtml:link
@@ -151,6 +171,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/tappa3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/viaggi/gardamare/tappa3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/viaggi/gardamare/tappa3/"
+                />
   </url><url>
     <loc>http://localhost:1313/viaggi/anello-dolomiti/tappa3/</loc>
     <xhtml:link
@@ -189,6 +219,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/tappa4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/viaggi/gardamare/tappa4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/viaggi/gardamare/tappa4/"
+                />
   </url><url>
     <loc>http://localhost:1313/viaggi/sardegna/tappa4/</loc>
     <xhtml:link
@@ -251,8 +291,28 @@
                 />
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/tappa5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/viaggi/gardamare/tappa5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/viaggi/gardamare/tappa5/"
+                />
   </url><url>
     <loc>http://localhost:1313/viaggi/gardamare/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/viaggi/gardamare/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/viaggi/gardamare/"
+                />
   </url><url>
     <loc>http://localhost:1313/viaggi/tuscany-trail/tappa4/</loc>
     <xhtml:link

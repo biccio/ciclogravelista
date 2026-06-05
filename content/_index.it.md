@@ -16,9 +16,8 @@ toc: false
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
 
- Ho cominciato ad andare in bici nel 2018, a quasi 50 anni. <br class="sm:block hidden" />
-È nato un grande amore, che poi è diventato una rinascita. <br class="sm:block hidden" />
- <a href="/la-mia-bici-dell-anima">Qui ti racconto la storia</a>, e <a href="/viaggi">qui racconto i miei viaggi</a>. <br class="sm:block hidden" /><strong>And there's <a href="/en">an english version</a> too</strong>.
+ Ho cominciato ad andare in bici nel 2018, a quasi 50 anni. È nato un grande amore, che poi è diventato una rinascita. <br class="sm:block hidden" />
+ <a href="/la-mia-bici-dell-anima">Qui ti racconto la storia</a>, e <a href="/viaggi">qui racconto i miei viaggi</a>. <strong><a href="/en"><em>( → English Version)</a></em></strong>
 {{< /hextra/hero-subtitle >}}
 </div>
 
