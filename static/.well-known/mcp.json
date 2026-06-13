@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "servers": [
+    {
+      "name": "Ciclogravelista",
+      "description": "MCP server for querying ciclogravelista.com content",
+      "endpoint": "https://curly-tree-33da.fabrizio-ulisse.workers.dev//sse",
+      "capabilities": ["resources", "tools"]
+    }
+  ]
+}
