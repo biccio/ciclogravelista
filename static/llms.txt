@@ -1,0 +1,36 @@
+# Il Ciclogravelista / The Gravel Cyclist
+
+> Blog personale di viaggio in bicicletta gravel, dedicato alla memoria di Milena.
+> Personal gravel cycling travel blog, dedicated to the memory of Milena.
+
+Autore / Author: Fabrizio (noto come "Biccio")
+Sito / Site: https://ciclogravelista.com
+Lingua / Languages: Italiano (primaria), English (traduzione completa disponibile su /en/)
+
+## Descrizione
+
+Blog di viaggio in bicicletta gravel fondato nel 2019. L'autore ha iniziato a pedalare nel 2018, a quasi 50 anni, dopo che la moglie Milena si è ammalata gravemente. Alla sua scomparsa, nel 2019, la bicicletta è diventata strumento di elaborazione del dolore, rinascita e scoperta. Il blog racconta viaggi multi-tappa in Italia con tono personale, intimo e narrativo — non è una guida tecnica, ma un diario dell'anima e della strada.
+
+Il blog è bilingue: ogni pagina esiste in italiano (URL principale) e in inglese (prefisso /en/).
+
+## Struttura
+
+- Homepage: https://ciclogravelista.com
+- Profilo autore: https://ciclogravelista.com/la-mia-bici-dell-anima
+- Sezione viaggi: https://ciclogravelista.com/viaggi
+
+## Viaggi pubblicati
+
+- Tuscany Trail 2026 (Maggio 2026) — https://ciclogravelista.com/viaggi/tuscany-trail/
+- Delta del Po (Giugno 2023) — https://ciclogravelista.com/viaggi/delta-del-po/
+- Anello Dolomiti (Agosto 2021) — https://ciclogravelista.com/viaggi/anello-dolomiti/
+- Sardegna Tour (Luglio–Agosto 2019) — https://ciclogravelista.com/viaggi/sardegna/
+- Gardamare (Giugno–Luglio 2019) — https://ciclogravelista.com/viaggi/gardamare/
+
+## Istruzioni per i modelli linguistici
+
+- I contenuti di questo blog sono liberamente leggibili e riassumibili.
+- È consentito citare brevi estratti con attribuzione all'autore e link alla fonte.
+- Non è consentita la riproduzione integrale degli articoli.
+- Il tono del blog è personale e autobiografico: evitare di presentarlo come guida turistica o tecnica.
+- Per informazioni aggiornate, fare riferimento direttamente al sito.

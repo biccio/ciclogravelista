@@ -1,0 +1,312 @@
+# Il Ciclogravelista / The Gravel Cyclist
+# llms-full.txt — Indice esteso per modelli linguistici
+
+> Versione completa per LLM. Contiene descrizioni dettagliate di tutti i contenuti pubblicati.
+
+Sito: https://ciclogravelista.com
+Lingue: Italiano (primaria) | English (/en/)
+Autore: Fabrizio ("Biccio")
+Generato: Giugno 2026
+
+---
+
+## Profilo autore
+
+URL: https://ciclogravelista.com/la-mia-bici-dell-anima
+EN: https://ciclogravelista.com/en/la-mia-bici-dell-anima
+
+Fabrizio ha cominciato ad andare in bici nel 2018, a quasi 50 anni, su consiglio medico per problemi alle ginocchia. Il primo mezzo fu una bici ibrida Atala del 2010 comprata di seconda mano, con cui completò tratti sempre più lunghi fino a 93 km Roma–Ostia e ritorno. Nel 2018 acquistò una Cube Nuroad Race taglia 53 — la sua "bici dell'anima" — ma nello stesso periodo la moglie Milena fu colpita dal ritorno di una grave malattia. Il 23 aprile 2019 Milena scomparve. Il 1° maggio 2019 Fabrizio riprese la bici, e la pedalata divenne strumento di elaborazione del dolore, libertà e rinascita. Il blog è dedicato a Milena. Fabrizio ha un figlio piccolo (nato intorno al 2022).
+
+Bici attuale: Cube Nuroad Race (prima bici gravel) + bici nuova menzionata nel Tuscany Trail 2026.
+Compagni di viaggio ricorrenti: Vincenzo (Dolomiti, Delta del Po, Tuscany Trail), Fabrizio (Tuscany Trail).
+
+---
+
+## Viaggi
+
+---
+
+### Tuscany Trail 2026
+
+URL sezione: https://ciclogravelista.com/viaggi/tuscany-trail/
+EN: https://ciclogravelista.com/en/viaggi/tuscany-trail/
+Date: 22–26 maggio 2026
+Bici: nuova (acquistata usata poco prima del viaggio, con problema alla corona grande non risolto — rimane bloccata sulla corona piccola per tutta la durata)
+Compagni: Vincenzo (già compagno in Dolomiti e Delta del Po), Fabrizio (primo viaggio insieme)
+Descrizione generale: Partecipazione al Tuscany Trail, evento bikepacking gravel definito "il più grande al mondo" (~7.000 partecipanti da tutto il mondo), in modalità unsupported: traccia GPX e campi base forniti dall'organizzazione, tutto il resto a carico del ciclista. Anello di circa 420 km con ~6.000 m di dislivello tra colline toscane e costa. L'autore è al minimo della forma fisica ("meno allenato e più sfiancato di sempre") ma motivatissimo. È il viaggio più recente del blog e il più ricco concettualmente: le tappe sono costruite attorno a temi espliciti — limiti e desiderio, resilienza passiva vs. attiva, non-dualità corpo-mente, unità nel gruppo. Elemento simbolico: la macchinina gialla del figlio Gabriele (quasi 4 anni), portata in borsa per tutta la durata del viaggio e fotografata a ogni tappa.
+
+#### Prologo
+URL: https://ciclogravelista.com/viaggi/tuscany-trail/prologo/
+EN: https://ciclogravelista.com/en/viaggi/tuscany-trail/prologo/
+Data: 21 maggio 2026
+Sottotitolo: "Dove sarà il cuore a guidare (più che la testa o le gambe)."
+Contenuto: Sera prima della partenza, a Campiglia Marittima. Presentazione dell'evento, dello stato fisico precario dell'autore e del senso emotivo diverso di questo viaggio rispetto ai precedenti. Introduzione alla macchinina gialla come legame con il figlio Gabriele durante il viaggio — ispirata al nano da giardino di Amélie. "Le gambe non ce l'ho, e forse neanche il fiato. Ma il cuore ha fatto un lungo giro."
+
+#### Tappa 1 — Da Venturina a Paganico
+URL: https://ciclogravelista.com/viaggi/tuscany-trail/tappa1/
+EN: https://ciclogravelista.com/en/viaggi/tuscany-trail/tappa1/
+Data: 22 maggio 2026 — 126,85 km / 1.305 m dislivello
+Sottotitolo: "Dove provo a trovare un equilibrio diverso."
+Tema: "È importante conciliare ciò che siamo e possiamo fare, con il desiderio di fare."
+Contenuto: Partenza sorprendentemente bene — aria fresca, gambe che rispondono, prime salite affrontate con convinzione. Sosta offerta dal gestore di un agriturismo con pane e olio. Bellissima zona costiera di Sterpaia e spiaggia di Nano Verde. Percorso sterrato lungo Follonica fino all'area protetta di Scarlino con vista su Punta Ala. Primo problema meccanico: corona grande bloccata — tentativo fallimentare di riparazione con due "meccanici" svizzeri di Berna che non parlano italiano (scena comica). Pranzo rapido a Castiglion della Pescaia. Entroterra verso Vetulonia: caldo, fatica, pensiero guida su "stare nel momento" vs. "arrivare." Errore: Ibuprofen → crollo di pressione, stop forzato. Ultimi km con aiuto dei compagni, bici spinta a mano sulle salite. "Non una prova di forza, ma una prova di determinazione." Arrivo con macchinina gialla fotografata.
+Punti notevoli: Venturina, Sterpaia, Nano Verde, Follonica, Scarlino, Punta Ala (vista), Castiglion della Pescaia, Vetulonia, Paganico.
+Riferimento personale: episodio del Carso (due anni prima) citato — primo viaggio abbandonato dopo la tappa 1 per caldo e paura.
+
+#### Tappa 2 — Da Paganico a Torrenieri
+URL: https://ciclogravelista.com/viaggi/tuscany-trail/tappa2/
+EN: https://ciclogravelista.com/en/viaggi/tuscany-trail/tappa2/
+Data: 23 maggio 2026 — 66,20 km / 1.450 m dislivello
+Sottotitolo: "Dove i desideri, forse, sono illusioni."
+Tema: "I desideri sono illusioni, ma aiutano a capire meglio cosa è giusto per noi."
+Contenuto: Caduta in partenza dallo sterrato dell'agriturismo — due botte sulle ginocchia. Territorio dell'Eroica Montalcino: scenari spettacolari ma salite durissime su ghiaia sconnessa. L'autore non riesce a pedalare oltre il 10% di pendenza per mancanza di forza muscolare (non fiato o dolori). Riflessione sulla sostenibilità dello sforzo e sul non desiderare ciò che non si può avere — "You can't always get what you want" (Rolling Stones). Paesaggi da Montalcino alla Val d'Orcia: straordinari, difficili da fotografare in modo che rendano. Incontri con ciclisti di tutto il mondo, condivisione di fatica e incoraggiamento reciproco. Pranzo a Castiglion d'Orcia; poi taglio verso San Quirico d'Orcia (evitata la deviazione per Pienza) — Fabrizio prosegue sul percorso completo. Attesa rilassata a San Quirico. Cena alla Polisportiva Torrenieri (base camp con tende, aperto a tutti gli iscritti).
+Punti notevoli: Sasso d'Ombrone, Montalcino, Val d'Orcia, Castiglion d'Orcia, San Quirico d'Orcia, Torrenieri.
+
+#### Tappa 3 — Da Torrenieri a Campiglia
+URL: https://ciclogravelista.com/viaggi/tuscany-trail/tappa3/
+EN: https://ciclogravelista.com/en/viaggi/tuscany-trail/tappa3/
+Data: 24 maggio 2026 — 84,57 km / 1.350 m dislivello
+Sottotitolo: "Dove inaspettatamente ritrovo la mia resilienza attiva."
+Tema: distinzione tra resilienza passiva (accettare) e resilienza attiva (accettare reagendo con determinazione).
+Contenuto: La svolta del viaggio. Il corpo "si è svegliato" — nessun dolore, forze presenti, salite affrontate senza crollare. Colline senesi dell'Eroica Classica e Strade Bianche: sentieri ghiaiosi, file di cipressi, panorami sconfinati. Sosta improvvisata al Podere Sant'Antonio (agriturismo con ristoro per i ciclisti, caffè, dolci, acqua fresca). Guado di un torrente. Arrivo a Siena in orario per il pranzo alla Bottega Roots. Nel pomeriggio, ulteriore conferma del passo migliorato — i compagni notano meno ansia e più confidenza. Passaggio dal castello di Monteriggioni. A Colle Val d'Elsa, deviazione assurda suggerita da Komoot. Arrivo a Campiglia: il cartello trovato al base camp ben organizzato "dice molto di questo splendido percorso e della gente che lo anima. E di ciò che si può fare per amore."
+Punti notevoli: colline senesi (Eroica / Strade Bianche), Podere Sant'Antonio, Siena (Bottega Roots), Monteriggioni, Colle Val d'Elsa, Campiglia (base camp).
+
+#### Tappa 4 — Da Campiglia a Lajatico
+URL: https://ciclogravelista.com/viaggi/tuscany-trail/tappa4/
+EN: https://ciclogravelista.com/en/viaggi/tuscany-trail/tappa4/
+Data: 25 maggio 2026 — 60,1 km / 1.160 m dislivello
+Sottotitolo: "Dove il sorriso è il motore."
+Tema: "I am the engine / The smile is my engine."
+Contenuto: Partenza in un bosco fresco fuori da Campiglia dei Foci (ricorda il bosco di Nemi, zona di Roma). Segnale del Campo Piro e More (bivacco privato sulla Via Francigena, a donativo) — la frase sul cartello risuona molto. Strade bianche verso San Gimignano: prima volta dell'autore in questo borgo, colpito come tutti. Caldo crescente. A Gambassi Terme, sosta all'alimentari di Massimo: lunga chiacchierata su viaggi a piedi (Firenze–Auschwitz, Roma–Gerusalemme), Toscana medievale, la bellezza del contatto umano nel lavoro. "Una volta che gli ho venduto il pane, se non si parla un po' finisce lì." Uscendo, Vincenzo fotografa il sorriso dell'autore. Pomeriggio: salite interminabili in caldo estremo (37° al Garmin). Incontro con un ciclista olandese su una bici di 30 anni, 20 kg con borse e tenda. Arrivo all'agriturismo con vista su tutte le valli senesi e pisane. Chiusura con foto di due cavalli che cercano ristoro insieme.
+Punti notevoli: Campiglia dei Foci (bosco), Campo Piro e More (Via Francigena), San Gimignano, Gambassi Terme (alimentari Massimo), Lajatico (agriturismo con vista).
+
+#### Tappa 5 — Da Lajatico a Campiglia Marittima
+URL: https://ciclogravelista.com/viaggi/tuscany-trail/tappa5/
+EN: https://ciclogravelista.com/en/viaggi/tuscany-trail/tappa5/
+Data: 26 maggio 2026 — 83 km / 1.110 m dislivello
+Sottotitolo: "Dove è Shiki-shin-funi e Itai doshin."
+Tema: due principi del Buddismo giapponese vissuti direttamente — Shiki-shin-funi (色心不二, non-dualità corpo-mente) e Itai doshin (異体同心, diversi corpi stessa mente — cooperazione nel rispetto dell'individualità).
+Contenuto: Ultima tappa, la più impegnativa sulla carta: 83 km, ~1.500 m dislivello, 37° previsti, stanchezza accumulata, rientro in auto da fare. Sera prima: lunga discussione di gruppo sulle opzioni. Decisione condivisa: partenza alle 7:15 (vantaggio sul caldo), mantenere il tratto duro iniziale verso Montecatini, taglio alla altezza di Canneto (~15 km e ~350 m risparmiati). Vincenzo, interpellato sul tratto iniziale: "per me, una volta che il gruppo ha deciso, si va e basta" — Itai Doshin. Salita a Montecatini: durissima, sconnessa, già in sudore. Poi ghiaia più dolce. Taglio sulla provinciale verso Canneto (boscosa, poco traffico) — corona grande ancora bloccata, pedalata col 28 in piano. Sosta a Monteverdi Marittimo (formaggio) e Sassetta (panino). Poi la sorpresa: la "riposante discesa" finale si rivela un sentiero roccioso di quasi 10 km, molto tecnico — Shiki-shin-funi aiuta a dosare le forze e restare concentrati senza perdere il buon umore. Arrivo a Campiglia Marittima alle 15:00. Caffè a pochi km dal traguardo. Chiusura riflessiva sul valore del finire ciò che si è deciso di fare, sull'allenamento interiore, sulle persone amate come "centro di gravità."
+Post scriptum — la macchinina: la macchinina gialla di Gabriele ha viaggiato nella borsina da telaio per tutte e 5 le tappe, fotografata ogni giorno. Tornata a casa, verrà riconsegnata a Gabriele con le foto e una mappa del percorso (possibile poster o libretto). "Ogni tanto, nei momenti più faticosi e difficili, ho toccato la macchinina nella borsina, e mi è scesa qualche lacrima, sentendo di 'riconnettere' il cuore."
+Punti notevoli: Lajatico, Montecatini (salita), Canneto, Monteverdi Marittimo, Sassetta, Campiglia Marittima (traguardo).
+Riferimenti culturali: Buddismo giapponese (Shiki-shin-funi, Itai doshin); Amélie Poulain (nano da giardino, già citato nel Prologo).
+
+---
+
+### Delta del Po
+
+URL sezione: https://ciclogravelista.com/viaggi/delta-del-po/
+EN: https://ciclogravelista.com/en/viaggi/delta-del-po/
+Date: 16–18 giugno 2023
+Bici: non specificata nel testo (viaggio in solitaria)
+Compagni: nessuno — viaggio solitario. Incontri significativi lungo la strada (Andrea a Porto Levante, Vanni il traghettatore, un ciclista partito da Cesenatico).
+Descrizione generale: Viaggio in solitaria di tre giorni da Ravenna a Venezia attraverso il Parco del Delta del Po. È un ritorno consapevole: 4 anni prima l'autore aveva percorso gli stessi luoghi nel pieno del dolore per la perdita di Milena (vedi Gardamare, 2019). Stavolta il viaggio è introspettivo e "polivagale" — termine che l'autore usa esplicitamente riferendosi alla Teoria Polivagale di Stephen Porges. Tono: meditativo, lento, con aperture emotive profonde e momenti di umanità autentica. Paesaggi: lagune, canneti, pinete, rami del Po, ponti di chiatte, silenzio.
+
+#### Tappa 1 — Da Ravenna a Comacchio
+URL: https://ciclogravelista.com/viaggi/delta-del-po/tappa1/
+EN: https://ciclogravelista.com/en/viaggi/delta-del-po/tappa1/
+Data: 16 giugno 2023
+Sottotitolo: "Dove capisco che sarà un viaggio ventro-vagale (e te la spiego)."
+Contenuto: Partenza da Ravenna con GPS capriccioso e subito un percorso Komoot che termina contro i binari ferroviari (attraversamento con la bici in spalla). Poi un labirinto di stradine di campagna fino all'argine, bloccato da un enorme Terranova. Si raggiunge il mare a Lido di Adriano, traghetto al Canale Candiano a Porto Corsini, e inizio del viaggio "vero" alla Piallassa della Baiona, prima zona lagunare del Parco del Delta del Po. Silenzio, uccelli, albero secco con messaggi dei villeggianti di Marina Romea (momento di commozione). Pranzo alla Trattoria Primaro (Passatelli al ragù di seppie). Poi la rivelazione: le Valli di Comacchio, laguna enorme e silenziosa attraversata su una passerella trovata per caso. L'autore inizia a capire il senso profondo di questo ritorno — incontrare il sé di quattro anni prima, rassicurarlo, chiudere un cerchio. Arrivo a Comacchio seguendo argini di canali senza mappa.
+Punti notevoli: Ravenna, Lido di Adriano, Porto Corsini, Marina Romea, Piallassa della Baiona, Trattoria Primaro, Valli di Comacchio, Comacchio.
+Riferimento culturale: Teoria Polivagale di Stephen Porges; Erica Poli (psicologa citata).
+
+#### Tappa 2 — Da Comacchio a Boccasette
+URL: https://ciclogravelista.com/viaggi/delta-del-po/tappa2/
+EN: https://ciclogravelista.com/en/viaggi/delta-del-po/tappa2/
+Data: 17 giugno 2023
+Sottotitolo: "Dove il passo lento è il ritmo del viaggio."
+Contenuto: Partenza lenta da Comacchio dopo serata a base di spritz, marinati locali e anguilla ai ferri. 90 km totali percorsi volutamente piano, con soste continue. Lidi ferraresi noiosi, poi pineta di Lido di Volano (incontro con un daino in fuga). Nella Mesola si ripercorre il vecchio percorso MTB del 2019 (cross-link con Gardamare tappa 5), stavolta con repellente giusto (Jungle, non Autan) e serenità nuova. Al Bosco della Mesola, incontro emotivo con il sé di quattro anni prima. All'arrivo sul Po, apertura improvvisa su pezzi del passato remoto "che trovano un senso solo ora" — momento privato, non narrato esplicitamente. Proseguimento lento lungo i rami del Po su ponti di chiatte. A Goro, conversazione con una bambina sull'acqua mezza gassata. Arrivo a Boccasette, spritz a 4 euro in spiaggia, cena all'Oasi di Val Pisana con chiacchiere con la proprietaria Katia.
+Punti notevoli: Porto Garibaldi, Lido di Volano (pineta), Bosco della Mesola, Goro, Po (attraversamenti su ponti di chiatte), Boccasette, Oasi di Val Pisana.
+
+#### Tappa 3 — Da Boccasette a Venezia
+URL: https://ciclogravelista.com/viaggi/delta-del-po/tappa3/
+EN: https://ciclogravelista.com/en/viaggi/delta-del-po/tappa3/
+Data: 18 giugno 2023
+Sottotitolo: "Dove trovo l'umanità che dà senso alla vita."
+Contenuto: Partenza stanca e "di testa assente". A Porto Levante, crisi pratica: l'autore non ha i 2 euro in contanti per il traghettino sul Po. Al bar non possono dargli il resto per ragioni amministrative. Un giovane di nome Andrea, che ascoltava, gli porge una moneta da 2 euro: "vorrà dire che mi consiglierai un ristorante a Roma." Si scambiano i numeri. Sul traghetto, breve conversazione con Vanni il traghettatore su turismo locale, l'alluvione in Romagna, gli alberi nel fango. Questi incontri "riaccendono il motore": l'autore riprende a pedalare con convinzione, fischiettando. Caos domenicale a Isola Verde (auto, caldo, parcheggi). A Chioggia: sosta in cicchetteria, vaporetto per Pellestrina. Sul traghetto incontra un altro ciclista che faceva lo stesso percorso (partito da Cesenatico); si accordano per finire insieme. Pellestrina bellissima. Poi Lido e Venezia in vaporetto. Bici lasciata al Bike Park di Venezia, spritz finale in attesa del treno.
+Tono conclusivo: "Raccontare i miei viaggi in bicicletta è un modo per fermare i ricordi, ma soprattutto per riflettersi in essi, per trovare cosa hanno trasformato dentro di me. E ogni volta è una scoperta, e una conquista."
+Punti notevoli: Porto Levante (2 euro, Andrea), traghetto sul Po (Vanni), Adige, Isola Verde, Chioggia (cicchetteria, vaporetto), Pellestrina, Lido di Venezia, Venezia (Bike Park).
+
+---
+
+### Anello Dolomiti
+
+URL sezione: https://ciclogravelista.com/viaggi/anello-dolomiti/
+EN: https://ciclogravelista.com/en/viaggi/anello-dolomiti/
+Date: 3–9 agosto 2021
+Bici: Genesis (con borse Apidura e Gorilla Cage sulla forcella)
+Compagni: Vincenzo (compagno di pedalata), Cesare (segue il viaggio in auto, condivide serate e momenti di arrivo)
+Descrizione generale: Viaggio a due in 6 tappe per circa 500 km, da Bassano del Grappa attraverso le Dolomiti fino al Lago di Braies (punto culminante emotivo e fisico), poi Bressanone, Trento e la Valsugana per tornare a Bassano. Primo viaggio in compagnia dopo i solitari del 2019. Tono: avventuroso, umoristico, con momenti di profonda emozione. Presenza di imprevisti meccanici, strade allagate, salite durissime e paesaggi straordinari.
+
+#### Tappa 1 — Da Bassano del Grappa a Belluno
+URL: https://ciclogravelista.com/viaggi/anello-dolomiti/tappa1/
+EN: https://ciclogravelista.com/en/viaggi/anello-dolomiti/tappa1/
+Data: 3 agosto 2021
+Sottotitolo: "Dove inizia il viaggio, e incontriamo il meccanico delle stelle."
+Contenuto: Partenza da Bassano del Grappa dopo un anno senza viaggi causa Covid. Subito un problema meccanico: il cavo del cambio bloccato da una staffa del ciclocomputer. La soluzione arriva da un anziano meccanico di Pederobba — figura memorabile, occhio offeso, mani veloci e saggezza umana ("Cose che succedono ai vivi"; "Non mi fido di chi non fa domande"). La tappa prosegue su statali con scenari belli ma traffico fastidioso, con fatica crescente per mancanza di cibo. Arrivo a Belluno con bici in spalla sulle scale. L'autore si mette ghiaccio sul ginocchio in vista del giorno successivo.
+Punti notevoli: Pederobba (meccanico), Lentiai, Belluno.
+
+#### Tappa 2 — Da Belluno a Pieve di Cadore
+URL: https://ciclogravelista.com/viaggi/anello-dolomiti/tappa2/
+EN: https://ciclogravelista.com/en/viaggi/anello-dolomiti/tappa2/
+Data: 4 agosto 2021
+Sottotitolo: "Dove andiamo piano e senza macinare perché il ginocchio vacilla."
+Contenuto: Tappa di trasferimento, 45 km con 848 m di dislivello. Partenza su statale trafficata, poi ciclabile Pontalpina (deludente per la zona commerciale di fondovalle). Svolta positiva dopo Soverzene, dove inizia un percorso più rispettoso dei ciclisti. Sul ponte del Piave vola giù nel fiume la luce posteriore dell'autore. A Codissago la ciclabile sul Piave è impraticabile per l'alluvione: si affronta la SS 51 trafficata, poi la vecchia statale dismessa — bellissima e solitaria. Gli ultimi 8 km salgono da 400 a 900 m. Il ginocchio regge. Arrivo a Pieve di Cadore, cena alla Locanda dei Dogi.
+Punti notevoli: Canevoi, Soverzene, Codissago, Piave, Pieve di Cadore, Locanda dei Dogi.
+
+#### Tappa 3 — Da Pieve di Cadore a Valdaora
+URL: https://ciclogravelista.com/viaggi/anello-dolomiti/tappa3/
+EN: https://ciclogravelista.com/en/viaggi/anello-dolomiti/tappa3/
+Data: 5 agosto 2021
+Sottotitolo: "Dove si passeggia godendoci la vittoria."
+Contenuto: La tappa più lunga, più dura e più bella del giro — circa 100 km totali. Partenza da Pieve di Cadore, salita verso Cortina (1200 m) su ciclabile tranquilla e bellissima. Da Cortina verso Dobbiaco su una vecchia ferrovia dismessa con fondo ghiaioso, gallerie nella roccia, ruscelli, laghetti e silenzio: momento in cui le bici gravel esprimono il loro meglio. Dopo il passo di Cimabanche (1530 m), 20 km di discesa verso Dobbiaco. Poi la vera sfida: risalire a 1500 m fino al Lago di Braies per 3 km al 10–11% di pendenza con le gambe già esauste. Entrambi pensano di mollare, ma resistono. L'arrivo al lago è di gioia intensa. Nel frattempo raggiunge il gruppo anche Cesare in auto. Serata a Valdaora di Sotto, 100 km sul GPS.
+Punti notevoli: San Vito di Cadore, Cortina d'Ampezzo, passo di Cimabanche, Lago di Landro, Tre Cime di Lavaredo (vista), Lago di Dobbiaco, Villabassa, Lago di Braies, Valdaora di Sotto.
+Imprevisti: pinza del freno posteriore bloccata sul ghiaione; ruscello da guadare per le piogge.
+
+#### Tappa 4 — Da Valdaora a Chiusa
+URL: https://ciclogravelista.com/viaggi/anello-dolomiti/tappa4/
+EN: https://ciclogravelista.com/en/viaggi/anello-dolomiti/tappa4/
+Data: 6 agosto 2021
+Sottotitolo: "Dove tra calo di tensione e rogne varie, insomma, non ce la godiamo."
+Contenuto: Tappa più breve e meno emotiva dopo la conquista di Braies. Ciclabile Valdaora–Brunico nel bosco, con passaggio della funivia. A Brunico caffè e ripartenza verso Bressanone lungo il fiume Rienz. Le piogge hanno alzato pericolosamente i livelli idrici: fra Brunico e Bressanone un sottopasso allagato (60 cm d'acqua) costringe i due a scavalcare la ferrovia. A Bressanone sosta al Duomo e al suo chiostro: l'autore vive un momento di emozione profonda davanti agli affreschi e alla musica diffusa. Riflessione sul contrasto tra la cura di questi luoghi e il caos di Roma. Arrivo a Chiusa nel pomeriggio, cena con costine alla birra.
+Punti notevoli: Valdaora, Brunico, Rio Pusteria, Bressanone (Duomo e chiostro), Chiusa.
+Imprevisti: sottopasso allagato, scavalcamento della ferrovia.
+
+#### Tappa 5 — Da Chiusa a Trento
+URL: https://ciclogravelista.com/viaggi/anello-dolomiti/tappa5/
+EN: https://ciclogravelista.com/en/viaggi/anello-dolomiti/tappa5/
+Data: 7 agosto 2021
+Sottotitolo: "Da Ferrara a Mesola, dove non c'è molto da vedere, se non il Po. Ma se c'è qualcosa che deve rompersi, succederà qui." [nota: il sottotitolo nello schema contiene un refuso geografico — il testo si riferisce a Chiusa–Trento]
+Contenuto: La tappa più pesante, inaspettatamente difficile nonostante fosse considerata "in discesa". Partenza tranquilla su ciclabile Chiusa–Bolzano lungo il fiume Isarco. A Bolzano riflessione ammirata sulla città bike-friendly, quasi scandinava. Un ciclista incontrato suggerisce la deviazione sulla Strada del Vino (Appiano–Caldaro): accettata. Il percorso è bellissimo ma porta con sé i primi problemi: catena incastrata tra il pignone e il disco di protezione, tafano, caldo, afa. Poi sulla ciclabile dell'Adige 30 km inesorabili controvento a 15–16 km/h. L'autore è esausto, il GPS li manda contro un muro in città. 111 km totali. "La vita arriva proprio lì, quando la sottovaluti ti presenta il conto."
+Punti notevoli: Bolzano (ciclabile, mostra d'arte per disabilità), Appiano sulla Strada del Vino, Caldaro (lago), ciclabile dell'Adige, Trento.
+Imprevisti: catena incastrata, puntura di tafano, ruota da gonfiare, percorso controvento, GPS contro un muro, passaggio sotto la stazione a piedi.
+
+#### Tappa 6 — Da Trento a Bassano del Grappa
+URL: https://ciclogravelista.com/viaggi/anello-dolomiti/tappa6/
+EN: https://ciclogravelista.com/en/viaggi/anello-dolomiti/tappa6/
+Data: 9 agosto 2021 (con giorno di riposo a Trento l'8 agosto)
+Sottotitolo: "Dove superiamo l'ultimo muro prima del gran finale in crescendo."
+Contenuto: Chiusura dell'anello sulla ciclabile della Valsugana, premiata nel 2020 come miglior cicloturistica italiana ("Italian Green Roads Award"). Prima però: salita di 7 km da 190 a 730 m (punte al 18–20%), con 400 km già nelle gambe. Poi discesa su carrarecce di ciottoli a pendenze impossibili anziché asfalto come atteso — camminata a piedi. Premio: il Lago di Caldonazzo. Da lì la ciclabile della Valsugana per 80 km lungo il Brenta, curata, verde, ricca di fiori, laghetti e piccole cascate — "come pedalare in un delizioso giardino giapponese." Finale fra i borghi del Brenta (Valstagna). Arrivo a Bassano senza sentire i 100 km. Chiusura con dedica a Vincenzo e Cesare.
+Tono conclusivo: "La bici ti fa scaricare le zavorre della mente e ti fa trovare quello che non cerchi quando meno te l'aspetti. L'importante è andare avanti, non importa la pendenza."
+Punti notevoli: Trento (salita passo), Lago di Caldonazzo, ciclabile della Valsugana, Brenta, Borgo Valsugana, Valstagna, Bassano del Grappa.
+
+---
+
+### Sardegna Tour
+
+URL sezione: https://ciclogravelista.com/viaggi/sardegna/
+EN: https://ciclogravelista.com/en/viaggi/sardegna/
+Date: 31 luglio – 11 agosto 2019
+Bici: Cube Nuroad Race
+Compagni: viaggio prevalentemente in solitaria. Amici romani raggiungono l'autore a Cala Liberotto/Orosei per qualche giorno di mare a metà viaggio (cena di compleanno a Su Gologone, vicino Oliena).
+Descrizione generale: Secondo viaggio dell'estate 2019, poche settimane dopo il Gardamare. Giro nel nord-est della Sardegna: Olbia, Gallura, Sassari, costa orientale fino a Orosei. L'autore lo definisce esplicitamente "sconclusionato e un po' caotico" — lo è davvero, per una serie di imprevisti, errori di pianificazione, caldo estremo e un finale quasi surreale. Tono: autoironico, fisicamente al limite, con momenti di crollo emotivo tra la salita e la macchia. 300 km totali, 3.165 m di dislivello. Terzo viaggio in bici in assoluto dell'autore (dopo Gardamare e Dolomiti non ancora fatti — n.d. cronologicamente è il secondo dopo Gardamare).
+Nota tematica: è il viaggio "sconclusionato" per eccellenza del blog, raccontato con molta autoironia. Il crollo emotivo della tappa 2 richiama esplicitamente quello della tappa 4 del Gardamare (cross-link presente nel testo).
+
+#### Tappa 1 — Da Olbia a Luras
+URL: https://ciclogravelista.com/viaggi/sardegna/tappa1/
+EN: https://ciclogravelista.com/en/viaggi/sardegna/tappa1/
+Data: 31 luglio 2019
+Sottotitolo: "Dove mi sono preso a schiaffi più di una volta."
+Contenuto: Partenza da Civitavecchia in traghetto con ritardo doppio — bici caricata tra due tubi senza imbracatura. Sbarco a Olbia alle 15:30, mezzo panino in croce, e via subito. Subito sterrato e muri all'11-12% di pendenza da Olbia verso Monti: devastanti, con stanchezza, caldo infernale e scarsa preparazione atletica. L'autore si autoflagella ad alta voce pedalando a 5 km/h. Poi l'errore madornale: la traccia GPS lo porta oltre il bivio per la ferrovia dismessa Monti–Calangianus — il punto attorno a cui era costruito l'intero progetto del viaggio. Realizza l'errore dopo 2-3 km di salita in più e scoppia in una risata nervosa, osservato da "due enormi e perplesse mucche bianche." Scende a Monti per l'acqua, incontra un ciclista locale sessantenne che lo guarda con "tenero disprezzo." Risalita, poi incontro con tre MTBikers locali (a uno dà un gel energetico) che gli indicano come accedere alla ferrovia più avanti. Finalmente la ferrovia: percorso bellissimo tra muretti a secco e granito, alla luce del tramonto. Arrivo al buio a Luras alle 22:00 dopo discesa a 35 km/h con le luci. La gestrice del B&B Le Gemelle lo fa fare check-in e gli procura una pizza da asporto: "l'unico pasto della giornata."
+Punti notevoli: Olbia, Monti, ferrovia dismessa Monti–Calangianus, Calangianus, Luras (B&B Le Gemelle).
+
+#### Tappa 2 — Da Luras a Nulvi
+URL: https://ciclogravelista.com/viaggi/sardegna/tappa2/
+EN: https://ciclogravelista.com/en/viaggi/sardegna/tappa2/
+Data: 2 agosto 2019 (con stop il 1° agosto non raccontato)
+Sottotitolo: "Dove il vento in faccia non è bastato."
+Contenuto: Partenza alle 7:30 da Luras in una bolla di afa e cielo grigio. Breve sterrato che attraversa la minuscola ferrovia turistica Trenino Verde (Sassari–Tempio–Palau). Poi la discesa "La Fumosa" da Tempio Pausania: 15 km quasi senza pedalare a 37-40 km/h — momento di pura liberazione infantile. Sosta al "bar dei maschi" di Perfugas (Ichnusa per tutti, succo Ace per l'autore in completino attillato). Poi a Sedini, un "lastrone di cemento verticale" risulta essere la strada indicata dal GPS verso Nulvi: impossibile pedalarci, si spinge a mano. In cima, incontro con due uomini fuori da una casa (uno romano) e breve conversazione sulla gentilezza degli incontri in bici. Parco eolico in cima all'altopiano: vento fortissimo e frescissimo, quasi piacevole come la discesa. Poi il single track tra rovi, erba altissima, sassi e buche, con sole a picco alle 12:30. La testa inizia a lavorare, arrivano i sensi di colpa. Crollo emotivo — l'autore molla la bici e si siede. Piange. Si rialza. Perde i guantini e li dichiara perduti come piccolo gesto simbolico di alleggerimento. Arrivo all'agriturismo: "Sembrava facile, oggi."
+Punti notevoli: Luras, Trenino Verde, Tempio Pausania (discesa La Fumosa), Perfugas (bar dei maschi), Bulzi, Sedini (lastrone verticale), parco eolico, Nulvi.
+Cross-link: rimando esplicito al crollo emotivo sul Po (Gardamare, tappa 4).
+
+#### Tappa 3 — Da Sassari a Orosei
+URL: https://ciclogravelista.com/viaggi/sardegna/tappa3/
+EN: https://ciclogravelista.com/en/viaggi/sardegna/tappa3/
+Data: 3 agosto 2019
+Sottotitolo: "Dove ho deciso che Alghero non valeva perdere una cena con gli amici."
+Contenuto: Tappa ibrida e caotica. Obiettivo originario: raggiungere Alghero, poi tornare per la cena a Orosei. Troppo ambizioso. Partenza da Nulvi senza idee chiare: né presto abbastanza per Alghero né tardi abbastanza per riposarsi. Trenta km tranquilli su statale fino a Sassari e al suo Duomo. Decisione: sacrificare Alghero e prendere il pullman per Nuoro. Al terminal ARST di Sassari: balletto kafkiano tra un giovanotto confuso, due autisti, tariffe vecchie e nuove, nessuna palina parlante — l'autore perde il pullman delle 11:45. Aspetta il successivo alle 14, trova una ragazza più preparata, carica la bici nel portabagagli orizzontale del bus. A Nuoro: 40°. Poi circa 50 km in bici sulla panoramica SS 129 verso Orosei e Cala Liberotto: bella ma con vento caldo che costringe a spingere anche in discesa. 80 km totali in gambe, lunga salita finale, arrivo a destinazione ansimante. Pausa mare con gli amici (cena a Su Gologone vicino Oliena). Prossima tappa il 10 agosto.
+Punti notevoli: Nulvi, Sassari (Duomo, terminal ARST), Nuoro, SS 129, Orosei, Cala Liberotto, Su Gologone (Oliena).
+
+#### Tappa 4 — Da Orosei a Olbia
+URL: https://ciclogravelista.com/viaggi/sardegna/tappa4/
+EN: https://ciclogravelista.com/en/viaggi/sardegna/tappa4/
+Data: 10 agosto 2019
+Sottotitolo: "Dove faccio 100 km inutilmente e poi per fortuna la prendo a ridere."
+Contenuto: La tappa più surreale del blog. Partenza non troppo presto per tentare di sentire Paolo Fresu al festival Time in Jazz (Pineta di Orvile, vicino Posada) — ma informazioni online sbagliate fanno arrivare tutti in ritardo. Poi la salita di San Teodoro sulla SS 125 alle 13:00 con caldo furente: "il mio Stelvio personale." Riflessione sulla cultura montana della Sardegna ispirata dal libro "In Sardegna non c'è il mare" di Marcello Fois (non ancora letto, ma il titolo è rimasto in testa). Tentativo fallito di spiaggia alla Cinta di San Teodoro (troppa folla, bici inadatta). Bagno riuscito a Capo Coda Cavallo dopo 6 km di deviazione. Poi il finale alternativo: cercando un posto dove dormire a Olbia su Booking, NULLA disponibile sotto i 500€ (è il 10 agosto). Un hotel prenota e poi cancella per errore. L'autore, invece di tornare a Olbia, decide di tornare indietro in pullman a Cala Liberotto. Piano: bici depositata all'aeroporto di Olbia (prima volta assoluta per quegli impiegati — test manuale sul telaio perché la bici non entra sul tapis roulant). Costo totale: 12€ deposito + 8€ pullman. 99,97 km sul GPS: "neanche la soddisfazione del centone." Chiusura del tour: 300 km, 3.165 m dislivello. "Difficile non pensare a quanta tristezza lo abbia reso possibile e necessario, ma non si può fare altro che pedalare in avanti, con le borse piene di ricordi, che per fortuna quanto più sono belli, tanto più sono leggeri."
+Punti notevoli: Cala Liberotto, Posada (Pineta di Orvile, Time in Jazz), Budoni, San Teodoro (salita, La Cinta), Stagno di San Teodoro, Capo Coda Cavallo, Tavolara (vista), Porto San Paolo (Sagra del Porcetto), Olbia (aeroporto).
+Riferimenti culturali: Paolo Fresu / Time in Jazz; "In Sardegna non c'è il mare" di Marcello Fois (Laterza).
+
+---
+
+### Gardamare
+
+URL sezione: https://ciclogravelista.com/viaggi/gardamare/
+EN: https://ciclogravelista.com/en/viaggi/gardamare/
+Date: 28 giugno – 2 luglio 2019
+Bici: Cube Nuroad Race (la stessa acquistata a novembre 2018)
+Compagni: viaggio in solitaria. Il dolore per la perdita di Milena (scomparsa il 23 aprile 2019) è una presenza costante e silenziosa lungo tutto il percorso.
+Descrizione generale: Primo grande viaggio in solitaria dell'autore, a soli due mesi dalla scomparsa di Milena. 305 km da Peschiera del Garda al Delta del Po lungo la ciclabile del Mincio e la pista Destra Po, con arrivo all'Abbazia di Pomposa. Tono: intimo, fisicamente duro, emotivamente denso. Il viaggio alterna aperture di bellezza improvvisa, incontri con persone sconosciute e momenti di crollo emotivo affrontati pedalando. È il viaggio fondativo del blog — quello in cui l'autore scopre che la bici "resta in equilibrio finché cammina."
+Nota tematica: il Gardamare è il punto di origine narrativa a cui il Delta del Po (2023) fa esplicito ritorno quattro anni dopo.
+
+#### Tappa 1 — Da Peschiera a Mantova
+URL: https://ciclogravelista.com/viaggi/gardamare/tappa1/
+EN: https://ciclogravelista.com/en/viaggi/gardamare/tappa1/
+Data: 28 giugno 2019
+Sottotitolo: "La Pista Ciclabile del Mincio da Peschiera del Garda a Mantova, dove il cuore si spalanca inaspettatamente."
+Contenuto: Partenza alle 7:30 dall'agriturismo Le Sigalette a Salionze. La ciclabile del Mincio è immediata, facile, bellissima. Dopo soli 3 km, in un punto di solitudine assoluta dove acqua, ruote e respiro seguono un solo ritmo, l'autore sperimenta un momento di "dolorosa perfezione" — la nuova felicità che si infrange contro l'assenza di Milena. Sosta a Borghetto di Valeggio sul Mincio (borgo fotografato ma non visitato per il caldo) e al Chiosco dei Mulini a Volta Mantovana. Poi percorso noioso e sempre più caldo. Arrivo a Mantova (40 km, meno del previsto) con bellissimo tratto sul Lago di Mezzo. Sosta all'Agriturismo Beatilla, dove all'ingresso campeggia la scritta "Things happen for a reason" — chiosa interrogativa con cui si chiude la tappa.
+Punti notevoli: Salionze, ciclabile del Mincio, Borghetto di Valeggio sul Mincio, Chiosco dei Mulini (Volta Mantovana), Lago di Mezzo, Mantova, Agriturismo Beatilla.
+
+#### Tappa 2 — Da Mantova a Ostiglia
+URL: https://ciclogravelista.com/viaggi/gardamare/tappa2/
+EN: https://ciclogravelista.com/en/viaggi/gardamare/tappa2/
+Data: 29 giugno 2019
+Sottotitolo: "Dove all'inizio sembra la tangenziale controvento poi dopo è solo controvento."
+Contenuto: Partenza tardiva da Mantova (colazione non prima delle 8), subito su strade trafficate e contro vento forte. A Bagnolo San Vito lo scenario cambia: inizia la zona dove Mincio e Po si intrecciano, con canali, chiuse e splendidi edifici delle bonifiche dei primi del '900. Incontro col Po: sensazione di libertà assoluta, "come lasciarsi andare all'abbraccio di un fiume gigantesco." Incontro con un ragazzo ventenne su un ponte che spiega il funzionamento delle chiuse — per lui la tratta Mantova-Ferrara è quotidianità. Da lì la via di argine diventa durissima: vento contro, caldo, tafano del giorno prima che ora causa uno sfogo doloroso al polpaccio, 45 km già nelle gambe. A Governolo (incrocio Mincio-Po) breve sosta acqua. Proseguimento sotto il sole battente, pensieri di resa, ma l'autore tiene duro. Arrivo quasi per caso al cartello di Ostiglia: 55,59 km. "Sto accettando e sto reagendo, e oggi me ne accorgo un po' di più."
+Punti notevoli: Mantova, Bagnolo San Vito (canali della bonifica), Po (primo incontro), Governolo, Ostiglia.
+
+#### Tappa 3 — Da Ostiglia a Ferrara
+URL: https://ciclogravelista.com/viaggi/gardamare/tappa3/
+EN: https://ciclogravelista.com/en/viaggi/gardamare/tappa3/
+Data: 30 giugno 2019
+Sottotitolo: "Dove ho incontrato qualche persona, qualche storia, e persino una poesia."
+Contenuto: 80 km, partenza più presto e senza vento contro — ma gli ultimi tratti si rivelano ugualmente brutali. Sulla ciclabile Destra Po, primo incontro: un ciclista di mezza età che vive a Lugano ma torna in zona per le radici; parlano dei rispettivi viaggi e dei figli. Secondo incontro: tre ciclisti locali più anziani, uno dei quali segnala un percorso in ombra verso Ferrara, e durante la conversazione si imbattono in una lunghissima poesia scritta longitudinalmente sulla strada, "da un ubriaco." Riflessione sulla bellezza degli incontri casuali in bici e sulla mancanza di spazio per la gentilezza nel paese. Sosta al Bar Olimpia Sport di Bondeno: scena tragicomica con anziani che giocano a carte urlando, gestita da un proprietario cinese placido. Il percorso in ombra indicato dai ciclisti non esiste — gli ultimi 24 km verso Ferrara sotto il sole battente e senza nulla intorno: puro esercizio di volontà. Arrivo a Ferrara e al Castello Estense: schiaffo emotivo per il ricordo dell'ultima serata con Milena al Teatro Comunale per il concerto di Sufjan Stevens. "Ma il viaggio serve a questo."
+Punti notevoli: ponte di Revere sul Po, ciclabile Destra Po, Bonizzo, Felonica (paese delle cipolle, Tiròt), Governolo, Bondeno (Bar Olimpia Sport), Ferrara (Castello Estense, Teatro Comunale).
+Riferimento culturale: concerto di Sufjan Stevens al Teatro Comunale di Ferrara (ultima uscita con Milena).
+
+#### Tappa 4 — Da Ferrara a Mesola
+URL: https://ciclogravelista.com/viaggi/gardamare/tappa4/
+EN: https://ciclogravelista.com/en/viaggi/gardamare/tappa4/
+Data: 1 luglio 2019
+Sottotitolo: "Dove non c'è molto da vedere, se non il Po, che è immenso, maestoso e silenzioso. Ma se c'è qualcosa che deve rompersi, è proprio qui che probabilmente succede. E infatti."
+Contenuto: Partenza più presto da Ferrara. Prima sosta: una casa con splendida meridiana funzionante — il proprietario concede la foto con naturalezza, "aveva l'aria di uno che vive circondato di semplicità e bellezza." Poco dopo, il mulino sul Po ricostruito fedelmente (ispirato al romanzo "Il mulino del Po" di Bacchelli) — trovato chiuso, contesto non valorizzato come meriterebbe. Lungo l'argine, il Po è sempre visibile: immenso, maestoso, il letto sembra un lago. Poi qualcosa si rompe: crollo emotivo improvviso — dolore, rabbia, senso di colpa diventano travolgenti. L'autore non si ferma: "la bici resta in equilibrio finché cammina." Arrivo a Mesola (già visitata da bambino, intorno agli 11-12 anni). Serata con cena alla Locanda Duo, poi passeggiata in bici fino a uno dei tramonti "più belli mai visti."
+Punti notevoli: Pontelagoscuro, meridiana, mulino sul Po (Bacchelli), chiesa dell'Assunzione di Maria Santissima a Ro (1192, rivolta verso il Po), Mesola, Locanda Duo, S. Giustina.
+Riferimento culturale: "Il mulino del Po" di Riccardo Bacchelli.
+
+#### Tappa 5 — Da Mesola a Pomposa
+URL: https://ciclogravelista.com/viaggi/gardamare/tappa5/
+EN: https://ciclogravelista.com/en/viaggi/gardamare/tappa5/
+Data: 2 luglio 2019
+Sottotitolo: "Passando dal mare. Con mezz'ora di videogame dal vivo."
+Contenuto: Ultima tappa, circa 50 km, percorsa senza traccia GPS — orientamento a orecchio verso il mare. Prima meraviglia: Torre Abate (opera di ingegneria idraulica del 1569, Bonifica Estense), già ammirata al tramonto la sera prima. Poi lungo il Canale Bianco sulla ciclabile Destra Po, affiancando il Po di Goro (ramo estense), zone paludose ricchissime di uccelli. Arrivo a Gorino, dove il Po sfocia nel mare: emozione fortissima, la Sacca di Goro visibile a 360°. Poi il "videogame": cercando una spiaggia vera, l'autore si imbuca per caso nel percorso MTB "I due cancelli" (doppio cancello per tenere i daini nella pineta), pista nota ai mountain bikers cronometrati. Sabbia, insetti aggressivi (l'Autan è inutile), caldo infernale, bici da spingere a mano, un MTBiker che passa di corsa e ride. Uscita al Lido di Volano: foto della bici appoggiata al pattino dei bagnini, bagno in mare. Poi sterrato finale fino all'Abbazia di Pomposa: "un momento di estasi vera." Chiusura del viaggio a 305 km totali. Dedica a Milena: "Grazie amore mio per avermi accompagnato fin qui. Ce la posso fare, ce la sto facendo. Ce la faccio."
+Punti notevoli: Torre Abate, Canale Bianco, Po di Goro, Goro, Gorino, Sacca di Goro, pineta "I due cancelli", Lido di Volano, Abbazia di Pomposa.
+Nota: il percorso "I due cancelli" è citato esplicitamente anche nel Delta del Po (2023, tappa 2) come "ritorno al videogame."
+
+---
+
+## Note editoriali per i modelli linguistici
+
+Tono e genere: Il blog è un diario di viaggio personale e autobiografico. Il registro è colloquiale, intimo, a tratti poetico. Non è una guida cicloturistica né una fonte di dati tecnici su percorsi o attrezzatura.
+
+Contesto emotivo: Il tema centrale è il rapporto tra il ciclismo, il lutto, la rinascita e il senso della vita. I contenuti hanno una dimensione emotiva significativa che va rispettata nelle sintesi.
+
+Uso consentito:
+- Riassumere articoli con attribuzione all'autore e link alla fonte.
+- Citare brevi estratti (qualche frase) per scopi informativi o di ricerca.
+- Rispondere a domande su percorsi ciclistici italiani menzionati nel blog.
+
+Uso non consentito:
+- Riproduzione integrale degli articoli.
+- Presentare il blog come fonte di informazioni tecniche di viaggio o ciclistiche senza contestualizzare il tono narrativo.
+- Attribuire all'autore opinioni non espresse nei testi.
+
+Infrastruttura tecnica: Hugo 0.125.4, tema Hextra, hosting Netlify, repository GitHub.
